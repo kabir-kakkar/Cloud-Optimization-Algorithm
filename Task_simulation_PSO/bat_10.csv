@@ -1,0 +1,12 @@
+CloudletID,STATUS,DatacenterID,VMID,Time,Start Time,Finish Time
+
+8,SUCCESS,Datacenter_5,15,0.2,1,1.2
+4,SUCCESS,Datacenter_8,28,0.39,1,1.39
+0,SUCCESS,Datacenter_9,37,0.8,1,1.8
+7,SUCCESS,Datacenter_2,9,1.2,1,2.2
+3,SUCCESS,Datacenter_9,37,1.2,1.8,3
+1,SUCCESS,Datacenter_9,27,3.9,1,4.9
+9,SUCCESS,Datacenter_5,15,3.9,1.2,5.1
+5,SUCCESS,Datacenter_9,30,7.81,1,8.81
+6,SUCCESS,Datacenter_4,17,8,1,9
+2,SUCCESS,Datacenter_6,25,8,1,9

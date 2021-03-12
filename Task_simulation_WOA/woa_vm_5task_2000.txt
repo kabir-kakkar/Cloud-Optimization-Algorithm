@@ -1,0 +1,6010 @@
+nullStarting CloudSimExample...
+Initialising...
+Starting CloudSim version 3.0
+Datacenter_0 is starting...
+Datacenter_1 is starting...
+Datacenter_2 is starting...
+Datacenter_3 is starting...
+Broker is starting...
+Entities started.
+0.0: Broker: Cloud Resource List received with 4 resource(s)
+0.0: Broker: Trying to Create VM #0 in Datacenter_0
+0.0: Broker: Trying to Create VM #1 in Datacenter_0
+0.0: Broker: Trying to Create VM #2 in Datacenter_0
+0.0: Broker: Trying to Create VM #3 in Datacenter_0
+0.0: Broker: Trying to Create VM #4 in Datacenter_0
+[VmScheduler.vmCreate] Allocation of VM #3 to Host #0 failed by MIPS
+[VmScheduler.vmCreate] Allocation of VM #4 to Host #0 failed by MIPS
+0.1: Broker: VM #0 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #1 has been created in Datacenter #2, Host #0
+0.1: Broker: VM #2 has been created in Datacenter #2, Host #0
+0.1: Broker: Creation of VM #3 failed in Datacenter #2
+0.1: Broker: Creation of VM #4 failed in Datacenter #2
+0.1: Broker: Trying to Create VM #3 in Datacenter_1
+0.1: Broker: Trying to Create VM #4 in Datacenter_1
+0.2: Broker: VM #3 has been created in Datacenter #3, Host #0
+0.2: Broker: VM #4 has been created in Datacenter #3, Host #0
+3
+0.2: Broker: Sending cloudlet 0 to VM #3
+4
+0.2: Broker: Sending cloudlet 1 to VM #4
+4
+0.2: Broker: Sending cloudlet 2 to VM #4
+4
+0.2: Broker: Sending cloudlet 3 to VM #4
+1
+0.2: Broker: Sending cloudlet 4 to VM #1
+4
+0.2: Broker: Sending cloudlet 5 to VM #4
+4
+0.2: Broker: Sending cloudlet 6 to VM #4
+3
+0.2: Broker: Sending cloudlet 7 to VM #3
+4
+0.2: Broker: Sending cloudlet 8 to VM #4
+1
+0.2: Broker: Sending cloudlet 9 to VM #1
+4
+0.2: Broker: Sending cloudlet 10 to VM #4
+3
+0.2: Broker: Sending cloudlet 11 to VM #3
+2
+0.2: Broker: Sending cloudlet 12 to VM #2
+2
+0.2: Broker: Sending cloudlet 13 to VM #2
+4
+0.2: Broker: Sending cloudlet 14 to VM #4
+2
+0.2: Broker: Sending cloudlet 15 to VM #2
+2
+0.2: Broker: Sending cloudlet 16 to VM #2
+3
+0.2: Broker: Sending cloudlet 17 to VM #3
+4
+0.2: Broker: Sending cloudlet 18 to VM #4
+3
+0.2: Broker: Sending cloudlet 19 to VM #3
+3
+0.2: Broker: Sending cloudlet 20 to VM #3
+3
+0.2: Broker: Sending cloudlet 21 to VM #3
+4
+0.2: Broker: Sending cloudlet 22 to VM #4
+4
+0.2: Broker: Sending cloudlet 23 to VM #4
+3
+0.2: Broker: Sending cloudlet 24 to VM #3
+0
+0.2: Broker: Sending cloudlet 25 to VM #0
+2
+0.2: Broker: Sending cloudlet 26 to VM #2
+1
+0.2: Broker: Sending cloudlet 27 to VM #1
+4
+0.2: Broker: Sending cloudlet 28 to VM #4
+3
+0.2: Broker: Sending cloudlet 29 to VM #3
+4
+0.2: Broker: Sending cloudlet 30 to VM #4
+4
+0.2: Broker: Sending cloudlet 31 to VM #4
+2
+0.2: Broker: Sending cloudlet 32 to VM #2
+2
+0.2: Broker: Sending cloudlet 33 to VM #2
+0
+0.2: Broker: Sending cloudlet 34 to VM #0
+0
+0.2: Broker: Sending cloudlet 35 to VM #0
+4
+0.2: Broker: Sending cloudlet 36 to VM #4
+4
+0.2: Broker: Sending cloudlet 37 to VM #4
+3
+0.2: Broker: Sending cloudlet 38 to VM #3
+3
+0.2: Broker: Sending cloudlet 39 to VM #3
+4
+0.2: Broker: Sending cloudlet 40 to VM #4
+1
+0.2: Broker: Sending cloudlet 41 to VM #1
+3
+0.2: Broker: Sending cloudlet 42 to VM #3
+2
+0.2: Broker: Sending cloudlet 43 to VM #2
+4
+0.2: Broker: Sending cloudlet 44 to VM #4
+4
+0.2: Broker: Sending cloudlet 45 to VM #4
+4
+0.2: Broker: Sending cloudlet 46 to VM #4
+3
+0.2: Broker: Sending cloudlet 47 to VM #3
+4
+0.2: Broker: Sending cloudlet 48 to VM #4
+4
+0.2: Broker: Sending cloudlet 49 to VM #4
+2
+0.2: Broker: Sending cloudlet 50 to VM #2
+4
+0.2: Broker: Sending cloudlet 51 to VM #4
+4
+0.2: Broker: Sending cloudlet 52 to VM #4
+3
+0.2: Broker: Sending cloudlet 53 to VM #3
+4
+0.2: Broker: Sending cloudlet 54 to VM #4
+3
+0.2: Broker: Sending cloudlet 55 to VM #3
+3
+0.2: Broker: Sending cloudlet 56 to VM #3
+4
+0.2: Broker: Sending cloudlet 57 to VM #4
+3
+0.2: Broker: Sending cloudlet 58 to VM #3
+1
+0.2: Broker: Sending cloudlet 59 to VM #1
+3
+0.2: Broker: Sending cloudlet 60 to VM #3
+0
+0.2: Broker: Sending cloudlet 61 to VM #0
+0
+0.2: Broker: Sending cloudlet 62 to VM #0
+4
+0.2: Broker: Sending cloudlet 63 to VM #4
+1
+0.2: Broker: Sending cloudlet 64 to VM #1
+3
+0.2: Broker: Sending cloudlet 65 to VM #3
+1
+0.2: Broker: Sending cloudlet 66 to VM #1
+1
+0.2: Broker: Sending cloudlet 67 to VM #1
+4
+0.2: Broker: Sending cloudlet 68 to VM #4
+4
+0.2: Broker: Sending cloudlet 69 to VM #4
+0
+0.2: Broker: Sending cloudlet 70 to VM #0
+2
+0.2: Broker: Sending cloudlet 71 to VM #2
+3
+0.2: Broker: Sending cloudlet 72 to VM #3
+3
+0.2: Broker: Sending cloudlet 73 to VM #3
+2
+0.2: Broker: Sending cloudlet 74 to VM #2
+4
+0.2: Broker: Sending cloudlet 75 to VM #4
+4
+0.2: Broker: Sending cloudlet 76 to VM #4
+4
+0.2: Broker: Sending cloudlet 77 to VM #4
+3
+0.2: Broker: Sending cloudlet 78 to VM #3
+2
+0.2: Broker: Sending cloudlet 79 to VM #2
+4
+0.2: Broker: Sending cloudlet 80 to VM #4
+2
+0.2: Broker: Sending cloudlet 81 to VM #2
+1
+0.2: Broker: Sending cloudlet 82 to VM #1
+4
+0.2: Broker: Sending cloudlet 83 to VM #4
+4
+0.2: Broker: Sending cloudlet 84 to VM #4
+2
+0.2: Broker: Sending cloudlet 85 to VM #2
+3
+0.2: Broker: Sending cloudlet 86 to VM #3
+2
+0.2: Broker: Sending cloudlet 87 to VM #2
+4
+0.2: Broker: Sending cloudlet 88 to VM #4
+4
+0.2: Broker: Sending cloudlet 89 to VM #4
+1
+0.2: Broker: Sending cloudlet 90 to VM #1
+3
+0.2: Broker: Sending cloudlet 91 to VM #3
+2
+0.2: Broker: Sending cloudlet 92 to VM #2
+4
+0.2: Broker: Sending cloudlet 93 to VM #4
+2
+0.2: Broker: Sending cloudlet 94 to VM #2
+3
+0.2: Broker: Sending cloudlet 95 to VM #3
+4
+0.2: Broker: Sending cloudlet 96 to VM #4
+3
+0.2: Broker: Sending cloudlet 97 to VM #3
+2
+0.2: Broker: Sending cloudlet 98 to VM #2
+2
+0.2: Broker: Sending cloudlet 99 to VM #2
+2
+0.2: Broker: Sending cloudlet 100 to VM #2
+4
+0.2: Broker: Sending cloudlet 101 to VM #4
+3
+0.2: Broker: Sending cloudlet 102 to VM #3
+4
+0.2: Broker: Sending cloudlet 103 to VM #4
+3
+0.2: Broker: Sending cloudlet 104 to VM #3
+4
+0.2: Broker: Sending cloudlet 105 to VM #4
+4
+0.2: Broker: Sending cloudlet 106 to VM #4
+1
+0.2: Broker: Sending cloudlet 107 to VM #1
+4
+0.2: Broker: Sending cloudlet 108 to VM #4
+3
+0.2: Broker: Sending cloudlet 109 to VM #3
+4
+0.2: Broker: Sending cloudlet 110 to VM #4
+2
+0.2: Broker: Sending cloudlet 111 to VM #2
+0
+0.2: Broker: Sending cloudlet 112 to VM #0
+3
+0.2: Broker: Sending cloudlet 113 to VM #3
+3
+0.2: Broker: Sending cloudlet 114 to VM #3
+3
+0.2: Broker: Sending cloudlet 115 to VM #3
+2
+0.2: Broker: Sending cloudlet 116 to VM #2
+4
+0.2: Broker: Sending cloudlet 117 to VM #4
+2
+0.2: Broker: Sending cloudlet 118 to VM #2
+0
+0.2: Broker: Sending cloudlet 119 to VM #0
+3
+0.2: Broker: Sending cloudlet 120 to VM #3
+2
+0.2: Broker: Sending cloudlet 121 to VM #2
+1
+0.2: Broker: Sending cloudlet 122 to VM #1
+2
+0.2: Broker: Sending cloudlet 123 to VM #2
+4
+0.2: Broker: Sending cloudlet 124 to VM #4
+2
+0.2: Broker: Sending cloudlet 125 to VM #2
+2
+0.2: Broker: Sending cloudlet 126 to VM #2
+4
+0.2: Broker: Sending cloudlet 127 to VM #4
+2
+0.2: Broker: Sending cloudlet 128 to VM #2
+3
+0.2: Broker: Sending cloudlet 129 to VM #3
+4
+0.2: Broker: Sending cloudlet 130 to VM #4
+4
+0.2: Broker: Sending cloudlet 131 to VM #4
+4
+0.2: Broker: Sending cloudlet 132 to VM #4
+4
+0.2: Broker: Sending cloudlet 133 to VM #4
+4
+0.2: Broker: Sending cloudlet 134 to VM #4
+1
+0.2: Broker: Sending cloudlet 135 to VM #1
+3
+0.2: Broker: Sending cloudlet 136 to VM #3
+2
+0.2: Broker: Sending cloudlet 137 to VM #2
+3
+0.2: Broker: Sending cloudlet 138 to VM #3
+4
+0.2: Broker: Sending cloudlet 139 to VM #4
+3
+0.2: Broker: Sending cloudlet 140 to VM #3
+0
+0.2: Broker: Sending cloudlet 141 to VM #0
+2
+0.2: Broker: Sending cloudlet 142 to VM #2
+4
+0.2: Broker: Sending cloudlet 143 to VM #4
+3
+0.2: Broker: Sending cloudlet 144 to VM #3
+1
+0.2: Broker: Sending cloudlet 145 to VM #1
+2
+0.2: Broker: Sending cloudlet 146 to VM #2
+2
+0.2: Broker: Sending cloudlet 147 to VM #2
+4
+0.2: Broker: Sending cloudlet 148 to VM #4
+2
+0.2: Broker: Sending cloudlet 149 to VM #2
+4
+0.2: Broker: Sending cloudlet 150 to VM #4
+4
+0.2: Broker: Sending cloudlet 151 to VM #4
+3
+0.2: Broker: Sending cloudlet 152 to VM #3
+3
+0.2: Broker: Sending cloudlet 153 to VM #3
+4
+0.2: Broker: Sending cloudlet 154 to VM #4
+4
+0.2: Broker: Sending cloudlet 155 to VM #4
+1
+0.2: Broker: Sending cloudlet 156 to VM #1
+2
+0.2: Broker: Sending cloudlet 157 to VM #2
+3
+0.2: Broker: Sending cloudlet 158 to VM #3
+1
+0.2: Broker: Sending cloudlet 159 to VM #1
+3
+0.2: Broker: Sending cloudlet 160 to VM #3
+3
+0.2: Broker: Sending cloudlet 161 to VM #3
+2
+0.2: Broker: Sending cloudlet 162 to VM #2
+4
+0.2: Broker: Sending cloudlet 163 to VM #4
+3
+0.2: Broker: Sending cloudlet 164 to VM #3
+1
+0.2: Broker: Sending cloudlet 165 to VM #1
+4
+0.2: Broker: Sending cloudlet 166 to VM #4
+2
+0.2: Broker: Sending cloudlet 167 to VM #2
+4
+0.2: Broker: Sending cloudlet 168 to VM #4
+4
+0.2: Broker: Sending cloudlet 169 to VM #4
+4
+0.2: Broker: Sending cloudlet 170 to VM #4
+2
+0.2: Broker: Sending cloudlet 171 to VM #2
+0
+0.2: Broker: Sending cloudlet 172 to VM #0
+4
+0.2: Broker: Sending cloudlet 173 to VM #4
+4
+0.2: Broker: Sending cloudlet 174 to VM #4
+1
+0.2: Broker: Sending cloudlet 175 to VM #1
+1
+0.2: Broker: Sending cloudlet 176 to VM #1
+1
+0.2: Broker: Sending cloudlet 177 to VM #1
+1
+0.2: Broker: Sending cloudlet 178 to VM #1
+2
+0.2: Broker: Sending cloudlet 179 to VM #2
+4
+0.2: Broker: Sending cloudlet 180 to VM #4
+2
+0.2: Broker: Sending cloudlet 181 to VM #2
+3
+0.2: Broker: Sending cloudlet 182 to VM #3
+3
+0.2: Broker: Sending cloudlet 183 to VM #3
+4
+0.2: Broker: Sending cloudlet 184 to VM #4
+4
+0.2: Broker: Sending cloudlet 185 to VM #4
+3
+0.2: Broker: Sending cloudlet 186 to VM #3
+4
+0.2: Broker: Sending cloudlet 187 to VM #4
+2
+0.2: Broker: Sending cloudlet 188 to VM #2
+1
+0.2: Broker: Sending cloudlet 189 to VM #1
+1
+0.2: Broker: Sending cloudlet 190 to VM #1
+4
+0.2: Broker: Sending cloudlet 191 to VM #4
+1
+0.2: Broker: Sending cloudlet 192 to VM #1
+3
+0.2: Broker: Sending cloudlet 193 to VM #3
+4
+0.2: Broker: Sending cloudlet 194 to VM #4
+3
+0.2: Broker: Sending cloudlet 195 to VM #3
+3
+0.2: Broker: Sending cloudlet 196 to VM #3
+2
+0.2: Broker: Sending cloudlet 197 to VM #2
+2
+0.2: Broker: Sending cloudlet 198 to VM #2
+4
+0.2: Broker: Sending cloudlet 199 to VM #4
+3
+0.2: Broker: Sending cloudlet 200 to VM #3
+1
+0.2: Broker: Sending cloudlet 201 to VM #1
+2
+0.2: Broker: Sending cloudlet 202 to VM #2
+4
+0.2: Broker: Sending cloudlet 203 to VM #4
+4
+0.2: Broker: Sending cloudlet 204 to VM #4
+4
+0.2: Broker: Sending cloudlet 205 to VM #4
+3
+0.2: Broker: Sending cloudlet 206 to VM #3
+3
+0.2: Broker: Sending cloudlet 207 to VM #3
+3
+0.2: Broker: Sending cloudlet 208 to VM #3
+1
+0.2: Broker: Sending cloudlet 209 to VM #1
+4
+0.2: Broker: Sending cloudlet 210 to VM #4
+4
+0.2: Broker: Sending cloudlet 211 to VM #4
+1
+0.2: Broker: Sending cloudlet 212 to VM #1
+4
+0.2: Broker: Sending cloudlet 213 to VM #4
+4
+0.2: Broker: Sending cloudlet 214 to VM #4
+3
+0.2: Broker: Sending cloudlet 215 to VM #3
+3
+0.2: Broker: Sending cloudlet 216 to VM #3
+4
+0.2: Broker: Sending cloudlet 217 to VM #4
+0
+0.2: Broker: Sending cloudlet 218 to VM #0
+3
+0.2: Broker: Sending cloudlet 219 to VM #3
+2
+0.2: Broker: Sending cloudlet 220 to VM #2
+4
+0.2: Broker: Sending cloudlet 221 to VM #4
+2
+0.2: Broker: Sending cloudlet 222 to VM #2
+4
+0.2: Broker: Sending cloudlet 223 to VM #4
+4
+0.2: Broker: Sending cloudlet 224 to VM #4
+2
+0.2: Broker: Sending cloudlet 225 to VM #2
+2
+0.2: Broker: Sending cloudlet 226 to VM #2
+4
+0.2: Broker: Sending cloudlet 227 to VM #4
+4
+0.2: Broker: Sending cloudlet 228 to VM #4
+1
+0.2: Broker: Sending cloudlet 229 to VM #1
+4
+0.2: Broker: Sending cloudlet 230 to VM #4
+2
+0.2: Broker: Sending cloudlet 231 to VM #2
+4
+0.2: Broker: Sending cloudlet 232 to VM #4
+0
+0.2: Broker: Sending cloudlet 233 to VM #0
+3
+0.2: Broker: Sending cloudlet 234 to VM #3
+3
+0.2: Broker: Sending cloudlet 235 to VM #3
+4
+0.2: Broker: Sending cloudlet 236 to VM #4
+4
+0.2: Broker: Sending cloudlet 237 to VM #4
+2
+0.2: Broker: Sending cloudlet 238 to VM #2
+3
+0.2: Broker: Sending cloudlet 239 to VM #3
+4
+0.2: Broker: Sending cloudlet 240 to VM #4
+2
+0.2: Broker: Sending cloudlet 241 to VM #2
+2
+0.2: Broker: Sending cloudlet 242 to VM #2
+3
+0.2: Broker: Sending cloudlet 243 to VM #3
+1
+0.2: Broker: Sending cloudlet 244 to VM #1
+4
+0.2: Broker: Sending cloudlet 245 to VM #4
+3
+0.2: Broker: Sending cloudlet 246 to VM #3
+3
+0.2: Broker: Sending cloudlet 247 to VM #3
+1
+0.2: Broker: Sending cloudlet 248 to VM #1
+1
+0.2: Broker: Sending cloudlet 249 to VM #1
+4
+0.2: Broker: Sending cloudlet 250 to VM #4
+4
+0.2: Broker: Sending cloudlet 251 to VM #4
+4
+0.2: Broker: Sending cloudlet 252 to VM #4
+3
+0.2: Broker: Sending cloudlet 253 to VM #3
+1
+0.2: Broker: Sending cloudlet 254 to VM #1
+4
+0.2: Broker: Sending cloudlet 255 to VM #4
+4
+0.2: Broker: Sending cloudlet 256 to VM #4
+1
+0.2: Broker: Sending cloudlet 257 to VM #1
+4
+0.2: Broker: Sending cloudlet 258 to VM #4
+4
+0.2: Broker: Sending cloudlet 259 to VM #4
+4
+0.2: Broker: Sending cloudlet 260 to VM #4
+4
+0.2: Broker: Sending cloudlet 261 to VM #4
+2
+0.2: Broker: Sending cloudlet 262 to VM #2
+2
+0.2: Broker: Sending cloudlet 263 to VM #2
+4
+0.2: Broker: Sending cloudlet 264 to VM #4
+4
+0.2: Broker: Sending cloudlet 265 to VM #4
+4
+0.2: Broker: Sending cloudlet 266 to VM #4
+4
+0.2: Broker: Sending cloudlet 267 to VM #4
+1
+0.2: Broker: Sending cloudlet 268 to VM #1
+4
+0.2: Broker: Sending cloudlet 269 to VM #4
+3
+0.2: Broker: Sending cloudlet 270 to VM #3
+3
+0.2: Broker: Sending cloudlet 271 to VM #3
+0
+0.2: Broker: Sending cloudlet 272 to VM #0
+1
+0.2: Broker: Sending cloudlet 273 to VM #1
+4
+0.2: Broker: Sending cloudlet 274 to VM #4
+3
+0.2: Broker: Sending cloudlet 275 to VM #3
+4
+0.2: Broker: Sending cloudlet 276 to VM #4
+2
+0.2: Broker: Sending cloudlet 277 to VM #2
+3
+0.2: Broker: Sending cloudlet 278 to VM #3
+3
+0.2: Broker: Sending cloudlet 279 to VM #3
+4
+0.2: Broker: Sending cloudlet 280 to VM #4
+3
+0.2: Broker: Sending cloudlet 281 to VM #3
+0
+0.2: Broker: Sending cloudlet 282 to VM #0
+3
+0.2: Broker: Sending cloudlet 283 to VM #3
+3
+0.2: Broker: Sending cloudlet 284 to VM #3
+2
+0.2: Broker: Sending cloudlet 285 to VM #2
+4
+0.2: Broker: Sending cloudlet 286 to VM #4
+3
+0.2: Broker: Sending cloudlet 287 to VM #3
+4
+0.2: Broker: Sending cloudlet 288 to VM #4
+2
+0.2: Broker: Sending cloudlet 289 to VM #2
+2
+0.2: Broker: Sending cloudlet 290 to VM #2
+2
+0.2: Broker: Sending cloudlet 291 to VM #2
+4
+0.2: Broker: Sending cloudlet 292 to VM #4
+2
+0.2: Broker: Sending cloudlet 293 to VM #2
+4
+0.2: Broker: Sending cloudlet 294 to VM #4
+4
+0.2: Broker: Sending cloudlet 295 to VM #4
+2
+0.2: Broker: Sending cloudlet 296 to VM #2
+3
+0.2: Broker: Sending cloudlet 297 to VM #3
+3
+0.2: Broker: Sending cloudlet 298 to VM #3
+4
+0.2: Broker: Sending cloudlet 299 to VM #4
+1
+0.2: Broker: Sending cloudlet 300 to VM #1
+1
+0.2: Broker: Sending cloudlet 301 to VM #1
+0
+0.2: Broker: Sending cloudlet 302 to VM #0
+4
+0.2: Broker: Sending cloudlet 303 to VM #4
+3
+0.2: Broker: Sending cloudlet 304 to VM #3
+4
+0.2: Broker: Sending cloudlet 305 to VM #4
+4
+0.2: Broker: Sending cloudlet 306 to VM #4
+1
+0.2: Broker: Sending cloudlet 307 to VM #1
+1
+0.2: Broker: Sending cloudlet 308 to VM #1
+4
+0.2: Broker: Sending cloudlet 309 to VM #4
+4
+0.2: Broker: Sending cloudlet 310 to VM #4
+4
+0.2: Broker: Sending cloudlet 311 to VM #4
+2
+0.2: Broker: Sending cloudlet 312 to VM #2
+3
+0.2: Broker: Sending cloudlet 313 to VM #3
+2
+0.2: Broker: Sending cloudlet 314 to VM #2
+3
+0.2: Broker: Sending cloudlet 315 to VM #3
+2
+0.2: Broker: Sending cloudlet 316 to VM #2
+1
+0.2: Broker: Sending cloudlet 317 to VM #1
+2
+0.2: Broker: Sending cloudlet 318 to VM #2
+3
+0.2: Broker: Sending cloudlet 319 to VM #3
+2
+0.2: Broker: Sending cloudlet 320 to VM #2
+2
+0.2: Broker: Sending cloudlet 321 to VM #2
+3
+0.2: Broker: Sending cloudlet 322 to VM #3
+4
+0.2: Broker: Sending cloudlet 323 to VM #4
+3
+0.2: Broker: Sending cloudlet 324 to VM #3
+4
+0.2: Broker: Sending cloudlet 325 to VM #4
+0
+0.2: Broker: Sending cloudlet 326 to VM #0
+3
+0.2: Broker: Sending cloudlet 327 to VM #3
+4
+0.2: Broker: Sending cloudlet 328 to VM #4
+3
+0.2: Broker: Sending cloudlet 329 to VM #3
+1
+0.2: Broker: Sending cloudlet 330 to VM #1
+2
+0.2: Broker: Sending cloudlet 331 to VM #2
+3
+0.2: Broker: Sending cloudlet 332 to VM #3
+3
+0.2: Broker: Sending cloudlet 333 to VM #3
+4
+0.2: Broker: Sending cloudlet 334 to VM #4
+3
+0.2: Broker: Sending cloudlet 335 to VM #3
+1
+0.2: Broker: Sending cloudlet 336 to VM #1
+3
+0.2: Broker: Sending cloudlet 337 to VM #3
+3
+0.2: Broker: Sending cloudlet 338 to VM #3
+1
+0.2: Broker: Sending cloudlet 339 to VM #1
+3
+0.2: Broker: Sending cloudlet 340 to VM #3
+4
+0.2: Broker: Sending cloudlet 341 to VM #4
+2
+0.2: Broker: Sending cloudlet 342 to VM #2
+3
+0.2: Broker: Sending cloudlet 343 to VM #3
+4
+0.2: Broker: Sending cloudlet 344 to VM #4
+2
+0.2: Broker: Sending cloudlet 345 to VM #2
+3
+0.2: Broker: Sending cloudlet 346 to VM #3
+3
+0.2: Broker: Sending cloudlet 347 to VM #3
+0
+0.2: Broker: Sending cloudlet 348 to VM #0
+2
+0.2: Broker: Sending cloudlet 349 to VM #2
+4
+0.2: Broker: Sending cloudlet 350 to VM #4
+3
+0.2: Broker: Sending cloudlet 351 to VM #3
+1
+0.2: Broker: Sending cloudlet 352 to VM #1
+2
+0.2: Broker: Sending cloudlet 353 to VM #2
+4
+0.2: Broker: Sending cloudlet 354 to VM #4
+2
+0.2: Broker: Sending cloudlet 355 to VM #2
+2
+0.2: Broker: Sending cloudlet 356 to VM #2
+2
+0.2: Broker: Sending cloudlet 357 to VM #2
+2
+0.2: Broker: Sending cloudlet 358 to VM #2
+4
+0.2: Broker: Sending cloudlet 359 to VM #4
+4
+0.2: Broker: Sending cloudlet 360 to VM #4
+4
+0.2: Broker: Sending cloudlet 361 to VM #4
+2
+0.2: Broker: Sending cloudlet 362 to VM #2
+1
+0.2: Broker: Sending cloudlet 363 to VM #1
+4
+0.2: Broker: Sending cloudlet 364 to VM #4
+3
+0.2: Broker: Sending cloudlet 365 to VM #3
+1
+0.2: Broker: Sending cloudlet 366 to VM #1
+2
+0.2: Broker: Sending cloudlet 367 to VM #2
+3
+0.2: Broker: Sending cloudlet 368 to VM #3
+4
+0.2: Broker: Sending cloudlet 369 to VM #4
+2
+0.2: Broker: Sending cloudlet 370 to VM #2
+1
+0.2: Broker: Sending cloudlet 371 to VM #1
+2
+0.2: Broker: Sending cloudlet 372 to VM #2
+4
+0.2: Broker: Sending cloudlet 373 to VM #4
+4
+0.2: Broker: Sending cloudlet 374 to VM #4
+2
+0.2: Broker: Sending cloudlet 375 to VM #2
+2
+0.2: Broker: Sending cloudlet 376 to VM #2
+3
+0.2: Broker: Sending cloudlet 377 to VM #3
+4
+0.2: Broker: Sending cloudlet 378 to VM #4
+4
+0.2: Broker: Sending cloudlet 379 to VM #4
+3
+0.2: Broker: Sending cloudlet 380 to VM #3
+2
+0.2: Broker: Sending cloudlet 381 to VM #2
+0
+0.2: Broker: Sending cloudlet 382 to VM #0
+4
+0.2: Broker: Sending cloudlet 383 to VM #4
+4
+0.2: Broker: Sending cloudlet 384 to VM #4
+4
+0.2: Broker: Sending cloudlet 385 to VM #4
+4
+0.2: Broker: Sending cloudlet 386 to VM #4
+2
+0.2: Broker: Sending cloudlet 387 to VM #2
+3
+0.2: Broker: Sending cloudlet 388 to VM #3
+3
+0.2: Broker: Sending cloudlet 389 to VM #3
+2
+0.2: Broker: Sending cloudlet 390 to VM #2
+2
+0.2: Broker: Sending cloudlet 391 to VM #2
+4
+0.2: Broker: Sending cloudlet 392 to VM #4
+3
+0.2: Broker: Sending cloudlet 393 to VM #3
+3
+0.2: Broker: Sending cloudlet 394 to VM #3
+2
+0.2: Broker: Sending cloudlet 395 to VM #2
+3
+0.2: Broker: Sending cloudlet 396 to VM #3
+3
+0.2: Broker: Sending cloudlet 397 to VM #3
+1
+0.2: Broker: Sending cloudlet 398 to VM #1
+4
+0.2: Broker: Sending cloudlet 399 to VM #4
+3
+0.2: Broker: Sending cloudlet 400 to VM #3
+4
+0.2: Broker: Sending cloudlet 401 to VM #4
+3
+0.2: Broker: Sending cloudlet 402 to VM #3
+2
+0.2: Broker: Sending cloudlet 403 to VM #2
+2
+0.2: Broker: Sending cloudlet 404 to VM #2
+4
+0.2: Broker: Sending cloudlet 405 to VM #4
+2
+0.2: Broker: Sending cloudlet 406 to VM #2
+2
+0.2: Broker: Sending cloudlet 407 to VM #2
+4
+0.2: Broker: Sending cloudlet 408 to VM #4
+1
+0.2: Broker: Sending cloudlet 409 to VM #1
+3
+0.2: Broker: Sending cloudlet 410 to VM #3
+4
+0.2: Broker: Sending cloudlet 411 to VM #4
+4
+0.2: Broker: Sending cloudlet 412 to VM #4
+4
+0.2: Broker: Sending cloudlet 413 to VM #4
+4
+0.2: Broker: Sending cloudlet 414 to VM #4
+1
+0.2: Broker: Sending cloudlet 415 to VM #1
+4
+0.2: Broker: Sending cloudlet 416 to VM #4
+4
+0.2: Broker: Sending cloudlet 417 to VM #4
+2
+0.2: Broker: Sending cloudlet 418 to VM #2
+3
+0.2: Broker: Sending cloudlet 419 to VM #3
+4
+0.2: Broker: Sending cloudlet 420 to VM #4
+3
+0.2: Broker: Sending cloudlet 421 to VM #3
+2
+0.2: Broker: Sending cloudlet 422 to VM #2
+4
+0.2: Broker: Sending cloudlet 423 to VM #4
+2
+0.2: Broker: Sending cloudlet 424 to VM #2
+4
+0.2: Broker: Sending cloudlet 425 to VM #4
+3
+0.2: Broker: Sending cloudlet 426 to VM #3
+4
+0.2: Broker: Sending cloudlet 427 to VM #4
+4
+0.2: Broker: Sending cloudlet 428 to VM #4
+4
+0.2: Broker: Sending cloudlet 429 to VM #4
+4
+0.2: Broker: Sending cloudlet 430 to VM #4
+1
+0.2: Broker: Sending cloudlet 431 to VM #1
+0
+0.2: Broker: Sending cloudlet 432 to VM #0
+4
+0.2: Broker: Sending cloudlet 433 to VM #4
+4
+0.2: Broker: Sending cloudlet 434 to VM #4
+2
+0.2: Broker: Sending cloudlet 435 to VM #2
+4
+0.2: Broker: Sending cloudlet 436 to VM #4
+1
+0.2: Broker: Sending cloudlet 437 to VM #1
+1
+0.2: Broker: Sending cloudlet 438 to VM #1
+4
+0.2: Broker: Sending cloudlet 439 to VM #4
+4
+0.2: Broker: Sending cloudlet 440 to VM #4
+4
+0.2: Broker: Sending cloudlet 441 to VM #4
+4
+0.2: Broker: Sending cloudlet 442 to VM #4
+3
+0.2: Broker: Sending cloudlet 443 to VM #3
+4
+0.2: Broker: Sending cloudlet 444 to VM #4
+1
+0.2: Broker: Sending cloudlet 445 to VM #1
+3
+0.2: Broker: Sending cloudlet 446 to VM #3
+4
+0.2: Broker: Sending cloudlet 447 to VM #4
+1
+0.2: Broker: Sending cloudlet 448 to VM #1
+3
+0.2: Broker: Sending cloudlet 449 to VM #3
+3
+0.2: Broker: Sending cloudlet 450 to VM #3
+4
+0.2: Broker: Sending cloudlet 451 to VM #4
+0
+0.2: Broker: Sending cloudlet 452 to VM #0
+3
+0.2: Broker: Sending cloudlet 453 to VM #3
+1
+0.2: Broker: Sending cloudlet 454 to VM #1
+4
+0.2: Broker: Sending cloudlet 455 to VM #4
+3
+0.2: Broker: Sending cloudlet 456 to VM #3
+3
+0.2: Broker: Sending cloudlet 457 to VM #3
+4
+0.2: Broker: Sending cloudlet 458 to VM #4
+4
+0.2: Broker: Sending cloudlet 459 to VM #4
+0
+0.2: Broker: Sending cloudlet 460 to VM #0
+4
+0.2: Broker: Sending cloudlet 461 to VM #4
+4
+0.2: Broker: Sending cloudlet 462 to VM #4
+4
+0.2: Broker: Sending cloudlet 463 to VM #4
+4
+0.2: Broker: Sending cloudlet 464 to VM #4
+3
+0.2: Broker: Sending cloudlet 465 to VM #3
+0
+0.2: Broker: Sending cloudlet 466 to VM #0
+3
+0.2: Broker: Sending cloudlet 467 to VM #3
+2
+0.2: Broker: Sending cloudlet 468 to VM #2
+3
+0.2: Broker: Sending cloudlet 469 to VM #3
+4
+0.2: Broker: Sending cloudlet 470 to VM #4
+3
+0.2: Broker: Sending cloudlet 471 to VM #3
+4
+0.2: Broker: Sending cloudlet 472 to VM #4
+3
+0.2: Broker: Sending cloudlet 473 to VM #3
+3
+0.2: Broker: Sending cloudlet 474 to VM #3
+4
+0.2: Broker: Sending cloudlet 475 to VM #4
+2
+0.2: Broker: Sending cloudlet 476 to VM #2
+2
+0.2: Broker: Sending cloudlet 477 to VM #2
+2
+0.2: Broker: Sending cloudlet 478 to VM #2
+1
+0.2: Broker: Sending cloudlet 479 to VM #1
+2
+0.2: Broker: Sending cloudlet 480 to VM #2
+4
+0.2: Broker: Sending cloudlet 481 to VM #4
+3
+0.2: Broker: Sending cloudlet 482 to VM #3
+2
+0.2: Broker: Sending cloudlet 483 to VM #2
+2
+0.2: Broker: Sending cloudlet 484 to VM #2
+1
+0.2: Broker: Sending cloudlet 485 to VM #1
+2
+0.2: Broker: Sending cloudlet 486 to VM #2
+4
+0.2: Broker: Sending cloudlet 487 to VM #4
+4
+0.2: Broker: Sending cloudlet 488 to VM #4
+2
+0.2: Broker: Sending cloudlet 489 to VM #2
+3
+0.2: Broker: Sending cloudlet 490 to VM #3
+1
+0.2: Broker: Sending cloudlet 491 to VM #1
+3
+0.2: Broker: Sending cloudlet 492 to VM #3
+2
+0.2: Broker: Sending cloudlet 493 to VM #2
+1
+0.2: Broker: Sending cloudlet 494 to VM #1
+2
+0.2: Broker: Sending cloudlet 495 to VM #2
+2
+0.2: Broker: Sending cloudlet 496 to VM #2
+2
+0.2: Broker: Sending cloudlet 497 to VM #2
+4
+0.2: Broker: Sending cloudlet 498 to VM #4
+4
+0.2: Broker: Sending cloudlet 499 to VM #4
+3
+0.2: Broker: Sending cloudlet 500 to VM #3
+0
+0.2: Broker: Sending cloudlet 501 to VM #0
+4
+0.2: Broker: Sending cloudlet 502 to VM #4
+2
+0.2: Broker: Sending cloudlet 503 to VM #2
+4
+0.2: Broker: Sending cloudlet 504 to VM #4
+3
+0.2: Broker: Sending cloudlet 505 to VM #3
+3
+0.2: Broker: Sending cloudlet 506 to VM #3
+3
+0.2: Broker: Sending cloudlet 507 to VM #3
+2
+0.2: Broker: Sending cloudlet 508 to VM #2
+4
+0.2: Broker: Sending cloudlet 509 to VM #4
+3
+0.2: Broker: Sending cloudlet 510 to VM #3
+4
+0.2: Broker: Sending cloudlet 511 to VM #4
+1
+0.2: Broker: Sending cloudlet 512 to VM #1
+4
+0.2: Broker: Sending cloudlet 513 to VM #4
+3
+0.2: Broker: Sending cloudlet 514 to VM #3
+3
+0.2: Broker: Sending cloudlet 515 to VM #3
+4
+0.2: Broker: Sending cloudlet 516 to VM #4
+4
+0.2: Broker: Sending cloudlet 517 to VM #4
+4
+0.2: Broker: Sending cloudlet 518 to VM #4
+4
+0.2: Broker: Sending cloudlet 519 to VM #4
+4
+0.2: Broker: Sending cloudlet 520 to VM #4
+3
+0.2: Broker: Sending cloudlet 521 to VM #3
+2
+0.2: Broker: Sending cloudlet 522 to VM #2
+4
+0.2: Broker: Sending cloudlet 523 to VM #4
+3
+0.2: Broker: Sending cloudlet 524 to VM #3
+4
+0.2: Broker: Sending cloudlet 525 to VM #4
+4
+0.2: Broker: Sending cloudlet 526 to VM #4
+0
+0.2: Broker: Sending cloudlet 527 to VM #0
+2
+0.2: Broker: Sending cloudlet 528 to VM #2
+2
+0.2: Broker: Sending cloudlet 529 to VM #2
+4
+0.2: Broker: Sending cloudlet 530 to VM #4
+1
+0.2: Broker: Sending cloudlet 531 to VM #1
+2
+0.2: Broker: Sending cloudlet 532 to VM #2
+4
+0.2: Broker: Sending cloudlet 533 to VM #4
+4
+0.2: Broker: Sending cloudlet 534 to VM #4
+4
+0.2: Broker: Sending cloudlet 535 to VM #4
+2
+0.2: Broker: Sending cloudlet 536 to VM #2
+2
+0.2: Broker: Sending cloudlet 537 to VM #2
+1
+0.2: Broker: Sending cloudlet 538 to VM #1
+4
+0.2: Broker: Sending cloudlet 539 to VM #4
+1
+0.2: Broker: Sending cloudlet 540 to VM #1
+4
+0.2: Broker: Sending cloudlet 541 to VM #4
+4
+0.2: Broker: Sending cloudlet 542 to VM #4
+2
+0.2: Broker: Sending cloudlet 543 to VM #2
+4
+0.2: Broker: Sending cloudlet 544 to VM #4
+2
+0.2: Broker: Sending cloudlet 545 to VM #2
+4
+0.2: Broker: Sending cloudlet 546 to VM #4
+2
+0.2: Broker: Sending cloudlet 547 to VM #2
+4
+0.2: Broker: Sending cloudlet 548 to VM #4
+4
+0.2: Broker: Sending cloudlet 549 to VM #4
+4
+0.2: Broker: Sending cloudlet 550 to VM #4
+4
+0.2: Broker: Sending cloudlet 551 to VM #4
+4
+0.2: Broker: Sending cloudlet 552 to VM #4
+3
+0.2: Broker: Sending cloudlet 553 to VM #3
+4
+0.2: Broker: Sending cloudlet 554 to VM #4
+4
+0.2: Broker: Sending cloudlet 555 to VM #4
+4
+0.2: Broker: Sending cloudlet 556 to VM #4
+3
+0.2: Broker: Sending cloudlet 557 to VM #3
+2
+0.2: Broker: Sending cloudlet 558 to VM #2
+3
+0.2: Broker: Sending cloudlet 559 to VM #3
+4
+0.2: Broker: Sending cloudlet 560 to VM #4
+3
+0.2: Broker: Sending cloudlet 561 to VM #3
+2
+0.2: Broker: Sending cloudlet 562 to VM #2
+4
+0.2: Broker: Sending cloudlet 563 to VM #4
+4
+0.2: Broker: Sending cloudlet 564 to VM #4
+4
+0.2: Broker: Sending cloudlet 565 to VM #4
+3
+0.2: Broker: Sending cloudlet 566 to VM #3
+2
+0.2: Broker: Sending cloudlet 567 to VM #2
+3
+0.2: Broker: Sending cloudlet 568 to VM #3
+3
+0.2: Broker: Sending cloudlet 569 to VM #3
+4
+0.2: Broker: Sending cloudlet 570 to VM #4
+4
+0.2: Broker: Sending cloudlet 571 to VM #4
+4
+0.2: Broker: Sending cloudlet 572 to VM #4
+2
+0.2: Broker: Sending cloudlet 573 to VM #2
+2
+0.2: Broker: Sending cloudlet 574 to VM #2
+4
+0.2: Broker: Sending cloudlet 575 to VM #4
+2
+0.2: Broker: Sending cloudlet 576 to VM #2
+4
+0.2: Broker: Sending cloudlet 577 to VM #4
+3
+0.2: Broker: Sending cloudlet 578 to VM #3
+2
+0.2: Broker: Sending cloudlet 579 to VM #2
+4
+0.2: Broker: Sending cloudlet 580 to VM #4
+1
+0.2: Broker: Sending cloudlet 581 to VM #1
+0
+0.2: Broker: Sending cloudlet 582 to VM #0
+3
+0.2: Broker: Sending cloudlet 583 to VM #3
+2
+0.2: Broker: Sending cloudlet 584 to VM #2
+3
+0.2: Broker: Sending cloudlet 585 to VM #3
+2
+0.2: Broker: Sending cloudlet 586 to VM #2
+4
+0.2: Broker: Sending cloudlet 587 to VM #4
+4
+0.2: Broker: Sending cloudlet 588 to VM #4
+4
+0.2: Broker: Sending cloudlet 589 to VM #4
+1
+0.2: Broker: Sending cloudlet 590 to VM #1
+3
+0.2: Broker: Sending cloudlet 591 to VM #3
+4
+0.2: Broker: Sending cloudlet 592 to VM #4
+2
+0.2: Broker: Sending cloudlet 593 to VM #2
+2
+0.2: Broker: Sending cloudlet 594 to VM #2
+2
+0.2: Broker: Sending cloudlet 595 to VM #2
+1
+0.2: Broker: Sending cloudlet 596 to VM #1
+3
+0.2: Broker: Sending cloudlet 597 to VM #3
+4
+0.2: Broker: Sending cloudlet 598 to VM #4
+3
+0.2: Broker: Sending cloudlet 599 to VM #3
+3
+0.2: Broker: Sending cloudlet 600 to VM #3
+3
+0.2: Broker: Sending cloudlet 601 to VM #3
+2
+0.2: Broker: Sending cloudlet 602 to VM #2
+4
+0.2: Broker: Sending cloudlet 603 to VM #4
+4
+0.2: Broker: Sending cloudlet 604 to VM #4
+4
+0.2: Broker: Sending cloudlet 605 to VM #4
+3
+0.2: Broker: Sending cloudlet 606 to VM #3
+1
+0.2: Broker: Sending cloudlet 607 to VM #1
+4
+0.2: Broker: Sending cloudlet 608 to VM #4
+4
+0.2: Broker: Sending cloudlet 609 to VM #4
+2
+0.2: Broker: Sending cloudlet 610 to VM #2
+3
+0.2: Broker: Sending cloudlet 611 to VM #3
+2
+0.2: Broker: Sending cloudlet 612 to VM #2
+4
+0.2: Broker: Sending cloudlet 613 to VM #4
+3
+0.2: Broker: Sending cloudlet 614 to VM #3
+1
+0.2: Broker: Sending cloudlet 615 to VM #1
+4
+0.2: Broker: Sending cloudlet 616 to VM #4
+2
+0.2: Broker: Sending cloudlet 617 to VM #2
+3
+0.2: Broker: Sending cloudlet 618 to VM #3
+1
+0.2: Broker: Sending cloudlet 619 to VM #1
+3
+0.2: Broker: Sending cloudlet 620 to VM #3
+4
+0.2: Broker: Sending cloudlet 621 to VM #4
+2
+0.2: Broker: Sending cloudlet 622 to VM #2
+3
+0.2: Broker: Sending cloudlet 623 to VM #3
+3
+0.2: Broker: Sending cloudlet 624 to VM #3
+4
+0.2: Broker: Sending cloudlet 625 to VM #4
+2
+0.2: Broker: Sending cloudlet 626 to VM #2
+4
+0.2: Broker: Sending cloudlet 627 to VM #4
+3
+0.2: Broker: Sending cloudlet 628 to VM #3
+3
+0.2: Broker: Sending cloudlet 629 to VM #3
+2
+0.2: Broker: Sending cloudlet 630 to VM #2
+3
+0.2: Broker: Sending cloudlet 631 to VM #3
+3
+0.2: Broker: Sending cloudlet 632 to VM #3
+4
+0.2: Broker: Sending cloudlet 633 to VM #4
+3
+0.2: Broker: Sending cloudlet 634 to VM #3
+4
+0.2: Broker: Sending cloudlet 635 to VM #4
+1
+0.2: Broker: Sending cloudlet 636 to VM #1
+4
+0.2: Broker: Sending cloudlet 637 to VM #4
+3
+0.2: Broker: Sending cloudlet 638 to VM #3
+3
+0.2: Broker: Sending cloudlet 639 to VM #3
+4
+0.2: Broker: Sending cloudlet 640 to VM #4
+2
+0.2: Broker: Sending cloudlet 641 to VM #2
+2
+0.2: Broker: Sending cloudlet 642 to VM #2
+2
+0.2: Broker: Sending cloudlet 643 to VM #2
+4
+0.2: Broker: Sending cloudlet 644 to VM #4
+4
+0.2: Broker: Sending cloudlet 645 to VM #4
+2
+0.2: Broker: Sending cloudlet 646 to VM #2
+4
+0.2: Broker: Sending cloudlet 647 to VM #4
+2
+0.2: Broker: Sending cloudlet 648 to VM #2
+2
+0.2: Broker: Sending cloudlet 649 to VM #2
+3
+0.2: Broker: Sending cloudlet 650 to VM #3
+4
+0.2: Broker: Sending cloudlet 651 to VM #4
+2
+0.2: Broker: Sending cloudlet 652 to VM #2
+4
+0.2: Broker: Sending cloudlet 653 to VM #4
+3
+0.2: Broker: Sending cloudlet 654 to VM #3
+4
+0.2: Broker: Sending cloudlet 655 to VM #4
+4
+0.2: Broker: Sending cloudlet 656 to VM #4
+4
+0.2: Broker: Sending cloudlet 657 to VM #4
+1
+0.2: Broker: Sending cloudlet 658 to VM #1
+4
+0.2: Broker: Sending cloudlet 659 to VM #4
+2
+0.2: Broker: Sending cloudlet 660 to VM #2
+2
+0.2: Broker: Sending cloudlet 661 to VM #2
+1
+0.2: Broker: Sending cloudlet 662 to VM #1
+3
+0.2: Broker: Sending cloudlet 663 to VM #3
+2
+0.2: Broker: Sending cloudlet 664 to VM #2
+4
+0.2: Broker: Sending cloudlet 665 to VM #4
+2
+0.2: Broker: Sending cloudlet 666 to VM #2
+3
+0.2: Broker: Sending cloudlet 667 to VM #3
+2
+0.2: Broker: Sending cloudlet 668 to VM #2
+4
+0.2: Broker: Sending cloudlet 669 to VM #4
+4
+0.2: Broker: Sending cloudlet 670 to VM #4
+4
+0.2: Broker: Sending cloudlet 671 to VM #4
+2
+0.2: Broker: Sending cloudlet 672 to VM #2
+3
+0.2: Broker: Sending cloudlet 673 to VM #3
+4
+0.2: Broker: Sending cloudlet 674 to VM #4
+2
+0.2: Broker: Sending cloudlet 675 to VM #2
+4
+0.2: Broker: Sending cloudlet 676 to VM #4
+2
+0.2: Broker: Sending cloudlet 677 to VM #2
+4
+0.2: Broker: Sending cloudlet 678 to VM #4
+1
+0.2: Broker: Sending cloudlet 679 to VM #1
+4
+0.2: Broker: Sending cloudlet 680 to VM #4
+4
+0.2: Broker: Sending cloudlet 681 to VM #4
+4
+0.2: Broker: Sending cloudlet 682 to VM #4
+4
+0.2: Broker: Sending cloudlet 683 to VM #4
+3
+0.2: Broker: Sending cloudlet 684 to VM #3
+3
+0.2: Broker: Sending cloudlet 685 to VM #3
+1
+0.2: Broker: Sending cloudlet 686 to VM #1
+1
+0.2: Broker: Sending cloudlet 687 to VM #1
+4
+0.2: Broker: Sending cloudlet 688 to VM #4
+2
+0.2: Broker: Sending cloudlet 689 to VM #2
+4
+0.2: Broker: Sending cloudlet 690 to VM #4
+3
+0.2: Broker: Sending cloudlet 691 to VM #3
+4
+0.2: Broker: Sending cloudlet 692 to VM #4
+1
+0.2: Broker: Sending cloudlet 693 to VM #1
+4
+0.2: Broker: Sending cloudlet 694 to VM #4
+4
+0.2: Broker: Sending cloudlet 695 to VM #4
+4
+0.2: Broker: Sending cloudlet 696 to VM #4
+3
+0.2: Broker: Sending cloudlet 697 to VM #3
+1
+0.2: Broker: Sending cloudlet 698 to VM #1
+3
+0.2: Broker: Sending cloudlet 699 to VM #3
+3
+0.2: Broker: Sending cloudlet 700 to VM #3
+4
+0.2: Broker: Sending cloudlet 701 to VM #4
+2
+0.2: Broker: Sending cloudlet 702 to VM #2
+1
+0.2: Broker: Sending cloudlet 703 to VM #1
+3
+0.2: Broker: Sending cloudlet 704 to VM #3
+1
+0.2: Broker: Sending cloudlet 705 to VM #1
+3
+0.2: Broker: Sending cloudlet 706 to VM #3
+4
+0.2: Broker: Sending cloudlet 707 to VM #4
+4
+0.2: Broker: Sending cloudlet 708 to VM #4
+3
+0.2: Broker: Sending cloudlet 709 to VM #3
+4
+0.2: Broker: Sending cloudlet 710 to VM #4
+4
+0.2: Broker: Sending cloudlet 711 to VM #4
+2
+0.2: Broker: Sending cloudlet 712 to VM #2
+4
+0.2: Broker: Sending cloudlet 713 to VM #4
+4
+0.2: Broker: Sending cloudlet 714 to VM #4
+0
+0.2: Broker: Sending cloudlet 715 to VM #0
+2
+0.2: Broker: Sending cloudlet 716 to VM #2
+0
+0.2: Broker: Sending cloudlet 717 to VM #0
+4
+0.2: Broker: Sending cloudlet 718 to VM #4
+3
+0.2: Broker: Sending cloudlet 719 to VM #3
+4
+0.2: Broker: Sending cloudlet 720 to VM #4
+4
+0.2: Broker: Sending cloudlet 721 to VM #4
+2
+0.2: Broker: Sending cloudlet 722 to VM #2
+2
+0.2: Broker: Sending cloudlet 723 to VM #2
+4
+0.2: Broker: Sending cloudlet 724 to VM #4
+2
+0.2: Broker: Sending cloudlet 725 to VM #2
+4
+0.2: Broker: Sending cloudlet 726 to VM #4
+4
+0.2: Broker: Sending cloudlet 727 to VM #4
+4
+0.2: Broker: Sending cloudlet 728 to VM #4
+3
+0.2: Broker: Sending cloudlet 729 to VM #3
+2
+0.2: Broker: Sending cloudlet 730 to VM #2
+3
+0.2: Broker: Sending cloudlet 731 to VM #3
+2
+0.2: Broker: Sending cloudlet 732 to VM #2
+3
+0.2: Broker: Sending cloudlet 733 to VM #3
+2
+0.2: Broker: Sending cloudlet 734 to VM #2
+1
+0.2: Broker: Sending cloudlet 735 to VM #1
+3
+0.2: Broker: Sending cloudlet 736 to VM #3
+1
+0.2: Broker: Sending cloudlet 737 to VM #1
+4
+0.2: Broker: Sending cloudlet 738 to VM #4
+2
+0.2: Broker: Sending cloudlet 739 to VM #2
+3
+0.2: Broker: Sending cloudlet 740 to VM #3
+3
+0.2: Broker: Sending cloudlet 741 to VM #3
+3
+0.2: Broker: Sending cloudlet 742 to VM #3
+4
+0.2: Broker: Sending cloudlet 743 to VM #4
+4
+0.2: Broker: Sending cloudlet 744 to VM #4
+3
+0.2: Broker: Sending cloudlet 745 to VM #3
+4
+0.2: Broker: Sending cloudlet 746 to VM #4
+3
+0.2: Broker: Sending cloudlet 747 to VM #3
+2
+0.2: Broker: Sending cloudlet 748 to VM #2
+2
+0.2: Broker: Sending cloudlet 749 to VM #2
+4
+0.2: Broker: Sending cloudlet 750 to VM #4
+4
+0.2: Broker: Sending cloudlet 751 to VM #4
+1
+0.2: Broker: Sending cloudlet 752 to VM #1
+4
+0.2: Broker: Sending cloudlet 753 to VM #4
+1
+0.2: Broker: Sending cloudlet 754 to VM #1
+4
+0.2: Broker: Sending cloudlet 755 to VM #4
+2
+0.2: Broker: Sending cloudlet 756 to VM #2
+2
+0.2: Broker: Sending cloudlet 757 to VM #2
+3
+0.2: Broker: Sending cloudlet 758 to VM #3
+4
+0.2: Broker: Sending cloudlet 759 to VM #4
+3
+0.2: Broker: Sending cloudlet 760 to VM #3
+3
+0.2: Broker: Sending cloudlet 761 to VM #3
+2
+0.2: Broker: Sending cloudlet 762 to VM #2
+4
+0.2: Broker: Sending cloudlet 763 to VM #4
+1
+0.2: Broker: Sending cloudlet 764 to VM #1
+2
+0.2: Broker: Sending cloudlet 765 to VM #2
+3
+0.2: Broker: Sending cloudlet 766 to VM #3
+4
+0.2: Broker: Sending cloudlet 767 to VM #4
+2
+0.2: Broker: Sending cloudlet 768 to VM #2
+4
+0.2: Broker: Sending cloudlet 769 to VM #4
+4
+0.2: Broker: Sending cloudlet 770 to VM #4
+2
+0.2: Broker: Sending cloudlet 771 to VM #2
+1
+0.2: Broker: Sending cloudlet 772 to VM #1
+4
+0.2: Broker: Sending cloudlet 773 to VM #4
+2
+0.2: Broker: Sending cloudlet 774 to VM #2
+2
+0.2: Broker: Sending cloudlet 775 to VM #2
+3
+0.2: Broker: Sending cloudlet 776 to VM #3
+4
+0.2: Broker: Sending cloudlet 777 to VM #4
+3
+0.2: Broker: Sending cloudlet 778 to VM #3
+1
+0.2: Broker: Sending cloudlet 779 to VM #1
+3
+0.2: Broker: Sending cloudlet 780 to VM #3
+3
+0.2: Broker: Sending cloudlet 781 to VM #3
+1
+0.2: Broker: Sending cloudlet 782 to VM #1
+2
+0.2: Broker: Sending cloudlet 783 to VM #2
+1
+0.2: Broker: Sending cloudlet 784 to VM #1
+2
+0.2: Broker: Sending cloudlet 785 to VM #2
+2
+0.2: Broker: Sending cloudlet 786 to VM #2
+3
+0.2: Broker: Sending cloudlet 787 to VM #3
+1
+0.2: Broker: Sending cloudlet 788 to VM #1
+3
+0.2: Broker: Sending cloudlet 789 to VM #3
+4
+0.2: Broker: Sending cloudlet 790 to VM #4
+2
+0.2: Broker: Sending cloudlet 791 to VM #2
+4
+0.2: Broker: Sending cloudlet 792 to VM #4
+4
+0.2: Broker: Sending cloudlet 793 to VM #4
+1
+0.2: Broker: Sending cloudlet 794 to VM #1
+2
+0.2: Broker: Sending cloudlet 795 to VM #2
+2
+0.2: Broker: Sending cloudlet 796 to VM #2
+4
+0.2: Broker: Sending cloudlet 797 to VM #4
+3
+0.2: Broker: Sending cloudlet 798 to VM #3
+2
+0.2: Broker: Sending cloudlet 799 to VM #2
+1
+0.2: Broker: Sending cloudlet 800 to VM #1
+0
+0.2: Broker: Sending cloudlet 801 to VM #0
+4
+0.2: Broker: Sending cloudlet 802 to VM #4
+3
+0.2: Broker: Sending cloudlet 803 to VM #3
+4
+0.2: Broker: Sending cloudlet 804 to VM #4
+0
+0.2: Broker: Sending cloudlet 805 to VM #0
+4
+0.2: Broker: Sending cloudlet 806 to VM #4
+2
+0.2: Broker: Sending cloudlet 807 to VM #2
+4
+0.2: Broker: Sending cloudlet 808 to VM #4
+4
+0.2: Broker: Sending cloudlet 809 to VM #4
+3
+0.2: Broker: Sending cloudlet 810 to VM #3
+4
+0.2: Broker: Sending cloudlet 811 to VM #4
+1
+0.2: Broker: Sending cloudlet 812 to VM #1
+2
+0.2: Broker: Sending cloudlet 813 to VM #2
+3
+0.2: Broker: Sending cloudlet 814 to VM #3
+2
+0.2: Broker: Sending cloudlet 815 to VM #2
+2
+0.2: Broker: Sending cloudlet 816 to VM #2
+4
+0.2: Broker: Sending cloudlet 817 to VM #4
+2
+0.2: Broker: Sending cloudlet 818 to VM #2
+1
+0.2: Broker: Sending cloudlet 819 to VM #1
+3
+0.2: Broker: Sending cloudlet 820 to VM #3
+2
+0.2: Broker: Sending cloudlet 821 to VM #2
+4
+0.2: Broker: Sending cloudlet 822 to VM #4
+2
+0.2: Broker: Sending cloudlet 823 to VM #2
+4
+0.2: Broker: Sending cloudlet 824 to VM #4
+2
+0.2: Broker: Sending cloudlet 825 to VM #2
+3
+0.2: Broker: Sending cloudlet 826 to VM #3
+4
+0.2: Broker: Sending cloudlet 827 to VM #4
+4
+0.2: Broker: Sending cloudlet 828 to VM #4
+3
+0.2: Broker: Sending cloudlet 829 to VM #3
+4
+0.2: Broker: Sending cloudlet 830 to VM #4
+0
+0.2: Broker: Sending cloudlet 831 to VM #0
+2
+0.2: Broker: Sending cloudlet 832 to VM #2
+4
+0.2: Broker: Sending cloudlet 833 to VM #4
+2
+0.2: Broker: Sending cloudlet 834 to VM #2
+4
+0.2: Broker: Sending cloudlet 835 to VM #4
+2
+0.2: Broker: Sending cloudlet 836 to VM #2
+1
+0.2: Broker: Sending cloudlet 837 to VM #1
+4
+0.2: Broker: Sending cloudlet 838 to VM #4
+3
+0.2: Broker: Sending cloudlet 839 to VM #3
+3
+0.2: Broker: Sending cloudlet 840 to VM #3
+3
+0.2: Broker: Sending cloudlet 841 to VM #3
+4
+0.2: Broker: Sending cloudlet 842 to VM #4
+4
+0.2: Broker: Sending cloudlet 843 to VM #4
+4
+0.2: Broker: Sending cloudlet 844 to VM #4
+2
+0.2: Broker: Sending cloudlet 845 to VM #2
+3
+0.2: Broker: Sending cloudlet 846 to VM #3
+3
+0.2: Broker: Sending cloudlet 847 to VM #3
+2
+0.2: Broker: Sending cloudlet 848 to VM #2
+3
+0.2: Broker: Sending cloudlet 849 to VM #3
+4
+0.2: Broker: Sending cloudlet 850 to VM #4
+2
+0.2: Broker: Sending cloudlet 851 to VM #2
+4
+0.2: Broker: Sending cloudlet 852 to VM #4
+3
+0.2: Broker: Sending cloudlet 853 to VM #3
+1
+0.2: Broker: Sending cloudlet 854 to VM #1
+4
+0.2: Broker: Sending cloudlet 855 to VM #4
+2
+0.2: Broker: Sending cloudlet 856 to VM #2
+2
+0.2: Broker: Sending cloudlet 857 to VM #2
+0
+0.2: Broker: Sending cloudlet 858 to VM #0
+4
+0.2: Broker: Sending cloudlet 859 to VM #4
+4
+0.2: Broker: Sending cloudlet 860 to VM #4
+1
+0.2: Broker: Sending cloudlet 861 to VM #1
+3
+0.2: Broker: Sending cloudlet 862 to VM #3
+4
+0.2: Broker: Sending cloudlet 863 to VM #4
+4
+0.2: Broker: Sending cloudlet 864 to VM #4
+4
+0.2: Broker: Sending cloudlet 865 to VM #4
+1
+0.2: Broker: Sending cloudlet 866 to VM #1
+2
+0.2: Broker: Sending cloudlet 867 to VM #2
+1
+0.2: Broker: Sending cloudlet 868 to VM #1
+1
+0.2: Broker: Sending cloudlet 869 to VM #1
+2
+0.2: Broker: Sending cloudlet 870 to VM #2
+4
+0.2: Broker: Sending cloudlet 871 to VM #4
+2
+0.2: Broker: Sending cloudlet 872 to VM #2
+2
+0.2: Broker: Sending cloudlet 873 to VM #2
+4
+0.2: Broker: Sending cloudlet 874 to VM #4
+4
+0.2: Broker: Sending cloudlet 875 to VM #4
+1
+0.2: Broker: Sending cloudlet 876 to VM #1
+3
+0.2: Broker: Sending cloudlet 877 to VM #3
+3
+0.2: Broker: Sending cloudlet 878 to VM #3
+4
+0.2: Broker: Sending cloudlet 879 to VM #4
+4
+0.2: Broker: Sending cloudlet 880 to VM #4
+2
+0.2: Broker: Sending cloudlet 881 to VM #2
+4
+0.2: Broker: Sending cloudlet 882 to VM #4
+1
+0.2: Broker: Sending cloudlet 883 to VM #1
+1
+0.2: Broker: Sending cloudlet 884 to VM #1
+3
+0.2: Broker: Sending cloudlet 885 to VM #3
+3
+0.2: Broker: Sending cloudlet 886 to VM #3
+4
+0.2: Broker: Sending cloudlet 887 to VM #4
+3
+0.2: Broker: Sending cloudlet 888 to VM #3
+4
+0.2: Broker: Sending cloudlet 889 to VM #4
+3
+0.2: Broker: Sending cloudlet 890 to VM #3
+2
+0.2: Broker: Sending cloudlet 891 to VM #2
+0
+0.2: Broker: Sending cloudlet 892 to VM #0
+2
+0.2: Broker: Sending cloudlet 893 to VM #2
+2
+0.2: Broker: Sending cloudlet 894 to VM #2
+1
+0.2: Broker: Sending cloudlet 895 to VM #1
+2
+0.2: Broker: Sending cloudlet 896 to VM #2
+3
+0.2: Broker: Sending cloudlet 897 to VM #3
+2
+0.2: Broker: Sending cloudlet 898 to VM #2
+4
+0.2: Broker: Sending cloudlet 899 to VM #4
+4
+0.2: Broker: Sending cloudlet 900 to VM #4
+0
+0.2: Broker: Sending cloudlet 901 to VM #0
+4
+0.2: Broker: Sending cloudlet 902 to VM #4
+1
+0.2: Broker: Sending cloudlet 903 to VM #1
+3
+0.2: Broker: Sending cloudlet 904 to VM #3
+4
+0.2: Broker: Sending cloudlet 905 to VM #4
+1
+0.2: Broker: Sending cloudlet 906 to VM #1
+4
+0.2: Broker: Sending cloudlet 907 to VM #4
+4
+0.2: Broker: Sending cloudlet 908 to VM #4
+3
+0.2: Broker: Sending cloudlet 909 to VM #3
+4
+0.2: Broker: Sending cloudlet 910 to VM #4
+4
+0.2: Broker: Sending cloudlet 911 to VM #4
+2
+0.2: Broker: Sending cloudlet 912 to VM #2
+4
+0.2: Broker: Sending cloudlet 913 to VM #4
+3
+0.2: Broker: Sending cloudlet 914 to VM #3
+4
+0.2: Broker: Sending cloudlet 915 to VM #4
+3
+0.2: Broker: Sending cloudlet 916 to VM #3
+4
+0.2: Broker: Sending cloudlet 917 to VM #4
+2
+0.2: Broker: Sending cloudlet 918 to VM #2
+4
+0.2: Broker: Sending cloudlet 919 to VM #4
+2
+0.2: Broker: Sending cloudlet 920 to VM #2
+4
+0.2: Broker: Sending cloudlet 921 to VM #4
+3
+0.2: Broker: Sending cloudlet 922 to VM #3
+2
+0.2: Broker: Sending cloudlet 923 to VM #2
+3
+0.2: Broker: Sending cloudlet 924 to VM #3
+4
+0.2: Broker: Sending cloudlet 925 to VM #4
+4
+0.2: Broker: Sending cloudlet 926 to VM #4
+4
+0.2: Broker: Sending cloudlet 927 to VM #4
+3
+0.2: Broker: Sending cloudlet 928 to VM #3
+4
+0.2: Broker: Sending cloudlet 929 to VM #4
+1
+0.2: Broker: Sending cloudlet 930 to VM #1
+4
+0.2: Broker: Sending cloudlet 931 to VM #4
+4
+0.2: Broker: Sending cloudlet 932 to VM #4
+3
+0.2: Broker: Sending cloudlet 933 to VM #3
+4
+0.2: Broker: Sending cloudlet 934 to VM #4
+1
+0.2: Broker: Sending cloudlet 935 to VM #1
+4
+0.2: Broker: Sending cloudlet 936 to VM #4
+2
+0.2: Broker: Sending cloudlet 937 to VM #2
+4
+0.2: Broker: Sending cloudlet 938 to VM #4
+1
+0.2: Broker: Sending cloudlet 939 to VM #1
+1
+0.2: Broker: Sending cloudlet 940 to VM #1
+4
+0.2: Broker: Sending cloudlet 941 to VM #4
+4
+0.2: Broker: Sending cloudlet 942 to VM #4
+1
+0.2: Broker: Sending cloudlet 943 to VM #1
+4
+0.2: Broker: Sending cloudlet 944 to VM #4
+4
+0.2: Broker: Sending cloudlet 945 to VM #4
+4
+0.2: Broker: Sending cloudlet 946 to VM #4
+3
+0.2: Broker: Sending cloudlet 947 to VM #3
+3
+0.2: Broker: Sending cloudlet 948 to VM #3
+4
+0.2: Broker: Sending cloudlet 949 to VM #4
+1
+0.2: Broker: Sending cloudlet 950 to VM #1
+3
+0.2: Broker: Sending cloudlet 951 to VM #3
+1
+0.2: Broker: Sending cloudlet 952 to VM #1
+4
+0.2: Broker: Sending cloudlet 953 to VM #4
+4
+0.2: Broker: Sending cloudlet 954 to VM #4
+4
+0.2: Broker: Sending cloudlet 955 to VM #4
+3
+0.2: Broker: Sending cloudlet 956 to VM #3
+4
+0.2: Broker: Sending cloudlet 957 to VM #4
+4
+0.2: Broker: Sending cloudlet 958 to VM #4
+2
+0.2: Broker: Sending cloudlet 959 to VM #2
+4
+0.2: Broker: Sending cloudlet 960 to VM #4
+2
+0.2: Broker: Sending cloudlet 961 to VM #2
+1
+0.2: Broker: Sending cloudlet 962 to VM #1
+3
+0.2: Broker: Sending cloudlet 963 to VM #3
+3
+0.2: Broker: Sending cloudlet 964 to VM #3
+3
+0.2: Broker: Sending cloudlet 965 to VM #3
+2
+0.2: Broker: Sending cloudlet 966 to VM #2
+1
+0.2: Broker: Sending cloudlet 967 to VM #1
+4
+0.2: Broker: Sending cloudlet 968 to VM #4
+3
+0.2: Broker: Sending cloudlet 969 to VM #3
+2
+0.2: Broker: Sending cloudlet 970 to VM #2
+3
+0.2: Broker: Sending cloudlet 971 to VM #3
+3
+0.2: Broker: Sending cloudlet 972 to VM #3
+1
+0.2: Broker: Sending cloudlet 973 to VM #1
+2
+0.2: Broker: Sending cloudlet 974 to VM #2
+3
+0.2: Broker: Sending cloudlet 975 to VM #3
+4
+0.2: Broker: Sending cloudlet 976 to VM #4
+4
+0.2: Broker: Sending cloudlet 977 to VM #4
+1
+0.2: Broker: Sending cloudlet 978 to VM #1
+3
+0.2: Broker: Sending cloudlet 979 to VM #3
+4
+0.2: Broker: Sending cloudlet 980 to VM #4
+2
+0.2: Broker: Sending cloudlet 981 to VM #2
+4
+0.2: Broker: Sending cloudlet 982 to VM #4
+2
+0.2: Broker: Sending cloudlet 983 to VM #2
+3
+0.2: Broker: Sending cloudlet 984 to VM #3
+4
+0.2: Broker: Sending cloudlet 985 to VM #4
+4
+0.2: Broker: Sending cloudlet 986 to VM #4
+3
+0.2: Broker: Sending cloudlet 987 to VM #3
+4
+0.2: Broker: Sending cloudlet 988 to VM #4
+2
+0.2: Broker: Sending cloudlet 989 to VM #2
+3
+0.2: Broker: Sending cloudlet 990 to VM #3
+4
+0.2: Broker: Sending cloudlet 991 to VM #4
+2
+0.2: Broker: Sending cloudlet 992 to VM #2
+3
+0.2: Broker: Sending cloudlet 993 to VM #3
+4
+0.2: Broker: Sending cloudlet 994 to VM #4
+4
+0.2: Broker: Sending cloudlet 995 to VM #4
+4
+0.2: Broker: Sending cloudlet 996 to VM #4
+3
+0.2: Broker: Sending cloudlet 997 to VM #3
+1
+0.2: Broker: Sending cloudlet 998 to VM #1
+4
+0.2: Broker: Sending cloudlet 999 to VM #4
+3
+0.2: Broker: Sending cloudlet 1000 to VM #3
+2
+0.2: Broker: Sending cloudlet 1001 to VM #2
+0
+0.2: Broker: Sending cloudlet 1002 to VM #0
+1
+0.2: Broker: Sending cloudlet 1003 to VM #1
+1
+0.2: Broker: Sending cloudlet 1004 to VM #1
+3
+0.2: Broker: Sending cloudlet 1005 to VM #3
+4
+0.2: Broker: Sending cloudlet 1006 to VM #4
+3
+0.2: Broker: Sending cloudlet 1007 to VM #3
+3
+0.2: Broker: Sending cloudlet 1008 to VM #3
+3
+0.2: Broker: Sending cloudlet 1009 to VM #3
+2
+0.2: Broker: Sending cloudlet 1010 to VM #2
+4
+0.2: Broker: Sending cloudlet 1011 to VM #4
+4
+0.2: Broker: Sending cloudlet 1012 to VM #4
+4
+0.2: Broker: Sending cloudlet 1013 to VM #4
+2
+0.2: Broker: Sending cloudlet 1014 to VM #2
+3
+0.2: Broker: Sending cloudlet 1015 to VM #3
+4
+0.2: Broker: Sending cloudlet 1016 to VM #4
+1
+0.2: Broker: Sending cloudlet 1017 to VM #1
+2
+0.2: Broker: Sending cloudlet 1018 to VM #2
+3
+0.2: Broker: Sending cloudlet 1019 to VM #3
+2
+0.2: Broker: Sending cloudlet 1020 to VM #2
+4
+0.2: Broker: Sending cloudlet 1021 to VM #4
+2
+0.2: Broker: Sending cloudlet 1022 to VM #2
+2
+0.2: Broker: Sending cloudlet 1023 to VM #2
+0
+0.2: Broker: Sending cloudlet 1024 to VM #0
+4
+0.2: Broker: Sending cloudlet 1025 to VM #4
+3
+0.2: Broker: Sending cloudlet 1026 to VM #3
+1
+0.2: Broker: Sending cloudlet 1027 to VM #1
+4
+0.2: Broker: Sending cloudlet 1028 to VM #4
+4
+0.2: Broker: Sending cloudlet 1029 to VM #4
+3
+0.2: Broker: Sending cloudlet 1030 to VM #3
+1
+0.2: Broker: Sending cloudlet 1031 to VM #1
+3
+0.2: Broker: Sending cloudlet 1032 to VM #3
+4
+0.2: Broker: Sending cloudlet 1033 to VM #4
+3
+0.2: Broker: Sending cloudlet 1034 to VM #3
+2
+0.2: Broker: Sending cloudlet 1035 to VM #2
+3
+0.2: Broker: Sending cloudlet 1036 to VM #3
+3
+0.2: Broker: Sending cloudlet 1037 to VM #3
+2
+0.2: Broker: Sending cloudlet 1038 to VM #2
+4
+0.2: Broker: Sending cloudlet 1039 to VM #4
+4
+0.2: Broker: Sending cloudlet 1040 to VM #4
+2
+0.2: Broker: Sending cloudlet 1041 to VM #2
+4
+0.2: Broker: Sending cloudlet 1042 to VM #4
+4
+0.2: Broker: Sending cloudlet 1043 to VM #4
+1
+0.2: Broker: Sending cloudlet 1044 to VM #1
+3
+0.2: Broker: Sending cloudlet 1045 to VM #3
+2
+0.2: Broker: Sending cloudlet 1046 to VM #2
+2
+0.2: Broker: Sending cloudlet 1047 to VM #2
+3
+0.2: Broker: Sending cloudlet 1048 to VM #3
+4
+0.2: Broker: Sending cloudlet 1049 to VM #4
+2
+0.2: Broker: Sending cloudlet 1050 to VM #2
+0
+0.2: Broker: Sending cloudlet 1051 to VM #0
+2
+0.2: Broker: Sending cloudlet 1052 to VM #2
+2
+0.2: Broker: Sending cloudlet 1053 to VM #2
+0
+0.2: Broker: Sending cloudlet 1054 to VM #0
+4
+0.2: Broker: Sending cloudlet 1055 to VM #4
+4
+0.2: Broker: Sending cloudlet 1056 to VM #4
+4
+0.2: Broker: Sending cloudlet 1057 to VM #4
+4
+0.2: Broker: Sending cloudlet 1058 to VM #4
+2
+0.2: Broker: Sending cloudlet 1059 to VM #2
+4
+0.2: Broker: Sending cloudlet 1060 to VM #4
+3
+0.2: Broker: Sending cloudlet 1061 to VM #3
+4
+0.2: Broker: Sending cloudlet 1062 to VM #4
+0
+0.2: Broker: Sending cloudlet 1063 to VM #0
+2
+0.2: Broker: Sending cloudlet 1064 to VM #2
+4
+0.2: Broker: Sending cloudlet 1065 to VM #4
+2
+0.2: Broker: Sending cloudlet 1066 to VM #2
+4
+0.2: Broker: Sending cloudlet 1067 to VM #4
+4
+0.2: Broker: Sending cloudlet 1068 to VM #4
+4
+0.2: Broker: Sending cloudlet 1069 to VM #4
+3
+0.2: Broker: Sending cloudlet 1070 to VM #3
+4
+0.2: Broker: Sending cloudlet 1071 to VM #4
+3
+0.2: Broker: Sending cloudlet 1072 to VM #3
+3
+0.2: Broker: Sending cloudlet 1073 to VM #3
+3
+0.2: Broker: Sending cloudlet 1074 to VM #3
+1
+0.2: Broker: Sending cloudlet 1075 to VM #1
+3
+0.2: Broker: Sending cloudlet 1076 to VM #3
+3
+0.2: Broker: Sending cloudlet 1077 to VM #3
+3
+0.2: Broker: Sending cloudlet 1078 to VM #3
+4
+0.2: Broker: Sending cloudlet 1079 to VM #4
+4
+0.2: Broker: Sending cloudlet 1080 to VM #4
+4
+0.2: Broker: Sending cloudlet 1081 to VM #4
+4
+0.2: Broker: Sending cloudlet 1082 to VM #4
+1
+0.2: Broker: Sending cloudlet 1083 to VM #1
+2
+0.2: Broker: Sending cloudlet 1084 to VM #2
+1
+0.2: Broker: Sending cloudlet 1085 to VM #1
+3
+0.2: Broker: Sending cloudlet 1086 to VM #3
+2
+0.2: Broker: Sending cloudlet 1087 to VM #2
+4
+0.2: Broker: Sending cloudlet 1088 to VM #4
+2
+0.2: Broker: Sending cloudlet 1089 to VM #2
+2
+0.2: Broker: Sending cloudlet 1090 to VM #2
+4
+0.2: Broker: Sending cloudlet 1091 to VM #4
+3
+0.2: Broker: Sending cloudlet 1092 to VM #3
+4
+0.2: Broker: Sending cloudlet 1093 to VM #4
+2
+0.2: Broker: Sending cloudlet 1094 to VM #2
+1
+0.2: Broker: Sending cloudlet 1095 to VM #1
+3
+0.2: Broker: Sending cloudlet 1096 to VM #3
+3
+0.2: Broker: Sending cloudlet 1097 to VM #3
+4
+0.2: Broker: Sending cloudlet 1098 to VM #4
+4
+0.2: Broker: Sending cloudlet 1099 to VM #4
+1
+0.2: Broker: Sending cloudlet 1100 to VM #1
+2
+0.2: Broker: Sending cloudlet 1101 to VM #2
+2
+0.2: Broker: Sending cloudlet 1102 to VM #2
+4
+0.2: Broker: Sending cloudlet 1103 to VM #4
+4
+0.2: Broker: Sending cloudlet 1104 to VM #4
+4
+0.2: Broker: Sending cloudlet 1105 to VM #4
+4
+0.2: Broker: Sending cloudlet 1106 to VM #4
+2
+0.2: Broker: Sending cloudlet 1107 to VM #2
+4
+0.2: Broker: Sending cloudlet 1108 to VM #4
+2
+0.2: Broker: Sending cloudlet 1109 to VM #2
+3
+0.2: Broker: Sending cloudlet 1110 to VM #3
+4
+0.2: Broker: Sending cloudlet 1111 to VM #4
+4
+0.2: Broker: Sending cloudlet 1112 to VM #4
+4
+0.2: Broker: Sending cloudlet 1113 to VM #4
+3
+0.2: Broker: Sending cloudlet 1114 to VM #3
+3
+0.2: Broker: Sending cloudlet 1115 to VM #3
+4
+0.2: Broker: Sending cloudlet 1116 to VM #4
+4
+0.2: Broker: Sending cloudlet 1117 to VM #4
+4
+0.2: Broker: Sending cloudlet 1118 to VM #4
+2
+0.2: Broker: Sending cloudlet 1119 to VM #2
+4
+0.2: Broker: Sending cloudlet 1120 to VM #4
+3
+0.2: Broker: Sending cloudlet 1121 to VM #3
+2
+0.2: Broker: Sending cloudlet 1122 to VM #2
+3
+0.2: Broker: Sending cloudlet 1123 to VM #3
+4
+0.2: Broker: Sending cloudlet 1124 to VM #4
+1
+0.2: Broker: Sending cloudlet 1125 to VM #1
+4
+0.2: Broker: Sending cloudlet 1126 to VM #4
+0
+0.2: Broker: Sending cloudlet 1127 to VM #0
+2
+0.2: Broker: Sending cloudlet 1128 to VM #2
+2
+0.2: Broker: Sending cloudlet 1129 to VM #2
+3
+0.2: Broker: Sending cloudlet 1130 to VM #3
+2
+0.2: Broker: Sending cloudlet 1131 to VM #2
+4
+0.2: Broker: Sending cloudlet 1132 to VM #4
+4
+0.2: Broker: Sending cloudlet 1133 to VM #4
+2
+0.2: Broker: Sending cloudlet 1134 to VM #2
+4
+0.2: Broker: Sending cloudlet 1135 to VM #4
+2
+0.2: Broker: Sending cloudlet 1136 to VM #2
+2
+0.2: Broker: Sending cloudlet 1137 to VM #2
+1
+0.2: Broker: Sending cloudlet 1138 to VM #1
+4
+0.2: Broker: Sending cloudlet 1139 to VM #4
+3
+0.2: Broker: Sending cloudlet 1140 to VM #3
+2
+0.2: Broker: Sending cloudlet 1141 to VM #2
+4
+0.2: Broker: Sending cloudlet 1142 to VM #4
+2
+0.2: Broker: Sending cloudlet 1143 to VM #2
+3
+0.2: Broker: Sending cloudlet 1144 to VM #3
+2
+0.2: Broker: Sending cloudlet 1145 to VM #2
+1
+0.2: Broker: Sending cloudlet 1146 to VM #1
+2
+0.2: Broker: Sending cloudlet 1147 to VM #2
+2
+0.2: Broker: Sending cloudlet 1148 to VM #2
+3
+0.2: Broker: Sending cloudlet 1149 to VM #3
+4
+0.2: Broker: Sending cloudlet 1150 to VM #4
+0
+0.2: Broker: Sending cloudlet 1151 to VM #0
+1
+0.2: Broker: Sending cloudlet 1152 to VM #1
+3
+0.2: Broker: Sending cloudlet 1153 to VM #3
+1
+0.2: Broker: Sending cloudlet 1154 to VM #1
+4
+0.2: Broker: Sending cloudlet 1155 to VM #4
+0
+0.2: Broker: Sending cloudlet 1156 to VM #0
+4
+0.2: Broker: Sending cloudlet 1157 to VM #4
+3
+0.2: Broker: Sending cloudlet 1158 to VM #3
+1
+0.2: Broker: Sending cloudlet 1159 to VM #1
+3
+0.2: Broker: Sending cloudlet 1160 to VM #3
+4
+0.2: Broker: Sending cloudlet 1161 to VM #4
+2
+0.2: Broker: Sending cloudlet 1162 to VM #2
+1
+0.2: Broker: Sending cloudlet 1163 to VM #1
+0
+0.2: Broker: Sending cloudlet 1164 to VM #0
+2
+0.2: Broker: Sending cloudlet 1165 to VM #2
+4
+0.2: Broker: Sending cloudlet 1166 to VM #4
+3
+0.2: Broker: Sending cloudlet 1167 to VM #3
+1
+0.2: Broker: Sending cloudlet 1168 to VM #1
+2
+0.2: Broker: Sending cloudlet 1169 to VM #2
+1
+0.2: Broker: Sending cloudlet 1170 to VM #1
+1
+0.2: Broker: Sending cloudlet 1171 to VM #1
+3
+0.2: Broker: Sending cloudlet 1172 to VM #3
+4
+0.2: Broker: Sending cloudlet 1173 to VM #4
+3
+0.2: Broker: Sending cloudlet 1174 to VM #3
+3
+0.2: Broker: Sending cloudlet 1175 to VM #3
+3
+0.2: Broker: Sending cloudlet 1176 to VM #3
+4
+0.2: Broker: Sending cloudlet 1177 to VM #4
+2
+0.2: Broker: Sending cloudlet 1178 to VM #2
+2
+0.2: Broker: Sending cloudlet 1179 to VM #2
+1
+0.2: Broker: Sending cloudlet 1180 to VM #1
+4
+0.2: Broker: Sending cloudlet 1181 to VM #4
+2
+0.2: Broker: Sending cloudlet 1182 to VM #2
+3
+0.2: Broker: Sending cloudlet 1183 to VM #3
+2
+0.2: Broker: Sending cloudlet 1184 to VM #2
+4
+0.2: Broker: Sending cloudlet 1185 to VM #4
+4
+0.2: Broker: Sending cloudlet 1186 to VM #4
+3
+0.2: Broker: Sending cloudlet 1187 to VM #3
+4
+0.2: Broker: Sending cloudlet 1188 to VM #4
+4
+0.2: Broker: Sending cloudlet 1189 to VM #4
+4
+0.2: Broker: Sending cloudlet 1190 to VM #4
+2
+0.2: Broker: Sending cloudlet 1191 to VM #2
+2
+0.2: Broker: Sending cloudlet 1192 to VM #2
+2
+0.2: Broker: Sending cloudlet 1193 to VM #2
+3
+0.2: Broker: Sending cloudlet 1194 to VM #3
+2
+0.2: Broker: Sending cloudlet 1195 to VM #2
+0
+0.2: Broker: Sending cloudlet 1196 to VM #0
+4
+0.2: Broker: Sending cloudlet 1197 to VM #4
+4
+0.2: Broker: Sending cloudlet 1198 to VM #4
+2
+0.2: Broker: Sending cloudlet 1199 to VM #2
+2
+0.2: Broker: Sending cloudlet 1200 to VM #2
+3
+0.2: Broker: Sending cloudlet 1201 to VM #3
+3
+0.2: Broker: Sending cloudlet 1202 to VM #3
+1
+0.2: Broker: Sending cloudlet 1203 to VM #1
+3
+0.2: Broker: Sending cloudlet 1204 to VM #3
+3
+0.2: Broker: Sending cloudlet 1205 to VM #3
+2
+0.2: Broker: Sending cloudlet 1206 to VM #2
+2
+0.2: Broker: Sending cloudlet 1207 to VM #2
+2
+0.2: Broker: Sending cloudlet 1208 to VM #2
+4
+0.2: Broker: Sending cloudlet 1209 to VM #4
+4
+0.2: Broker: Sending cloudlet 1210 to VM #4
+4
+0.2: Broker: Sending cloudlet 1211 to VM #4
+4
+0.2: Broker: Sending cloudlet 1212 to VM #4
+3
+0.2: Broker: Sending cloudlet 1213 to VM #3
+1
+0.2: Broker: Sending cloudlet 1214 to VM #1
+4
+0.2: Broker: Sending cloudlet 1215 to VM #4
+4
+0.2: Broker: Sending cloudlet 1216 to VM #4
+4
+0.2: Broker: Sending cloudlet 1217 to VM #4
+4
+0.2: Broker: Sending cloudlet 1218 to VM #4
+4
+0.2: Broker: Sending cloudlet 1219 to VM #4
+4
+0.2: Broker: Sending cloudlet 1220 to VM #4
+2
+0.2: Broker: Sending cloudlet 1221 to VM #2
+4
+0.2: Broker: Sending cloudlet 1222 to VM #4
+3
+0.2: Broker: Sending cloudlet 1223 to VM #3
+1
+0.2: Broker: Sending cloudlet 1224 to VM #1
+2
+0.2: Broker: Sending cloudlet 1225 to VM #2
+0
+0.2: Broker: Sending cloudlet 1226 to VM #0
+2
+0.2: Broker: Sending cloudlet 1227 to VM #2
+4
+0.2: Broker: Sending cloudlet 1228 to VM #4
+1
+0.2: Broker: Sending cloudlet 1229 to VM #1
+4
+0.2: Broker: Sending cloudlet 1230 to VM #4
+4
+0.2: Broker: Sending cloudlet 1231 to VM #4
+4
+0.2: Broker: Sending cloudlet 1232 to VM #4
+1
+0.2: Broker: Sending cloudlet 1233 to VM #1
+2
+0.2: Broker: Sending cloudlet 1234 to VM #2
+4
+0.2: Broker: Sending cloudlet 1235 to VM #4
+1
+0.2: Broker: Sending cloudlet 1236 to VM #1
+1
+0.2: Broker: Sending cloudlet 1237 to VM #1
+1
+0.2: Broker: Sending cloudlet 1238 to VM #1
+4
+0.2: Broker: Sending cloudlet 1239 to VM #4
+4
+0.2: Broker: Sending cloudlet 1240 to VM #4
+2
+0.2: Broker: Sending cloudlet 1241 to VM #2
+3
+0.2: Broker: Sending cloudlet 1242 to VM #3
+1
+0.2: Broker: Sending cloudlet 1243 to VM #1
+3
+0.2: Broker: Sending cloudlet 1244 to VM #3
+3
+0.2: Broker: Sending cloudlet 1245 to VM #3
+4
+0.2: Broker: Sending cloudlet 1246 to VM #4
+3
+0.2: Broker: Sending cloudlet 1247 to VM #3
+1
+0.2: Broker: Sending cloudlet 1248 to VM #1
+2
+0.2: Broker: Sending cloudlet 1249 to VM #2
+0
+0.2: Broker: Sending cloudlet 1250 to VM #0
+2
+0.2: Broker: Sending cloudlet 1251 to VM #2
+3
+0.2: Broker: Sending cloudlet 1252 to VM #3
+2
+0.2: Broker: Sending cloudlet 1253 to VM #2
+4
+0.2: Broker: Sending cloudlet 1254 to VM #4
+4
+0.2: Broker: Sending cloudlet 1255 to VM #4
+2
+0.2: Broker: Sending cloudlet 1256 to VM #2
+2
+0.2: Broker: Sending cloudlet 1257 to VM #2
+4
+0.2: Broker: Sending cloudlet 1258 to VM #4
+2
+0.2: Broker: Sending cloudlet 1259 to VM #2
+2
+0.2: Broker: Sending cloudlet 1260 to VM #2
+4
+0.2: Broker: Sending cloudlet 1261 to VM #4
+1
+0.2: Broker: Sending cloudlet 1262 to VM #1
+4
+0.2: Broker: Sending cloudlet 1263 to VM #4
+1
+0.2: Broker: Sending cloudlet 1264 to VM #1
+2
+0.2: Broker: Sending cloudlet 1265 to VM #2
+4
+0.2: Broker: Sending cloudlet 1266 to VM #4
+2
+0.2: Broker: Sending cloudlet 1267 to VM #2
+4
+0.2: Broker: Sending cloudlet 1268 to VM #4
+4
+0.2: Broker: Sending cloudlet 1269 to VM #4
+3
+0.2: Broker: Sending cloudlet 1270 to VM #3
+4
+0.2: Broker: Sending cloudlet 1271 to VM #4
+3
+0.2: Broker: Sending cloudlet 1272 to VM #3
+4
+0.2: Broker: Sending cloudlet 1273 to VM #4
+3
+0.2: Broker: Sending cloudlet 1274 to VM #3
+4
+0.2: Broker: Sending cloudlet 1275 to VM #4
+4
+0.2: Broker: Sending cloudlet 1276 to VM #4
+2
+0.2: Broker: Sending cloudlet 1277 to VM #2
+4
+0.2: Broker: Sending cloudlet 1278 to VM #4
+3
+0.2: Broker: Sending cloudlet 1279 to VM #3
+2
+0.2: Broker: Sending cloudlet 1280 to VM #2
+4
+0.2: Broker: Sending cloudlet 1281 to VM #4
+3
+0.2: Broker: Sending cloudlet 1282 to VM #3
+4
+0.2: Broker: Sending cloudlet 1283 to VM #4
+4
+0.2: Broker: Sending cloudlet 1284 to VM #4
+2
+0.2: Broker: Sending cloudlet 1285 to VM #2
+1
+0.2: Broker: Sending cloudlet 1286 to VM #1
+1
+0.2: Broker: Sending cloudlet 1287 to VM #1
+4
+0.2: Broker: Sending cloudlet 1288 to VM #4
+3
+0.2: Broker: Sending cloudlet 1289 to VM #3
+3
+0.2: Broker: Sending cloudlet 1290 to VM #3
+4
+0.2: Broker: Sending cloudlet 1291 to VM #4
+4
+0.2: Broker: Sending cloudlet 1292 to VM #4
+3
+0.2: Broker: Sending cloudlet 1293 to VM #3
+1
+0.2: Broker: Sending cloudlet 1294 to VM #1
+1
+0.2: Broker: Sending cloudlet 1295 to VM #1
+3
+0.2: Broker: Sending cloudlet 1296 to VM #3
+4
+0.2: Broker: Sending cloudlet 1297 to VM #4
+3
+0.2: Broker: Sending cloudlet 1298 to VM #3
+2
+0.2: Broker: Sending cloudlet 1299 to VM #2
+4
+0.2: Broker: Sending cloudlet 1300 to VM #4
+3
+0.2: Broker: Sending cloudlet 1301 to VM #3
+4
+0.2: Broker: Sending cloudlet 1302 to VM #4
+3
+0.2: Broker: Sending cloudlet 1303 to VM #3
+4
+0.2: Broker: Sending cloudlet 1304 to VM #4
+4
+0.2: Broker: Sending cloudlet 1305 to VM #4
+4
+0.2: Broker: Sending cloudlet 1306 to VM #4
+3
+0.2: Broker: Sending cloudlet 1307 to VM #3
+4
+0.2: Broker: Sending cloudlet 1308 to VM #4
+4
+0.2: Broker: Sending cloudlet 1309 to VM #4
+2
+0.2: Broker: Sending cloudlet 1310 to VM #2
+2
+0.2: Broker: Sending cloudlet 1311 to VM #2
+4
+0.2: Broker: Sending cloudlet 1312 to VM #4
+4
+0.2: Broker: Sending cloudlet 1313 to VM #4
+4
+0.2: Broker: Sending cloudlet 1314 to VM #4
+4
+0.2: Broker: Sending cloudlet 1315 to VM #4
+1
+0.2: Broker: Sending cloudlet 1316 to VM #1
+2
+0.2: Broker: Sending cloudlet 1317 to VM #2
+2
+0.2: Broker: Sending cloudlet 1318 to VM #2
+2
+0.2: Broker: Sending cloudlet 1319 to VM #2
+4
+0.2: Broker: Sending cloudlet 1320 to VM #4
+3
+0.2: Broker: Sending cloudlet 1321 to VM #3
+3
+0.2: Broker: Sending cloudlet 1322 to VM #3
+3
+0.2: Broker: Sending cloudlet 1323 to VM #3
+4
+0.2: Broker: Sending cloudlet 1324 to VM #4
+3
+0.2: Broker: Sending cloudlet 1325 to VM #3
+4
+0.2: Broker: Sending cloudlet 1326 to VM #4
+2
+0.2: Broker: Sending cloudlet 1327 to VM #2
+1
+0.2: Broker: Sending cloudlet 1328 to VM #1
+4
+0.2: Broker: Sending cloudlet 1329 to VM #4
+2
+0.2: Broker: Sending cloudlet 1330 to VM #2
+2
+0.2: Broker: Sending cloudlet 1331 to VM #2
+4
+0.2: Broker: Sending cloudlet 1332 to VM #4
+4
+0.2: Broker: Sending cloudlet 1333 to VM #4
+3
+0.2: Broker: Sending cloudlet 1334 to VM #3
+3
+0.2: Broker: Sending cloudlet 1335 to VM #3
+2
+0.2: Broker: Sending cloudlet 1336 to VM #2
+2
+0.2: Broker: Sending cloudlet 1337 to VM #2
+3
+0.2: Broker: Sending cloudlet 1338 to VM #3
+4
+0.2: Broker: Sending cloudlet 1339 to VM #4
+3
+0.2: Broker: Sending cloudlet 1340 to VM #3
+4
+0.2: Broker: Sending cloudlet 1341 to VM #4
+3
+0.2: Broker: Sending cloudlet 1342 to VM #3
+3
+0.2: Broker: Sending cloudlet 1343 to VM #3
+4
+0.2: Broker: Sending cloudlet 1344 to VM #4
+2
+0.2: Broker: Sending cloudlet 1345 to VM #2
+4
+0.2: Broker: Sending cloudlet 1346 to VM #4
+4
+0.2: Broker: Sending cloudlet 1347 to VM #4
+1
+0.2: Broker: Sending cloudlet 1348 to VM #1
+2
+0.2: Broker: Sending cloudlet 1349 to VM #2
+4
+0.2: Broker: Sending cloudlet 1350 to VM #4
+4
+0.2: Broker: Sending cloudlet 1351 to VM #4
+1
+0.2: Broker: Sending cloudlet 1352 to VM #1
+4
+0.2: Broker: Sending cloudlet 1353 to VM #4
+4
+0.2: Broker: Sending cloudlet 1354 to VM #4
+4
+0.2: Broker: Sending cloudlet 1355 to VM #4
+2
+0.2: Broker: Sending cloudlet 1356 to VM #2
+1
+0.2: Broker: Sending cloudlet 1357 to VM #1
+3
+0.2: Broker: Sending cloudlet 1358 to VM #3
+4
+0.2: Broker: Sending cloudlet 1359 to VM #4
+2
+0.2: Broker: Sending cloudlet 1360 to VM #2
+4
+0.2: Broker: Sending cloudlet 1361 to VM #4
+0
+0.2: Broker: Sending cloudlet 1362 to VM #0
+4
+0.2: Broker: Sending cloudlet 1363 to VM #4
+0
+0.2: Broker: Sending cloudlet 1364 to VM #0
+1
+0.2: Broker: Sending cloudlet 1365 to VM #1
+1
+0.2: Broker: Sending cloudlet 1366 to VM #1
+2
+0.2: Broker: Sending cloudlet 1367 to VM #2
+2
+0.2: Broker: Sending cloudlet 1368 to VM #2
+4
+0.2: Broker: Sending cloudlet 1369 to VM #4
+4
+0.2: Broker: Sending cloudlet 1370 to VM #4
+3
+0.2: Broker: Sending cloudlet 1371 to VM #3
+3
+0.2: Broker: Sending cloudlet 1372 to VM #3
+3
+0.2: Broker: Sending cloudlet 1373 to VM #3
+4
+0.2: Broker: Sending cloudlet 1374 to VM #4
+2
+0.2: Broker: Sending cloudlet 1375 to VM #2
+4
+0.2: Broker: Sending cloudlet 1376 to VM #4
+3
+0.2: Broker: Sending cloudlet 1377 to VM #3
+4
+0.2: Broker: Sending cloudlet 1378 to VM #4
+4
+0.2: Broker: Sending cloudlet 1379 to VM #4
+1
+0.2: Broker: Sending cloudlet 1380 to VM #1
+3
+0.2: Broker: Sending cloudlet 1381 to VM #3
+3
+0.2: Broker: Sending cloudlet 1382 to VM #3
+4
+0.2: Broker: Sending cloudlet 1383 to VM #4
+3
+0.2: Broker: Sending cloudlet 1384 to VM #3
+0
+0.2: Broker: Sending cloudlet 1385 to VM #0
+1
+0.2: Broker: Sending cloudlet 1386 to VM #1
+4
+0.2: Broker: Sending cloudlet 1387 to VM #4
+4
+0.2: Broker: Sending cloudlet 1388 to VM #4
+3
+0.2: Broker: Sending cloudlet 1389 to VM #3
+4
+0.2: Broker: Sending cloudlet 1390 to VM #4
+4
+0.2: Broker: Sending cloudlet 1391 to VM #4
+4
+0.2: Broker: Sending cloudlet 1392 to VM #4
+3
+0.2: Broker: Sending cloudlet 1393 to VM #3
+0
+0.2: Broker: Sending cloudlet 1394 to VM #0
+4
+0.2: Broker: Sending cloudlet 1395 to VM #4
+4
+0.2: Broker: Sending cloudlet 1396 to VM #4
+4
+0.2: Broker: Sending cloudlet 1397 to VM #4
+1
+0.2: Broker: Sending cloudlet 1398 to VM #1
+4
+0.2: Broker: Sending cloudlet 1399 to VM #4
+4
+0.2: Broker: Sending cloudlet 1400 to VM #4
+4
+0.2: Broker: Sending cloudlet 1401 to VM #4
+3
+0.2: Broker: Sending cloudlet 1402 to VM #3
+3
+0.2: Broker: Sending cloudlet 1403 to VM #3
+2
+0.2: Broker: Sending cloudlet 1404 to VM #2
+2
+0.2: Broker: Sending cloudlet 1405 to VM #2
+1
+0.2: Broker: Sending cloudlet 1406 to VM #1
+3
+0.2: Broker: Sending cloudlet 1407 to VM #3
+3
+0.2: Broker: Sending cloudlet 1408 to VM #3
+4
+0.2: Broker: Sending cloudlet 1409 to VM #4
+2
+0.2: Broker: Sending cloudlet 1410 to VM #2
+3
+0.2: Broker: Sending cloudlet 1411 to VM #3
+2
+0.2: Broker: Sending cloudlet 1412 to VM #2
+1
+0.2: Broker: Sending cloudlet 1413 to VM #1
+3
+0.2: Broker: Sending cloudlet 1414 to VM #3
+3
+0.2: Broker: Sending cloudlet 1415 to VM #3
+1
+0.2: Broker: Sending cloudlet 1416 to VM #1
+4
+0.2: Broker: Sending cloudlet 1417 to VM #4
+3
+0.2: Broker: Sending cloudlet 1418 to VM #3
+4
+0.2: Broker: Sending cloudlet 1419 to VM #4
+3
+0.2: Broker: Sending cloudlet 1420 to VM #3
+4
+0.2: Broker: Sending cloudlet 1421 to VM #4
+4
+0.2: Broker: Sending cloudlet 1422 to VM #4
+4
+0.2: Broker: Sending cloudlet 1423 to VM #4
+3
+0.2: Broker: Sending cloudlet 1424 to VM #3
+4
+0.2: Broker: Sending cloudlet 1425 to VM #4
+4
+0.2: Broker: Sending cloudlet 1426 to VM #4
+4
+0.2: Broker: Sending cloudlet 1427 to VM #4
+3
+0.2: Broker: Sending cloudlet 1428 to VM #3
+4
+0.2: Broker: Sending cloudlet 1429 to VM #4
+0
+0.2: Broker: Sending cloudlet 1430 to VM #0
+2
+0.2: Broker: Sending cloudlet 1431 to VM #2
+1
+0.2: Broker: Sending cloudlet 1432 to VM #1
+4
+0.2: Broker: Sending cloudlet 1433 to VM #4
+3
+0.2: Broker: Sending cloudlet 1434 to VM #3
+4
+0.2: Broker: Sending cloudlet 1435 to VM #4
+2
+0.2: Broker: Sending cloudlet 1436 to VM #2
+4
+0.2: Broker: Sending cloudlet 1437 to VM #4
+4
+0.2: Broker: Sending cloudlet 1438 to VM #4
+4
+0.2: Broker: Sending cloudlet 1439 to VM #4
+4
+0.2: Broker: Sending cloudlet 1440 to VM #4
+4
+0.2: Broker: Sending cloudlet 1441 to VM #4
+4
+0.2: Broker: Sending cloudlet 1442 to VM #4
+1
+0.2: Broker: Sending cloudlet 1443 to VM #1
+3
+0.2: Broker: Sending cloudlet 1444 to VM #3
+2
+0.2: Broker: Sending cloudlet 1445 to VM #2
+0
+0.2: Broker: Sending cloudlet 1446 to VM #0
+2
+0.2: Broker: Sending cloudlet 1447 to VM #2
+4
+0.2: Broker: Sending cloudlet 1448 to VM #4
+2
+0.2: Broker: Sending cloudlet 1449 to VM #2
+2
+0.2: Broker: Sending cloudlet 1450 to VM #2
+3
+0.2: Broker: Sending cloudlet 1451 to VM #3
+3
+0.2: Broker: Sending cloudlet 1452 to VM #3
+1
+0.2: Broker: Sending cloudlet 1453 to VM #1
+4
+0.2: Broker: Sending cloudlet 1454 to VM #4
+1
+0.2: Broker: Sending cloudlet 1455 to VM #1
+4
+0.2: Broker: Sending cloudlet 1456 to VM #4
+4
+0.2: Broker: Sending cloudlet 1457 to VM #4
+3
+0.2: Broker: Sending cloudlet 1458 to VM #3
+2
+0.2: Broker: Sending cloudlet 1459 to VM #2
+1
+0.2: Broker: Sending cloudlet 1460 to VM #1
+1
+0.2: Broker: Sending cloudlet 1461 to VM #1
+3
+0.2: Broker: Sending cloudlet 1462 to VM #3
+4
+0.2: Broker: Sending cloudlet 1463 to VM #4
+3
+0.2: Broker: Sending cloudlet 1464 to VM #3
+4
+0.2: Broker: Sending cloudlet 1465 to VM #4
+2
+0.2: Broker: Sending cloudlet 1466 to VM #2
+4
+0.2: Broker: Sending cloudlet 1467 to VM #4
+3
+0.2: Broker: Sending cloudlet 1468 to VM #3
+4
+0.2: Broker: Sending cloudlet 1469 to VM #4
+2
+0.2: Broker: Sending cloudlet 1470 to VM #2
+1
+0.2: Broker: Sending cloudlet 1471 to VM #1
+1
+0.2: Broker: Sending cloudlet 1472 to VM #1
+3
+0.2: Broker: Sending cloudlet 1473 to VM #3
+0
+0.2: Broker: Sending cloudlet 1474 to VM #0
+1
+0.2: Broker: Sending cloudlet 1475 to VM #1
+4
+0.2: Broker: Sending cloudlet 1476 to VM #4
+2
+0.2: Broker: Sending cloudlet 1477 to VM #2
+4
+0.2: Broker: Sending cloudlet 1478 to VM #4
+4
+0.2: Broker: Sending cloudlet 1479 to VM #4
+1
+0.2: Broker: Sending cloudlet 1480 to VM #1
+4
+0.2: Broker: Sending cloudlet 1481 to VM #4
+3
+0.2: Broker: Sending cloudlet 1482 to VM #3
+4
+0.2: Broker: Sending cloudlet 1483 to VM #4
+4
+0.2: Broker: Sending cloudlet 1484 to VM #4
+2
+0.2: Broker: Sending cloudlet 1485 to VM #2
+4
+0.2: Broker: Sending cloudlet 1486 to VM #4
+4
+0.2: Broker: Sending cloudlet 1487 to VM #4
+3
+0.2: Broker: Sending cloudlet 1488 to VM #3
+3
+0.2: Broker: Sending cloudlet 1489 to VM #3
+3
+0.2: Broker: Sending cloudlet 1490 to VM #3
+3
+0.2: Broker: Sending cloudlet 1491 to VM #3
+2
+0.2: Broker: Sending cloudlet 1492 to VM #2
+4
+0.2: Broker: Sending cloudlet 1493 to VM #4
+4
+0.2: Broker: Sending cloudlet 1494 to VM #4
+3
+0.2: Broker: Sending cloudlet 1495 to VM #3
+3
+0.2: Broker: Sending cloudlet 1496 to VM #3
+3
+0.2: Broker: Sending cloudlet 1497 to VM #3
+0
+0.2: Broker: Sending cloudlet 1498 to VM #0
+3
+0.2: Broker: Sending cloudlet 1499 to VM #3
+0
+0.2: Broker: Sending cloudlet 1500 to VM #0
+2
+0.2: Broker: Sending cloudlet 1501 to VM #2
+2
+0.2: Broker: Sending cloudlet 1502 to VM #2
+2
+0.2: Broker: Sending cloudlet 1503 to VM #2
+4
+0.2: Broker: Sending cloudlet 1504 to VM #4
+4
+0.2: Broker: Sending cloudlet 1505 to VM #4
+4
+0.2: Broker: Sending cloudlet 1506 to VM #4
+4
+0.2: Broker: Sending cloudlet 1507 to VM #4
+3
+0.2: Broker: Sending cloudlet 1508 to VM #3
+4
+0.2: Broker: Sending cloudlet 1509 to VM #4
+2
+0.2: Broker: Sending cloudlet 1510 to VM #2
+2
+0.2: Broker: Sending cloudlet 1511 to VM #2
+3
+0.2: Broker: Sending cloudlet 1512 to VM #3
+3
+0.2: Broker: Sending cloudlet 1513 to VM #3
+2
+0.2: Broker: Sending cloudlet 1514 to VM #2
+4
+0.2: Broker: Sending cloudlet 1515 to VM #4
+3
+0.2: Broker: Sending cloudlet 1516 to VM #3
+2
+0.2: Broker: Sending cloudlet 1517 to VM #2
+3
+0.2: Broker: Sending cloudlet 1518 to VM #3
+4
+0.2: Broker: Sending cloudlet 1519 to VM #4
+1
+0.2: Broker: Sending cloudlet 1520 to VM #1
+0
+0.2: Broker: Sending cloudlet 1521 to VM #0
+3
+0.2: Broker: Sending cloudlet 1522 to VM #3
+4
+0.2: Broker: Sending cloudlet 1523 to VM #4
+4
+0.2: Broker: Sending cloudlet 1524 to VM #4
+3
+0.2: Broker: Sending cloudlet 1525 to VM #3
+3
+0.2: Broker: Sending cloudlet 1526 to VM #3
+2
+0.2: Broker: Sending cloudlet 1527 to VM #2
+2
+0.2: Broker: Sending cloudlet 1528 to VM #2
+3
+0.2: Broker: Sending cloudlet 1529 to VM #3
+4
+0.2: Broker: Sending cloudlet 1530 to VM #4
+3
+0.2: Broker: Sending cloudlet 1531 to VM #3
+3
+0.2: Broker: Sending cloudlet 1532 to VM #3
+3
+0.2: Broker: Sending cloudlet 1533 to VM #3
+2
+0.2: Broker: Sending cloudlet 1534 to VM #2
+2
+0.2: Broker: Sending cloudlet 1535 to VM #2
+4
+0.2: Broker: Sending cloudlet 1536 to VM #4
+1
+0.2: Broker: Sending cloudlet 1537 to VM #1
+4
+0.2: Broker: Sending cloudlet 1538 to VM #4
+3
+0.2: Broker: Sending cloudlet 1539 to VM #3
+4
+0.2: Broker: Sending cloudlet 1540 to VM #4
+4
+0.2: Broker: Sending cloudlet 1541 to VM #4
+4
+0.2: Broker: Sending cloudlet 1542 to VM #4
+4
+0.2: Broker: Sending cloudlet 1543 to VM #4
+4
+0.2: Broker: Sending cloudlet 1544 to VM #4
+1
+0.2: Broker: Sending cloudlet 1545 to VM #1
+0
+0.2: Broker: Sending cloudlet 1546 to VM #0
+4
+0.2: Broker: Sending cloudlet 1547 to VM #4
+2
+0.2: Broker: Sending cloudlet 1548 to VM #2
+3
+0.2: Broker: Sending cloudlet 1549 to VM #3
+3
+0.2: Broker: Sending cloudlet 1550 to VM #3
+2
+0.2: Broker: Sending cloudlet 1551 to VM #2
+3
+0.2: Broker: Sending cloudlet 1552 to VM #3
+3
+0.2: Broker: Sending cloudlet 1553 to VM #3
+4
+0.2: Broker: Sending cloudlet 1554 to VM #4
+3
+0.2: Broker: Sending cloudlet 1555 to VM #3
+4
+0.2: Broker: Sending cloudlet 1556 to VM #4
+0
+0.2: Broker: Sending cloudlet 1557 to VM #0
+0
+0.2: Broker: Sending cloudlet 1558 to VM #0
+2
+0.2: Broker: Sending cloudlet 1559 to VM #2
+3
+0.2: Broker: Sending cloudlet 1560 to VM #3
+1
+0.2: Broker: Sending cloudlet 1561 to VM #1
+4
+0.2: Broker: Sending cloudlet 1562 to VM #4
+4
+0.2: Broker: Sending cloudlet 1563 to VM #4
+3
+0.2: Broker: Sending cloudlet 1564 to VM #3
+3
+0.2: Broker: Sending cloudlet 1565 to VM #3
+2
+0.2: Broker: Sending cloudlet 1566 to VM #2
+4
+0.2: Broker: Sending cloudlet 1567 to VM #4
+0
+0.2: Broker: Sending cloudlet 1568 to VM #0
+4
+0.2: Broker: Sending cloudlet 1569 to VM #4
+4
+0.2: Broker: Sending cloudlet 1570 to VM #4
+2
+0.2: Broker: Sending cloudlet 1571 to VM #2
+4
+0.2: Broker: Sending cloudlet 1572 to VM #4
+4
+0.2: Broker: Sending cloudlet 1573 to VM #4
+1
+0.2: Broker: Sending cloudlet 1574 to VM #1
+3
+0.2: Broker: Sending cloudlet 1575 to VM #3
+3
+0.2: Broker: Sending cloudlet 1576 to VM #3
+4
+0.2: Broker: Sending cloudlet 1577 to VM #4
+3
+0.2: Broker: Sending cloudlet 1578 to VM #3
+4
+0.2: Broker: Sending cloudlet 1579 to VM #4
+3
+0.2: Broker: Sending cloudlet 1580 to VM #3
+4
+0.2: Broker: Sending cloudlet 1581 to VM #4
+4
+0.2: Broker: Sending cloudlet 1582 to VM #4
+3
+0.2: Broker: Sending cloudlet 1583 to VM #3
+2
+0.2: Broker: Sending cloudlet 1584 to VM #2
+4
+0.2: Broker: Sending cloudlet 1585 to VM #4
+3
+0.2: Broker: Sending cloudlet 1586 to VM #3
+4
+0.2: Broker: Sending cloudlet 1587 to VM #4
+2
+0.2: Broker: Sending cloudlet 1588 to VM #2
+4
+0.2: Broker: Sending cloudlet 1589 to VM #4
+4
+0.2: Broker: Sending cloudlet 1590 to VM #4
+3
+0.2: Broker: Sending cloudlet 1591 to VM #3
+2
+0.2: Broker: Sending cloudlet 1592 to VM #2
+3
+0.2: Broker: Sending cloudlet 1593 to VM #3
+4
+0.2: Broker: Sending cloudlet 1594 to VM #4
+4
+0.2: Broker: Sending cloudlet 1595 to VM #4
+2
+0.2: Broker: Sending cloudlet 1596 to VM #2
+1
+0.2: Broker: Sending cloudlet 1597 to VM #1
+4
+0.2: Broker: Sending cloudlet 1598 to VM #4
+0
+0.2: Broker: Sending cloudlet 1599 to VM #0
+4
+0.2: Broker: Sending cloudlet 1600 to VM #4
+4
+0.2: Broker: Sending cloudlet 1601 to VM #4
+3
+0.2: Broker: Sending cloudlet 1602 to VM #3
+4
+0.2: Broker: Sending cloudlet 1603 to VM #4
+2
+0.2: Broker: Sending cloudlet 1604 to VM #2
+4
+0.2: Broker: Sending cloudlet 1605 to VM #4
+3
+0.2: Broker: Sending cloudlet 1606 to VM #3
+3
+0.2: Broker: Sending cloudlet 1607 to VM #3
+3
+0.2: Broker: Sending cloudlet 1608 to VM #3
+1
+0.2: Broker: Sending cloudlet 1609 to VM #1
+3
+0.2: Broker: Sending cloudlet 1610 to VM #3
+4
+0.2: Broker: Sending cloudlet 1611 to VM #4
+4
+0.2: Broker: Sending cloudlet 1612 to VM #4
+4
+0.2: Broker: Sending cloudlet 1613 to VM #4
+2
+0.2: Broker: Sending cloudlet 1614 to VM #2
+2
+0.2: Broker: Sending cloudlet 1615 to VM #2
+3
+0.2: Broker: Sending cloudlet 1616 to VM #3
+2
+0.2: Broker: Sending cloudlet 1617 to VM #2
+3
+0.2: Broker: Sending cloudlet 1618 to VM #3
+2
+0.2: Broker: Sending cloudlet 1619 to VM #2
+1
+0.2: Broker: Sending cloudlet 1620 to VM #1
+0
+0.2: Broker: Sending cloudlet 1621 to VM #0
+4
+0.2: Broker: Sending cloudlet 1622 to VM #4
+1
+0.2: Broker: Sending cloudlet 1623 to VM #1
+4
+0.2: Broker: Sending cloudlet 1624 to VM #4
+1
+0.2: Broker: Sending cloudlet 1625 to VM #1
+4
+0.2: Broker: Sending cloudlet 1626 to VM #4
+3
+0.2: Broker: Sending cloudlet 1627 to VM #3
+4
+0.2: Broker: Sending cloudlet 1628 to VM #4
+4
+0.2: Broker: Sending cloudlet 1629 to VM #4
+2
+0.2: Broker: Sending cloudlet 1630 to VM #2
+3
+0.2: Broker: Sending cloudlet 1631 to VM #3
+3
+0.2: Broker: Sending cloudlet 1632 to VM #3
+2
+0.2: Broker: Sending cloudlet 1633 to VM #2
+4
+0.2: Broker: Sending cloudlet 1634 to VM #4
+1
+0.2: Broker: Sending cloudlet 1635 to VM #1
+3
+0.2: Broker: Sending cloudlet 1636 to VM #3
+2
+0.2: Broker: Sending cloudlet 1637 to VM #2
+4
+0.2: Broker: Sending cloudlet 1638 to VM #4
+2
+0.2: Broker: Sending cloudlet 1639 to VM #2
+4
+0.2: Broker: Sending cloudlet 1640 to VM #4
+3
+0.2: Broker: Sending cloudlet 1641 to VM #3
+3
+0.2: Broker: Sending cloudlet 1642 to VM #3
+1
+0.2: Broker: Sending cloudlet 1643 to VM #1
+2
+0.2: Broker: Sending cloudlet 1644 to VM #2
+2
+0.2: Broker: Sending cloudlet 1645 to VM #2
+3
+0.2: Broker: Sending cloudlet 1646 to VM #3
+4
+0.2: Broker: Sending cloudlet 1647 to VM #4
+3
+0.2: Broker: Sending cloudlet 1648 to VM #3
+3
+0.2: Broker: Sending cloudlet 1649 to VM #3
+2
+0.2: Broker: Sending cloudlet 1650 to VM #2
+3
+0.2: Broker: Sending cloudlet 1651 to VM #3
+2
+0.2: Broker: Sending cloudlet 1652 to VM #2
+3
+0.2: Broker: Sending cloudlet 1653 to VM #3
+3
+0.2: Broker: Sending cloudlet 1654 to VM #3
+3
+0.2: Broker: Sending cloudlet 1655 to VM #3
+1
+0.2: Broker: Sending cloudlet 1656 to VM #1
+2
+0.2: Broker: Sending cloudlet 1657 to VM #2
+0
+0.2: Broker: Sending cloudlet 1658 to VM #0
+4
+0.2: Broker: Sending cloudlet 1659 to VM #4
+0
+0.2: Broker: Sending cloudlet 1660 to VM #0
+2
+0.2: Broker: Sending cloudlet 1661 to VM #2
+3
+0.2: Broker: Sending cloudlet 1662 to VM #3
+3
+0.2: Broker: Sending cloudlet 1663 to VM #3
+2
+0.2: Broker: Sending cloudlet 1664 to VM #2
+2
+0.2: Broker: Sending cloudlet 1665 to VM #2
+4
+0.2: Broker: Sending cloudlet 1666 to VM #4
+0
+0.2: Broker: Sending cloudlet 1667 to VM #0
+3
+0.2: Broker: Sending cloudlet 1668 to VM #3
+2
+0.2: Broker: Sending cloudlet 1669 to VM #2
+4
+0.2: Broker: Sending cloudlet 1670 to VM #4
+4
+0.2: Broker: Sending cloudlet 1671 to VM #4
+1
+0.2: Broker: Sending cloudlet 1672 to VM #1
+4
+0.2: Broker: Sending cloudlet 1673 to VM #4
+4
+0.2: Broker: Sending cloudlet 1674 to VM #4
+4
+0.2: Broker: Sending cloudlet 1675 to VM #4
+4
+0.2: Broker: Sending cloudlet 1676 to VM #4
+2
+0.2: Broker: Sending cloudlet 1677 to VM #2
+2
+0.2: Broker: Sending cloudlet 1678 to VM #2
+3
+0.2: Broker: Sending cloudlet 1679 to VM #3
+2
+0.2: Broker: Sending cloudlet 1680 to VM #2
+2
+0.2: Broker: Sending cloudlet 1681 to VM #2
+3
+0.2: Broker: Sending cloudlet 1682 to VM #3
+1
+0.2: Broker: Sending cloudlet 1683 to VM #1
+3
+0.2: Broker: Sending cloudlet 1684 to VM #3
+4
+0.2: Broker: Sending cloudlet 1685 to VM #4
+2
+0.2: Broker: Sending cloudlet 1686 to VM #2
+2
+0.2: Broker: Sending cloudlet 1687 to VM #2
+3
+0.2: Broker: Sending cloudlet 1688 to VM #3
+4
+0.2: Broker: Sending cloudlet 1689 to VM #4
+1
+0.2: Broker: Sending cloudlet 1690 to VM #1
+1
+0.2: Broker: Sending cloudlet 1691 to VM #1
+2
+0.2: Broker: Sending cloudlet 1692 to VM #2
+4
+0.2: Broker: Sending cloudlet 1693 to VM #4
+2
+0.2: Broker: Sending cloudlet 1694 to VM #2
+4
+0.2: Broker: Sending cloudlet 1695 to VM #4
+3
+0.2: Broker: Sending cloudlet 1696 to VM #3
+3
+0.2: Broker: Sending cloudlet 1697 to VM #3
+2
+0.2: Broker: Sending cloudlet 1698 to VM #2
+4
+0.2: Broker: Sending cloudlet 1699 to VM #4
+4
+0.2: Broker: Sending cloudlet 1700 to VM #4
+2
+0.2: Broker: Sending cloudlet 1701 to VM #2
+4
+0.2: Broker: Sending cloudlet 1702 to VM #4
+1
+0.2: Broker: Sending cloudlet 1703 to VM #1
+3
+0.2: Broker: Sending cloudlet 1704 to VM #3
+2
+0.2: Broker: Sending cloudlet 1705 to VM #2
+1
+0.2: Broker: Sending cloudlet 1706 to VM #1
+4
+0.2: Broker: Sending cloudlet 1707 to VM #4
+3
+0.2: Broker: Sending cloudlet 1708 to VM #3
+4
+0.2: Broker: Sending cloudlet 1709 to VM #4
+3
+0.2: Broker: Sending cloudlet 1710 to VM #3
+4
+0.2: Broker: Sending cloudlet 1711 to VM #4
+3
+0.2: Broker: Sending cloudlet 1712 to VM #3
+0
+0.2: Broker: Sending cloudlet 1713 to VM #0
+4
+0.2: Broker: Sending cloudlet 1714 to VM #4
+1
+0.2: Broker: Sending cloudlet 1715 to VM #1
+4
+0.2: Broker: Sending cloudlet 1716 to VM #4
+3
+0.2: Broker: Sending cloudlet 1717 to VM #3
+1
+0.2: Broker: Sending cloudlet 1718 to VM #1
+4
+0.2: Broker: Sending cloudlet 1719 to VM #4
+3
+0.2: Broker: Sending cloudlet 1720 to VM #3
+4
+0.2: Broker: Sending cloudlet 1721 to VM #4
+3
+0.2: Broker: Sending cloudlet 1722 to VM #3
+2
+0.2: Broker: Sending cloudlet 1723 to VM #2
+1
+0.2: Broker: Sending cloudlet 1724 to VM #1
+3
+0.2: Broker: Sending cloudlet 1725 to VM #3
+2
+0.2: Broker: Sending cloudlet 1726 to VM #2
+4
+0.2: Broker: Sending cloudlet 1727 to VM #4
+2
+0.2: Broker: Sending cloudlet 1728 to VM #2
+2
+0.2: Broker: Sending cloudlet 1729 to VM #2
+1
+0.2: Broker: Sending cloudlet 1730 to VM #1
+3
+0.2: Broker: Sending cloudlet 1731 to VM #3
+4
+0.2: Broker: Sending cloudlet 1732 to VM #4
+1
+0.2: Broker: Sending cloudlet 1733 to VM #1
+4
+0.2: Broker: Sending cloudlet 1734 to VM #4
+2
+0.2: Broker: Sending cloudlet 1735 to VM #2
+4
+0.2: Broker: Sending cloudlet 1736 to VM #4
+3
+0.2: Broker: Sending cloudlet 1737 to VM #3
+1
+0.2: Broker: Sending cloudlet 1738 to VM #1
+4
+0.2: Broker: Sending cloudlet 1739 to VM #4
+4
+0.2: Broker: Sending cloudlet 1740 to VM #4
+2
+0.2: Broker: Sending cloudlet 1741 to VM #2
+4
+0.2: Broker: Sending cloudlet 1742 to VM #4
+1
+0.2: Broker: Sending cloudlet 1743 to VM #1
+3
+0.2: Broker: Sending cloudlet 1744 to VM #3
+4
+0.2: Broker: Sending cloudlet 1745 to VM #4
+4
+0.2: Broker: Sending cloudlet 1746 to VM #4
+4
+0.2: Broker: Sending cloudlet 1747 to VM #4
+2
+0.2: Broker: Sending cloudlet 1748 to VM #2
+3
+0.2: Broker: Sending cloudlet 1749 to VM #3
+2
+0.2: Broker: Sending cloudlet 1750 to VM #2
+1
+0.2: Broker: Sending cloudlet 1751 to VM #1
+2
+0.2: Broker: Sending cloudlet 1752 to VM #2
+3
+0.2: Broker: Sending cloudlet 1753 to VM #3
+1
+0.2: Broker: Sending cloudlet 1754 to VM #1
+2
+0.2: Broker: Sending cloudlet 1755 to VM #2
+2
+0.2: Broker: Sending cloudlet 1756 to VM #2
+4
+0.2: Broker: Sending cloudlet 1757 to VM #4
+4
+0.2: Broker: Sending cloudlet 1758 to VM #4
+4
+0.2: Broker: Sending cloudlet 1759 to VM #4
+4
+0.2: Broker: Sending cloudlet 1760 to VM #4
+4
+0.2: Broker: Sending cloudlet 1761 to VM #4
+4
+0.2: Broker: Sending cloudlet 1762 to VM #4
+4
+0.2: Broker: Sending cloudlet 1763 to VM #4
+3
+0.2: Broker: Sending cloudlet 1764 to VM #3
+0
+0.2: Broker: Sending cloudlet 1765 to VM #0
+2
+0.2: Broker: Sending cloudlet 1766 to VM #2
+2
+0.2: Broker: Sending cloudlet 1767 to VM #2
+4
+0.2: Broker: Sending cloudlet 1768 to VM #4
+3
+0.2: Broker: Sending cloudlet 1769 to VM #3
+1
+0.2: Broker: Sending cloudlet 1770 to VM #1
+3
+0.2: Broker: Sending cloudlet 1771 to VM #3
+4
+0.2: Broker: Sending cloudlet 1772 to VM #4
+4
+0.2: Broker: Sending cloudlet 1773 to VM #4
+3
+0.2: Broker: Sending cloudlet 1774 to VM #3
+2
+0.2: Broker: Sending cloudlet 1775 to VM #2
+4
+0.2: Broker: Sending cloudlet 1776 to VM #4
+4
+0.2: Broker: Sending cloudlet 1777 to VM #4
+2
+0.2: Broker: Sending cloudlet 1778 to VM #2
+2
+0.2: Broker: Sending cloudlet 1779 to VM #2
+3
+0.2: Broker: Sending cloudlet 1780 to VM #3
+4
+0.2: Broker: Sending cloudlet 1781 to VM #4
+0
+0.2: Broker: Sending cloudlet 1782 to VM #0
+3
+0.2: Broker: Sending cloudlet 1783 to VM #3
+3
+0.2: Broker: Sending cloudlet 1784 to VM #3
+2
+0.2: Broker: Sending cloudlet 1785 to VM #2
+1
+0.2: Broker: Sending cloudlet 1786 to VM #1
+4
+0.2: Broker: Sending cloudlet 1787 to VM #4
+3
+0.2: Broker: Sending cloudlet 1788 to VM #3
+3
+0.2: Broker: Sending cloudlet 1789 to VM #3
+4
+0.2: Broker: Sending cloudlet 1790 to VM #4
+2
+0.2: Broker: Sending cloudlet 1791 to VM #2
+4
+0.2: Broker: Sending cloudlet 1792 to VM #4
+2
+0.2: Broker: Sending cloudlet 1793 to VM #2
+3
+0.2: Broker: Sending cloudlet 1794 to VM #3
+2
+0.2: Broker: Sending cloudlet 1795 to VM #2
+3
+0.2: Broker: Sending cloudlet 1796 to VM #3
+2
+0.2: Broker: Sending cloudlet 1797 to VM #2
+3
+0.2: Broker: Sending cloudlet 1798 to VM #3
+4
+0.2: Broker: Sending cloudlet 1799 to VM #4
+2
+0.2: Broker: Sending cloudlet 1800 to VM #2
+2
+0.2: Broker: Sending cloudlet 1801 to VM #2
+1
+0.2: Broker: Sending cloudlet 1802 to VM #1
+2
+0.2: Broker: Sending cloudlet 1803 to VM #2
+1
+0.2: Broker: Sending cloudlet 1804 to VM #1
+4
+0.2: Broker: Sending cloudlet 1805 to VM #4
+3
+0.2: Broker: Sending cloudlet 1806 to VM #3
+4
+0.2: Broker: Sending cloudlet 1807 to VM #4
+3
+0.2: Broker: Sending cloudlet 1808 to VM #3
+4
+0.2: Broker: Sending cloudlet 1809 to VM #4
+4
+0.2: Broker: Sending cloudlet 1810 to VM #4
+2
+0.2: Broker: Sending cloudlet 1811 to VM #2
+3
+0.2: Broker: Sending cloudlet 1812 to VM #3
+3
+0.2: Broker: Sending cloudlet 1813 to VM #3
+0
+0.2: Broker: Sending cloudlet 1814 to VM #0
+2
+0.2: Broker: Sending cloudlet 1815 to VM #2
+1
+0.2: Broker: Sending cloudlet 1816 to VM #1
+4
+0.2: Broker: Sending cloudlet 1817 to VM #4
+3
+0.2: Broker: Sending cloudlet 1818 to VM #3
+2
+0.2: Broker: Sending cloudlet 1819 to VM #2
+4
+0.2: Broker: Sending cloudlet 1820 to VM #4
+2
+0.2: Broker: Sending cloudlet 1821 to VM #2
+4
+0.2: Broker: Sending cloudlet 1822 to VM #4
+3
+0.2: Broker: Sending cloudlet 1823 to VM #3
+1
+0.2: Broker: Sending cloudlet 1824 to VM #1
+4
+0.2: Broker: Sending cloudlet 1825 to VM #4
+0
+0.2: Broker: Sending cloudlet 1826 to VM #0
+2
+0.2: Broker: Sending cloudlet 1827 to VM #2
+0
+0.2: Broker: Sending cloudlet 1828 to VM #0
+4
+0.2: Broker: Sending cloudlet 1829 to VM #4
+4
+0.2: Broker: Sending cloudlet 1830 to VM #4
+4
+0.2: Broker: Sending cloudlet 1831 to VM #4
+2
+0.2: Broker: Sending cloudlet 1832 to VM #2
+1
+0.2: Broker: Sending cloudlet 1833 to VM #1
+4
+0.2: Broker: Sending cloudlet 1834 to VM #4
+3
+0.2: Broker: Sending cloudlet 1835 to VM #3
+4
+0.2: Broker: Sending cloudlet 1836 to VM #4
+4
+0.2: Broker: Sending cloudlet 1837 to VM #4
+4
+0.2: Broker: Sending cloudlet 1838 to VM #4
+1
+0.2: Broker: Sending cloudlet 1839 to VM #1
+4
+0.2: Broker: Sending cloudlet 1840 to VM #4
+0
+0.2: Broker: Sending cloudlet 1841 to VM #0
+2
+0.2: Broker: Sending cloudlet 1842 to VM #2
+4
+0.2: Broker: Sending cloudlet 1843 to VM #4
+4
+0.2: Broker: Sending cloudlet 1844 to VM #4
+4
+0.2: Broker: Sending cloudlet 1845 to VM #4
+4
+0.2: Broker: Sending cloudlet 1846 to VM #4
+3
+0.2: Broker: Sending cloudlet 1847 to VM #3
+3
+0.2: Broker: Sending cloudlet 1848 to VM #3
+4
+0.2: Broker: Sending cloudlet 1849 to VM #4
+4
+0.2: Broker: Sending cloudlet 1850 to VM #4
+3
+0.2: Broker: Sending cloudlet 1851 to VM #3
+3
+0.2: Broker: Sending cloudlet 1852 to VM #3
+4
+0.2: Broker: Sending cloudlet 1853 to VM #4
+4
+0.2: Broker: Sending cloudlet 1854 to VM #4
+2
+0.2: Broker: Sending cloudlet 1855 to VM #2
+1
+0.2: Broker: Sending cloudlet 1856 to VM #1
+4
+0.2: Broker: Sending cloudlet 1857 to VM #4
+3
+0.2: Broker: Sending cloudlet 1858 to VM #3
+4
+0.2: Broker: Sending cloudlet 1859 to VM #4
+2
+0.2: Broker: Sending cloudlet 1860 to VM #2
+4
+0.2: Broker: Sending cloudlet 1861 to VM #4
+1
+0.2: Broker: Sending cloudlet 1862 to VM #1
+4
+0.2: Broker: Sending cloudlet 1863 to VM #4
+2
+0.2: Broker: Sending cloudlet 1864 to VM #2
+3
+0.2: Broker: Sending cloudlet 1865 to VM #3
+4
+0.2: Broker: Sending cloudlet 1866 to VM #4
+3
+0.2: Broker: Sending cloudlet 1867 to VM #3
+3
+0.2: Broker: Sending cloudlet 1868 to VM #3
+1
+0.2: Broker: Sending cloudlet 1869 to VM #1
+0
+0.2: Broker: Sending cloudlet 1870 to VM #0
+4
+0.2: Broker: Sending cloudlet 1871 to VM #4
+3
+0.2: Broker: Sending cloudlet 1872 to VM #3
+2
+0.2: Broker: Sending cloudlet 1873 to VM #2
+3
+0.2: Broker: Sending cloudlet 1874 to VM #3
+1
+0.2: Broker: Sending cloudlet 1875 to VM #1
+3
+0.2: Broker: Sending cloudlet 1876 to VM #3
+3
+0.2: Broker: Sending cloudlet 1877 to VM #3
+4
+0.2: Broker: Sending cloudlet 1878 to VM #4
+3
+0.2: Broker: Sending cloudlet 1879 to VM #3
+4
+0.2: Broker: Sending cloudlet 1880 to VM #4
+4
+0.2: Broker: Sending cloudlet 1881 to VM #4
+1
+0.2: Broker: Sending cloudlet 1882 to VM #1
+4
+0.2: Broker: Sending cloudlet 1883 to VM #4
+4
+0.2: Broker: Sending cloudlet 1884 to VM #4
+3
+0.2: Broker: Sending cloudlet 1885 to VM #3
+4
+0.2: Broker: Sending cloudlet 1886 to VM #4
+0
+0.2: Broker: Sending cloudlet 1887 to VM #0
+4
+0.2: Broker: Sending cloudlet 1888 to VM #4
+3
+0.2: Broker: Sending cloudlet 1889 to VM #3
+2
+0.2: Broker: Sending cloudlet 1890 to VM #2
+2
+0.2: Broker: Sending cloudlet 1891 to VM #2
+4
+0.2: Broker: Sending cloudlet 1892 to VM #4
+4
+0.2: Broker: Sending cloudlet 1893 to VM #4
+1
+0.2: Broker: Sending cloudlet 1894 to VM #1
+3
+0.2: Broker: Sending cloudlet 1895 to VM #3
+4
+0.2: Broker: Sending cloudlet 1896 to VM #4
+4
+0.2: Broker: Sending cloudlet 1897 to VM #4
+2
+0.2: Broker: Sending cloudlet 1898 to VM #2
+4
+0.2: Broker: Sending cloudlet 1899 to VM #4
+1
+0.2: Broker: Sending cloudlet 1900 to VM #1
+4
+0.2: Broker: Sending cloudlet 1901 to VM #4
+2
+0.2: Broker: Sending cloudlet 1902 to VM #2
+2
+0.2: Broker: Sending cloudlet 1903 to VM #2
+4
+0.2: Broker: Sending cloudlet 1904 to VM #4
+4
+0.2: Broker: Sending cloudlet 1905 to VM #4
+1
+0.2: Broker: Sending cloudlet 1906 to VM #1
+4
+0.2: Broker: Sending cloudlet 1907 to VM #4
+4
+0.2: Broker: Sending cloudlet 1908 to VM #4
+4
+0.2: Broker: Sending cloudlet 1909 to VM #4
+4
+0.2: Broker: Sending cloudlet 1910 to VM #4
+3
+0.2: Broker: Sending cloudlet 1911 to VM #3
+4
+0.2: Broker: Sending cloudlet 1912 to VM #4
+1
+0.2: Broker: Sending cloudlet 1913 to VM #1
+4
+0.2: Broker: Sending cloudlet 1914 to VM #4
+4
+0.2: Broker: Sending cloudlet 1915 to VM #4
+2
+0.2: Broker: Sending cloudlet 1916 to VM #2
+2
+0.2: Broker: Sending cloudlet 1917 to VM #2
+4
+0.2: Broker: Sending cloudlet 1918 to VM #4
+4
+0.2: Broker: Sending cloudlet 1919 to VM #4
+3
+0.2: Broker: Sending cloudlet 1920 to VM #3
+4
+0.2: Broker: Sending cloudlet 1921 to VM #4
+4
+0.2: Broker: Sending cloudlet 1922 to VM #4
+0
+0.2: Broker: Sending cloudlet 1923 to VM #0
+2
+0.2: Broker: Sending cloudlet 1924 to VM #2
+4
+0.2: Broker: Sending cloudlet 1925 to VM #4
+2
+0.2: Broker: Sending cloudlet 1926 to VM #2
+4
+0.2: Broker: Sending cloudlet 1927 to VM #4
+2
+0.2: Broker: Sending cloudlet 1928 to VM #2
+2
+0.2: Broker: Sending cloudlet 1929 to VM #2
+3
+0.2: Broker: Sending cloudlet 1930 to VM #3
+0
+0.2: Broker: Sending cloudlet 1931 to VM #0
+4
+0.2: Broker: Sending cloudlet 1932 to VM #4
+0
+0.2: Broker: Sending cloudlet 1933 to VM #0
+1
+0.2: Broker: Sending cloudlet 1934 to VM #1
+3
+0.2: Broker: Sending cloudlet 1935 to VM #3
+4
+0.2: Broker: Sending cloudlet 1936 to VM #4
+4
+0.2: Broker: Sending cloudlet 1937 to VM #4
+4
+0.2: Broker: Sending cloudlet 1938 to VM #4
+2
+0.2: Broker: Sending cloudlet 1939 to VM #2
+0
+0.2: Broker: Sending cloudlet 1940 to VM #0
+2
+0.2: Broker: Sending cloudlet 1941 to VM #2
+4
+0.2: Broker: Sending cloudlet 1942 to VM #4
+4
+0.2: Broker: Sending cloudlet 1943 to VM #4
+3
+0.2: Broker: Sending cloudlet 1944 to VM #3
+4
+0.2: Broker: Sending cloudlet 1945 to VM #4
+2
+0.2: Broker: Sending cloudlet 1946 to VM #2
+4
+0.2: Broker: Sending cloudlet 1947 to VM #4
+2
+0.2: Broker: Sending cloudlet 1948 to VM #2
+4
+0.2: Broker: Sending cloudlet 1949 to VM #4
+4
+0.2: Broker: Sending cloudlet 1950 to VM #4
+4
+0.2: Broker: Sending cloudlet 1951 to VM #4
+2
+0.2: Broker: Sending cloudlet 1952 to VM #2
+4
+0.2: Broker: Sending cloudlet 1953 to VM #4
+4
+0.2: Broker: Sending cloudlet 1954 to VM #4
+3
+0.2: Broker: Sending cloudlet 1955 to VM #3
+4
+0.2: Broker: Sending cloudlet 1956 to VM #4
+4
+0.2: Broker: Sending cloudlet 1957 to VM #4
+4
+0.2: Broker: Sending cloudlet 1958 to VM #4
+3
+0.2: Broker: Sending cloudlet 1959 to VM #3
+2
+0.2: Broker: Sending cloudlet 1960 to VM #2
+4
+0.2: Broker: Sending cloudlet 1961 to VM #4
+4
+0.2: Broker: Sending cloudlet 1962 to VM #4
+1
+0.2: Broker: Sending cloudlet 1963 to VM #1
+3
+0.2: Broker: Sending cloudlet 1964 to VM #3
+0
+0.2: Broker: Sending cloudlet 1965 to VM #0
+3
+0.2: Broker: Sending cloudlet 1966 to VM #3
+3
+0.2: Broker: Sending cloudlet 1967 to VM #3
+2
+0.2: Broker: Sending cloudlet 1968 to VM #2
+4
+0.2: Broker: Sending cloudlet 1969 to VM #4
+4
+0.2: Broker: Sending cloudlet 1970 to VM #4
+4
+0.2: Broker: Sending cloudlet 1971 to VM #4
+4
+0.2: Broker: Sending cloudlet 1972 to VM #4
+4
+0.2: Broker: Sending cloudlet 1973 to VM #4
+4
+0.2: Broker: Sending cloudlet 1974 to VM #4
+1
+0.2: Broker: Sending cloudlet 1975 to VM #1
+4
+0.2: Broker: Sending cloudlet 1976 to VM #4
+2
+0.2: Broker: Sending cloudlet 1977 to VM #2
+3
+0.2: Broker: Sending cloudlet 1978 to VM #3
+4
+0.2: Broker: Sending cloudlet 1979 to VM #4
+2
+0.2: Broker: Sending cloudlet 1980 to VM #2
+2
+0.2: Broker: Sending cloudlet 1981 to VM #2
+2
+0.2: Broker: Sending cloudlet 1982 to VM #2
+4
+0.2: Broker: Sending cloudlet 1983 to VM #4
+4
+0.2: Broker: Sending cloudlet 1984 to VM #4
+4
+0.2: Broker: Sending cloudlet 1985 to VM #4
+4
+0.2: Broker: Sending cloudlet 1986 to VM #4
+4
+0.2: Broker: Sending cloudlet 1987 to VM #4
+2
+0.2: Broker: Sending cloudlet 1988 to VM #2
+3
+0.2: Broker: Sending cloudlet 1989 to VM #3
+4
+0.2: Broker: Sending cloudlet 1990 to VM #4
+2
+0.2: Broker: Sending cloudlet 1991 to VM #2
+1
+0.2: Broker: Sending cloudlet 1992 to VM #1
+2
+0.2: Broker: Sending cloudlet 1993 to VM #2
+3
+0.2: Broker: Sending cloudlet 1994 to VM #3
+2
+0.2: Broker: Sending cloudlet 1995 to VM #2
+2
+0.2: Broker: Sending cloudlet 1996 to VM #2
+1
+0.2: Broker: Sending cloudlet 1997 to VM #1
+2
+0.2: Broker: Sending cloudlet 1998 to VM #2
+1
+0.2: Broker: Sending cloudlet 1999 to VM #1
+0.4857142857142857: Broker: Cloudlet 1 received
+1.0: Broker: Cloudlet 25 received
+1.0571428571428572: Broker: Cloudlet 2 received
+2.6: Broker: Cloudlet 34 received
+5.3428571428571425: Broker: Cloudlet 3 received
+5.628571428571428: Broker: Cloudlet 5 received
+5.914285714285714: Broker: Cloudlet 0 received
+5.914285714285715: Broker: Cloudlet 12 received
+6.199999999999999: Broker: Cloudlet 6 received
+6.2: Broker: Cloudlet 13 received
+8.2: Broker: Cloudlet 4 received
+8.6: Broker: Cloudlet 9 received
+10.2: Broker: Cloudlet 7 received
+10.485714285714286: Broker: Cloudlet 15 received
+11.914285714285713: Broker: Cloudlet 8 received
+12.485714285714284: Broker: Cloudlet 10 received
+13.057142857142855: Broker: Cloudlet 14 received
+13.628571428571426: Broker: Cloudlet 18 received
+14.199999999999998: Broker: Cloudlet 22 received
+14.485714285714284: Broker: Cloudlet 11 received
+14.597714285714286: Broker: Cloudlet 35 received
+14.707714285714285: Broker: Cloudlet 27 received
+14.77142857142857: Broker: Cloudlet 17 received
+15.107714285714286: Broker: Cloudlet 41 received
+15.395714285714286: Broker: Cloudlet 61 received
+16.2: Broker: Cloudlet 16 received
+16.771428571428572: Broker: Cloudlet 26 received
+16.995428571428572: Broker: Cloudlet 62 received
+18.485714285714284: Broker: Cloudlet 23 received
+18.595428571428574: Broker: Cloudlet 70 received
+19.057142857142857: Broker: Cloudlet 19 received
+21.107428571428574: Broker: Cloudlet 59 received
+22.48457142857143: Broker: Cloudlet 32 received
+22.770285714285716: Broker: Cloudlet 33 received
+24.2: Broker: Cloudlet 28 received
+24.771428571428572: Broker: Cloudlet 20 received
+24.771428571428572: Broker: Cloudlet 30 received
+25.057142857142857: Broker: Cloudlet 21 received
+27.056: Broker: Cloudlet 43 received
+27.627428571428574: Broker: Cloudlet 50 received
+29.057142857142857: Broker: Cloudlet 31 received
+29.107428571428574: Broker: Cloudlet 64 received
+29.907428571428575: Broker: Cloudlet 66 received
+30.771428571428572: Broker: Cloudlet 24 received
+31.057142857142857: Broker: Cloudlet 29 received
+31.62857142857143: Broker: Cloudlet 38 received
+31.913142857142862: Broker: Cloudlet 71 received
+32.484571428571435: Broker: Cloudlet 74 received
+34.59257142857143: Broker: Cloudlet 112 received
+34.77142857142857: Broker: Cloudlet 36 received
+35.05714285714286: Broker: Cloudlet 37 received
+35.90657142857143: Broker: Cloudlet 67 received
+35.91428571428571: Broker: Cloudlet 39 received
+36.48571428571428: Broker: Cloudlet 42 received
+36.70657142857143: Broker: Cloudlet 82 received
+36.81657142857143: Broker: Cloudlet 79 received
+37.10228571428571: Broker: Cloudlet 81 received
+37.388: Broker: Cloudlet 85 received
+37.506: Broker: Cloudlet 90 received
+40.771428571428565: Broker: Cloudlet 47 received
+40.771428571428565: Broker: Cloudlet 40 received
+41.05714285714285: Broker: Cloudlet 53 received
+41.67314285714286: Broker: Cloudlet 87 received
+43.50514285714286: Broker: Cloudlet 107 received
+44.305142857142854: Broker: Cloudlet 122 received
+45.342857142857135: Broker: Cloudlet 55 received
+46.48571428571428: Broker: Cloudlet 44 received
+46.58914285714285: Broker: Cloudlet 119 received
+46.771428571428565: Broker: Cloudlet 45 received
+47.342857142857135: Broker: Cloudlet 46 received
+47.38628571428571: Broker: Cloudlet 141 received
+47.38628571428571: Broker: Cloudlet 92 received
+47.95771428571428: Broker: Cloudlet 94 received
+48.52914285714285: Broker: Cloudlet 98 received
+50.305142857142854: Broker: Cloudlet 135 received
+50.70514285714285: Broker: Cloudlet 145 received
+51.05714285714285: Broker: Cloudlet 56 received
+51.62857142857142: Broker: Cloudlet 58 received
+52.81371428571428: Broker: Cloudlet 99 received
+53.05714285714285: Broker: Cloudlet 48 received
+53.342857142857135: Broker: Cloudlet 49 received
+57.342857142857135: Broker: Cloudlet 60 received
+57.62857142857142: Broker: Cloudlet 65 received
+57.62857142857142: Broker: Cloudlet 51 received
+58.528: Broker: Cloudlet 100 received
+58.704: Broker: Cloudlet 156 received
+62.81257142857143: Broker: Cloudlet 111 received
+63.342857142857135: Broker: Cloudlet 72 received
+63.342857142857135: Broker: Cloudlet 52 received
+63.384571428571434: Broker: Cloudlet 172 received
+63.62857142857142: Broker: Cloudlet 73 received
+63.914285714285704: Broker: Cloudlet 54 received
+64.19999999999999: Broker: Cloudlet 78 received
+64.19999999999999: Broker: Cloudlet 57 received
+64.70257142857143: Broker: Cloudlet 159 received
+64.77142857142856: Broker: Cloudlet 86 received
+64.98257142857143: Broker: Cloudlet 218 received
+65.10257142857144: Broker: Cloudlet 165 received
+65.78257142857144: Broker: Cloudlet 233 received
+68.48571428571427: Broker: Cloudlet 63 received
+68.52685714285715: Broker: Cloudlet 116 received
+69.05714285714284: Broker: Cloudlet 91 received
+69.09828571428572: Broker: Cloudlet 118 received
+69.38400000000001: Broker: Cloudlet 121 received
+71.10200000000002: Broker: Cloudlet 175 received
+73.34285714285713: Broker: Cloudlet 95 received
+73.62857142857142: Broker: Cloudlet 97 received
+73.66914285714287: Broker: Cloudlet 123 received
+73.95485714285716: Broker: Cloudlet 125 received
+74.19999999999999: Broker: Cloudlet 102 received
+74.19999999999999: Broker: Cloudlet 68 received
+74.48571428571428: Broker: Cloudlet 69 received
+74.52628571428573: Broker: Cloudlet 126 received
+78.77142857142857: Broker: Cloudlet 75 received
+79.10028571428573: Broker: Cloudlet 176 received
+79.50028571428574: Broker: Cloudlet 177 received
+79.91428571428571: Broker: Cloudlet 104 received
+80.2: Broker: Cloudlet 109 received
+80.24028571428573: Broker: Cloudlet 128 received
+80.35028571428573: Broker: Cloudlet 178 received
+80.4857142857143: Broker: Cloudlet 113 received
+80.52600000000002: Broker: Cloudlet 137 received
+80.75000000000003: Broker: Cloudlet 189 received
+81.05714285714286: Broker: Cloudlet 114 received
+81.09714285714288: Broker: Cloudlet 142 received
+81.54914285714288: Broker: Cloudlet 190 received
+81.66771428571431: Broker: Cloudlet 146 received
+81.7797142857143: Broker: Cloudlet 272 received
+83.3797142857143: Broker: Cloudlet 282 received
+84.4857142857143: Broker: Cloudlet 76 received
+84.77142857142859: Broker: Cloudlet 77 received
+84.9797142857143: Broker: Cloudlet 302 received
+85.34285714285716: Broker: Cloudlet 115 received
+85.95257142857143: Broker: Cloudlet 147 received
+86.23828571428572: Broker: Cloudlet 149 received
+86.52400000000002: Broker: Cloudlet 157 received
+86.63400000000001: Broker: Cloudlet 326 received
+87.09542857142858: Broker: Cloudlet 162 received
+89.54742857142858: Broker: Cloudlet 192 received
+89.94742857142859: Broker: Cloudlet 201 received
+90.3474285714286: Broker: Cloudlet 209 received
+90.4857142857143: Broker: Cloudlet 80 received
+91.05714285714286: Broker: Cloudlet 120 received
+91.34285714285716: Broker: Cloudlet 129 received
+91.38028571428573: Broker: Cloudlet 167 received
+94.77142857142859: Broker: Cloudlet 83 received
+95.66600000000003: Broker: Cloudlet 171 received
+97.05714285714288: Broker: Cloudlet 136 received
+97.62857142857145: Broker: Cloudlet 138 received
+98.34600000000003: Broker: Cloudlet 212 received
+98.74600000000004: Broker: Cloudlet 229 received
+99.95171428571432: Broker: Cloudlet 179 received
+100.23742857142861: Broker: Cloudlet 181 received
+100.48571428571431: Broker: Cloudlet 84 received
+102.63342857142861: Broker: Cloudlet 348 received
+103.34285714285717: Broker: Cloudlet 140 received
+104.2334285714286: Broker: Cloudlet 382 received
+105.95057142857146: Broker: Cloudlet 188 received
+106.20000000000003: Broker: Cloudlet 88 received
+106.23628571428576: Broker: Cloudlet 197 received
+106.48571428571432: Broker: Cloudlet 89 received
+106.74428571428575: Broker: Cloudlet 244 received
+106.77142857142861: Broker: Cloudlet 93 received
+106.85428571428575: Broker: Cloudlet 198 received
+107.42571428571432: Broker: Cloudlet 202 received
+109.0571428571429: Broker: Cloudlet 144 received
+112.48571428571434: Broker: Cloudlet 96 received
+112.77142857142863: Broker: Cloudlet 101 received
+113.14000000000003: Broker: Cloudlet 220 received
+113.7114285714286: Broker: Cloudlet 222 received
+113.99714285714289: Broker: Cloudlet 225 received
+114.56857142857146: Broker: Cloudlet 226 received
+114.74257142857147: Broker: Cloudlet 248 received
+114.77142857142863: Broker: Cloudlet 152 received
+115.05714285714292: Broker: Cloudlet 153 received
+115.14257142857147: Broker: Cloudlet 249 received
+115.62857142857149: Broker: Cloudlet 158 received
+115.94257142857147: Broker: Cloudlet 254 received
+116.34257142857147: Broker: Cloudlet 257 received
+117.05714285714292: Broker: Cloudlet 103 received
+117.34285714285721: Broker: Cloudlet 105 received
+117.91428571428578: Broker: Cloudlet 106 received
+118.85400000000004: Broker: Cloudlet 231 received
+119.42542857142861: Broker: Cloudlet 238 received
+119.7111428571429: Broker: Cloudlet 241 received
+120.2311428571429: Broker: Cloudlet 432 received
+120.3411428571429: Broker: Cloudlet 242 received
+120.91257142857147: Broker: Cloudlet 262 received
+121.34285714285721: Broker: Cloudlet 160 received
+121.6285714285715: Broker: Cloudlet 161 received
+123.6285714285715: Broker: Cloudlet 108 received
+124.20000000000007: Broker: Cloudlet 110 received
+124.34257142857147: Broker: Cloudlet 268 received
+124.48571428571437: Broker: Cloudlet 117 received
+124.74257142857148: Broker: Cloudlet 273 received
+125.19828571428576: Broker: Cloudlet 263 received
+125.48400000000005: Broker: Cloudlet 277 received
+125.76971428571434: Broker: Cloudlet 285 received
+126.05542857142864: Broker: Cloudlet 289 received
+126.6268571428572: Broker: Cloudlet 290 received
+127.34285714285723: Broker: Cloudlet 164 received
+127.9142857142858: Broker: Cloudlet 182 received
+130.20000000000007: Broker: Cloudlet 124 received
+130.91257142857148: Broker: Cloudlet 291 received
+131.19828571428576: Broker: Cloudlet 293 received
+132.20000000000007: Broker: Cloudlet 183 received
+132.74228571428577: Broker: Cloudlet 300 received
+132.77142857142866: Broker: Cloudlet 186 received
+133.05714285714294: Broker: Cloudlet 193 received
+133.14228571428578: Broker: Cloudlet 301 received
+134.48571428571435: Broker: Cloudlet 127 received
+135.05714285714294: Broker: Cloudlet 130 received
+136.23028571428577: Broker: Cloudlet 452 received
+136.91171428571434: Broker: Cloudlet 296 received
+137.3428571428572: Broker: Cloudlet 195 received
+139.14171428571433: Broker: Cloudlet 307 received
+139.3428571428572: Broker: Cloudlet 131 received
+142.62600000000003: Broker: Cloudlet 312 received
+143.05714285714294: Broker: Cloudlet 196 received
+143.19742857142862: Broker: Cloudlet 314 received
+145.05714285714294: Broker: Cloudlet 132 received
+145.3428571428572: Broker: Cloudlet 133 received
+145.9142857142858: Broker: Cloudlet 134 received
+147.1414285714286: Broker: Cloudlet 308 received
+147.5414285714286: Broker: Cloudlet 317 received
+148.34142857142862: Broker: Cloudlet 330 received
+148.77142857142866: Broker: Cloudlet 200 received
+148.91142857142862: Broker: Cloudlet 316 received
+149.34285714285724: Broker: Cloudlet 206 received
+149.4828571428572: Broker: Cloudlet 318 received
+150.2000000000001: Broker: Cloudlet 139 received
+152.2268571428572: Broker: Cloudlet 460 received
+153.62857142857152: Broker: Cloudlet 207 received
+153.8268571428572: Broker: Cloudlet 466 received
+154.48571428571438: Broker: Cloudlet 143 received
+154.6268571428572: Broker: Cloudlet 501 received
+155.1968571428572: Broker: Cloudlet 320 received
+155.48257142857148: Broker: Cloudlet 321 received
+156.34057142857148: Broker: Cloudlet 336 received
+159.34285714285724: Broker: Cloudlet 208 received
+159.76771428571433: Broker: Cloudlet 331 received
+160.2000000000001: Broker: Cloudlet 148 received
+160.33914285714292: Broker: Cloudlet 342 received
+160.6248571428572: Broker: Cloudlet 345 received
+160.7714285714287: Broker: Cloudlet 150 received
+160.91057142857147: Broker: Cloudlet 349 received
+161.19628571428575: Broker: Cloudlet 353 received
+162.34028571428576: Broker: Cloudlet 339 received
+163.62857142857155: Broker: Cloudlet 215 received
+165.05714285714296: Broker: Cloudlet 151 received
+165.48171428571433: Broker: Cloudlet 355 received
+165.62857142857155: Broker: Cloudlet 154 received
+166.62571428571434: Broker: Cloudlet 527 received
+168.22571428571433: Broker: Cloudlet 582 received
+169.34285714285727: Broker: Cloudlet 216 received
+169.91428571428585: Broker: Cloudlet 155 received
+170.33971428571434: Broker: Cloudlet 352 received
+171.19542857142864: Broker: Cloudlet 356 received
+171.4811428571429: Broker: Cloudlet 357 received
+172.0525714285715: Broker: Cloudlet 358 received
+172.62400000000008: Broker: Cloudlet 362 received
+173.62857142857158: Broker: Cloudlet 219 received
+174.20000000000016: Broker: Cloudlet 234 received
+174.20000000000016: Broker: Cloudlet 163 received
+174.77142857142874: Broker: Cloudlet 166 received
+176.33800000000008: Broker: Cloudlet 363 received
+176.90942857142866: Broker: Cloudlet 367 received
+177.13742857142867: Broker: Cloudlet 366 received
+177.48028571428583: Broker: Cloudlet 370 received
+178.48571428571447: Broker: Cloudlet 235 received
+180.22428571428583: Broker: Cloudlet 715 received
+180.48571428571447: Broker: Cloudlet 168 received
+180.77142857142874: Broker: Cloudlet 169 received
+181.02428571428584: Broker: Cloudlet 717 received
+181.34285714285733: Broker: Cloudlet 170 received
+181.6285714285716: Broker: Cloudlet 173 received
+181.82428571428585: Broker: Cloudlet 801 received
+182.2000000000002: Broker: Cloudlet 174 received
+182.62428571428586: Broker: Cloudlet 805 received
+182.77142857142877: Broker: Cloudlet 239 received
+183.13628571428586: Broker: Cloudlet 371 received
+183.24628571428588: Broker: Cloudlet 372 received
+183.93628571428587: Broker: Cloudlet 398 received
+184.33628571428588: Broker: Cloudlet 409 received
+187.05714285714305: Broker: Cloudlet 243 received
+187.53200000000015: Broker: Cloudlet 375 received
+187.62857142857163: Broker: Cloudlet 246 received
+187.9142857142859: Broker: Cloudlet 180 received
+190.33600000000015: Broker: Cloudlet 415 received
+191.9142857142859: Broker: Cloudlet 247 received
+192.2000000000002: Broker: Cloudlet 253 received
+192.77142857142877: Broker: Cloudlet 270 received
+193.24600000000015: Broker: Cloudlet 376 received
+193.53171428571443: Broker: Cloudlet 381 received
+193.62857142857163: Broker: Cloudlet 184 received
+193.9142857142859: Broker: Cloudlet 185 received
+194.62371428571444: Broker: Cloudlet 831 received
+196.22371428571444: Broker: Cloudlet 858 received
+196.33571428571443: Broker: Cloudlet 431 received
+196.73571428571444: Broker: Cloudlet 437 received
+197.05714285714305: Broker: Cloudlet 271 received
+197.53571428571445: Broker: Cloudlet 438 received
+197.817142857143: Broker: Cloudlet 387 received
+197.935142857143: Broker: Cloudlet 445 received
+198.2000000000002: Broker: Cloudlet 187 received
+198.38800000000015: Broker: Cloudlet 390 received
+201.34285714285733: Broker: Cloudlet 275 received
+201.9142857142859: Broker: Cloudlet 278 received
+202.4857142857145: Broker: Cloudlet 191 received
+202.67371428571442: Broker: Cloudlet 391 received
+203.05714285714308: Broker: Cloudlet 194 received
+205.93371428571442: Broker: Cloudlet 448 received
+206.20000000000022: Broker: Cloudlet 279 received
+206.4857142857145: Broker: Cloudlet 281 received
+206.73371428571443: Broker: Cloudlet 454 received
+206.9594285714287: Broker: Cloudlet 395 received
+207.34285714285735: Broker: Cloudlet 199 received
+210.77142857142877: Broker: Cloudlet 283 received
+211.24514285714298: Broker: Cloudlet 403 received
+211.62857142857163: Broker: Cloudlet 203 received
+212.22114285714298: Broker: Cloudlet 892 received
+212.73314285714298: Broker: Cloudlet 479 received
+213.021142857143: Broker: Cloudlet 901 received
+213.13314285714299: Broker: Cloudlet 485 received
+214.62114285714298: Broker: Cloudlet 1002 received
+216.4857142857145: Broker: Cloudlet 284 received
+216.95828571428584: Broker: Cloudlet 404 received
+217.34285714285735: Broker: Cloudlet 204 received
+217.52971428571442: Broker: Cloudlet 406 received
+217.62857142857163: Broker: Cloudlet 205 received
+218.20000000000022: Broker: Cloudlet 210 received
+219.13171428571442: Broker: Cloudlet 491 received
+219.93171428571443: Broker: Cloudlet 494 received
+220.7714285714288: Broker: Cloudlet 287 received
+221.05714285714308: Broker: Cloudlet 297 received
+221.62857142857166: Broker: Cloudlet 298 received
+221.81457142857158: Broker: Cloudlet 407 received
+222.38600000000017: Broker: Cloudlet 418 received
+222.48571428571452: Broker: Cloudlet 211 received
+222.7714285714288: Broker: Cloudlet 213 received
+222.95742857142875: Broker: Cloudlet 422 received
+223.34285714285738: Broker: Cloudlet 214 received
+223.62857142857166: Broker: Cloudlet 217 received
+223.91428571428594: Broker: Cloudlet 221 received
+227.34285714285735: Broker: Cloudlet 304 received
+227.62857142857163: Broker: Cloudlet 313 received
+227.93142857142874: Broker: Cloudlet 512 received
+228.20000000000022: Broker: Cloudlet 223 received
+228.67142857142875: Broker: Cloudlet 424 received
+230.61942857142876: Broker: Cloudlet 1024 received
+231.91428571428594: Broker: Cloudlet 315 received
+232.9565714285716: Broker: Cloudlet 435 received
+233.91428571428594: Broker: Cloudlet 224 received
+233.9305714285716: Broker: Cloudlet 531 received
+234.7305714285716: Broker: Cloudlet 538 received
+236.20000000000022: Broker: Cloudlet 319 received
+236.7714285714288: Broker: Cloudlet 322 received
+238.20000000000022: Broker: Cloudlet 227 received
+238.6705714285716: Broker: Cloudlet 468 received
+242.4857142857145: Broker: Cloudlet 324 received
+242.6185714285716: Broker: Cloudlet 1051 received
+242.7305714285716: Broker: Cloudlet 540 received
+243.1305714285716: Broker: Cloudlet 581 received
+243.9142857142859: Broker: Cloudlet 228 received
+243.93057142857162: Broker: Cloudlet 590 received
+244.21857142857164: Broker: Cloudlet 1054 received
+244.3842857142859: Broker: Cloudlet 476 received
+244.4857142857145: Broker: Cloudlet 230 received
+244.6700000000002: Broker: Cloudlet 477 received
+245.24142857142877: Broker: Cloudlet 478 received
+246.77142857142877: Broker: Cloudlet 327 received
+247.05714285714305: Broker: Cloudlet 329 received
+250.2000000000002: Broker: Cloudlet 232 received
+250.9557142857145: Broker: Cloudlet 480 received
+251.92971428571448: Broker: Cloudlet 596 received
+252.77142857142877: Broker: Cloudlet 332 received
+253.05714285714305: Broker: Cloudlet 333 received
+255.24114285714305: Broker: Cloudlet 483 received
+255.9142857142859: Broker: Cloudlet 236 received
+256.2000000000002: Broker: Cloudlet 237 received
+256.2171428571431: Broker: Cloudlet 1063 received
+257.3428571428574: Broker: Cloudlet 335 received
+257.62857142857166: Broker: Cloudlet 337 received
+257.92914285714306: Broker: Cloudlet 607 received
+258.2000000000002: Broker: Cloudlet 338 received
+260.95485714285735: Broker: Cloudlet 484 received
+261.5262857142859: Broker: Cloudlet 486 received
+261.8120000000002: Broker: Cloudlet 489 received
+261.91428571428594: Broker: Cloudlet 240 received
+262.09771428571446: Broker: Cloudlet 493 received
+262.2000000000002: Broker: Cloudlet 245 received
+262.77142857142877: Broker: Cloudlet 250 received
+263.91428571428594: Broker: Cloudlet 340 received
+263.92771428571444: Broker: Cloudlet 615 received
+266.38342857142874: Broker: Cloudlet 495 received
+267.0571428571431: Broker: Cloudlet 251 received
+268.2000000000003: Broker: Cloudlet 343 received
+268.21542857142873: Broker: Cloudlet 1127 received
+268.7714285714288: Broker: Cloudlet 346 received
+269.9274285714287: Broker: Cloudlet 619 received
+272.09742857142874: Broker: Cloudlet 496 received
+272.383142857143: Broker: Cloudlet 497 received
+272.7714285714288: Broker: Cloudlet 252 received
+273.0571428571431: Broker: Cloudlet 347 received
+276.6688571428573: Broker: Cloudlet 503 received
+277.0571428571431: Broker: Cloudlet 255 received
+277.3428571428574: Broker: Cloudlet 351 received
+277.62857142857166: Broker: Cloudlet 365 received
+277.9268571428573: Broker: Cloudlet 636 received
+278.7268571428573: Broker: Cloudlet 658 received
+279.5268571428573: Broker: Cloudlet 662 received
+280.2148571428573: Broker: Cloudlet 1151 received
+282.3820000000001: Broker: Cloudlet 508 received
+282.7714285714288: Broker: Cloudlet 256 received
+282.9534285714287: Broker: Cloudlet 522 received
+283.3428571428574: Broker: Cloudlet 368 received
+283.3428571428574: Broker: Cloudlet 258 received
+283.62857142857166: Broker: Cloudlet 377 received
+285.5254285714287: Broker: Cloudlet 679 received
+286.3254285714287: Broker: Cloudlet 686 received
+287.62857142857166: Broker: Cloudlet 259 received
+288.6668571428573: Broker: Cloudlet 528 received
+288.95257142857156: Broker: Cloudlet 529 received
+289.3428571428574: Broker: Cloudlet 380 received
+292.3245714285716: Broker: Cloudlet 687 received
+292.72457142857155: Broker: Cloudlet 693 received
+293.3428571428574: Broker: Cloudlet 260 received
+293.52457142857156: Broker: Cloudlet 698 received
+293.62857142857166: Broker: Cloudlet 261 received
+294.6660000000001: Broker: Cloudlet 532 received
+295.0571428571431: Broker: Cloudlet 388 received
+295.3428571428574: Broker: Cloudlet 389 received
+295.62857142857166: Broker: Cloudlet 393 received
+296.2000000000002: Broker: Cloudlet 394 received
+296.2140000000001: Broker: Cloudlet 1156 received
+299.3428571428574: Broker: Cloudlet 264 received
+299.5240000000001: Broker: Cloudlet 703 received
+299.62857142857166: Broker: Cloudlet 265 received
+299.9240000000001: Broker: Cloudlet 705 received
+300.2000000000002: Broker: Cloudlet 266 received
+300.3797142857144: Broker: Cloudlet 536 received
+300.66542857142866: Broker: Cloudlet 537 received
+301.91428571428594: Broker: Cloudlet 396 received
+302.2000000000002: Broker: Cloudlet 397 received
+304.4857142857145: Broker: Cloudlet 267 received
+304.77142857142877: Broker: Cloudlet 269 received
+304.95114285714294: Broker: Cloudlet 543 received
+305.2368571428572: Broker: Cloudlet 545 received
+305.3428571428573: Broker: Cloudlet 274 received
+305.9228571428572: Broker: Cloudlet 735 received
+306.3228571428572: Broker: Cloudlet 737 received
+307.9142857142859: Broker: Cloudlet 400 received
+308.48571428571444: Broker: Cloudlet 402 received
+309.057142857143: Broker: Cloudlet 410 received
+309.5214285714286: Broker: Cloudlet 547 received
+310.09285714285716: Broker: Cloudlet 558 received
+310.6642857142857: Broker: Cloudlet 562 received
+311.057142857143: Broker: Cloudlet 276 received
+312.2122857142857: Broker: Cloudlet 1164 received
+313.34285714285727: Broker: Cloudlet 419 received
+313.62857142857155: Broker: Cloudlet 421 received
+314.2000000000001: Broker: Cloudlet 426 received
+314.3222857142857: Broker: Cloudlet 752 received
+314.9494285714286: Broker: Cloudlet 567 received
+315.1214285714286: Broker: Cloudlet 754 received
+315.23428571428576: Broker: Cloudlet 573 received
+315.8057142857143: Broker: Cloudlet 574 received
+316.77142857142866: Broker: Cloudlet 280 received
+317.3428571428572: Broker: Cloudlet 286 received
+318.4857142857144: Broker: Cloudlet 443 received
+319.05714285714294: Broker: Cloudlet 446 received
+319.3428571428572: Broker: Cloudlet 449 received
+319.91428571428577: Broker: Cloudlet 450 received
+320.20000000000005: Broker: Cloudlet 453 received
+321.52000000000004: Broker: Cloudlet 576 received
+323.0571428571429: Broker: Cloudlet 288 received
+323.12000000000006: Broker: Cloudlet 764 received
+325.8057142857144: Broker: Cloudlet 579 received
+325.9142857142857: Broker: Cloudlet 456 received
+326.2: Broker: Cloudlet 457 received
+326.48571428571427: Broker: Cloudlet 465 received
+328.20971428571437: Broker: Cloudlet 1196 received
+328.77142857142854: Broker: Cloudlet 292 received
+329.3428571428571: Broker: Cloudlet 294 received
+329.8097142857144: Broker: Cloudlet 1226 received
+330.77142857142854: Broker: Cloudlet 467 received
+331.0571428571428: Broker: Cloudlet 469 received
+331.1197142857144: Broker: Cloudlet 772 received
+331.4077142857144: Broker: Cloudlet 1250 received
+331.519142857143: Broker: Cloudlet 584 received
+332.09057142857154: Broker: Cloudlet 586 received
+332.3762857142858: Broker: Cloudlet 593 received
+332.94771428571437: Broker: Cloudlet 594 received
+333.0577142857144: Broker: Cloudlet 1362 received
+333.6285714285714: Broker: Cloudlet 295 received
+335.3428571428571: Broker: Cloudlet 471 received
+335.6285714285714: Broker: Cloudlet 473 received
+336.19999999999993: Broker: Cloudlet 474 received
+336.7714285714285: Broker: Cloudlet 482 received
+337.1197142857144: Broker: Cloudlet 779 received
+337.23257142857153: Broker: Cloudlet 595 received
+337.34285714285704: Broker: Cloudlet 490 received
+337.8040000000001: Broker: Cloudlet 602 received
+337.9142857142856: Broker: Cloudlet 299 received
+337.91800000000006: Broker: Cloudlet 782 received
+338.3751428571429: Broker: Cloudlet 610 received
+342.1999999999999: Broker: Cloudlet 303 received
+342.48571428571415: Broker: Cloudlet 305 received
+343.0571428571427: Broker: Cloudlet 492 received
+343.0571428571427: Broker: Cloudlet 306 received
+343.342857142857: Broker: Cloudlet 309 received
+343.91428571428554: Broker: Cloudlet 310 received
+344.08942857142864: Broker: Cloudlet 612 received
+344.3751428571429: Broker: Cloudlet 617 received
+344.9465714285715: Broker: Cloudlet 622 received
+345.51800000000003: Broker: Cloudlet 626 received
+345.918: Broker: Cloudlet 784 received
+346.0894285714286: Broker: Cloudlet 630 received
+346.37514285714286: Broker: Cloudlet 641 received
+346.9465714285714: Broker: Cloudlet 642 received
+348.1999999999998: Broker: Cloudlet 311 received
+348.7714285714284: Broker: Cloudlet 500 received
+349.0545714285714: Broker: Cloudlet 1364 received
+349.05714285714265: Broker: Cloudlet 505 received
+349.6285714285712: Broker: Cloudlet 506 received
+349.85457142857143: Broker: Cloudlet 1385 received
+351.2317142857143: Broker: Cloudlet 643 received
+351.45171428571433: Broker: Cloudlet 1394 received
+351.8031428571429: Broker: Cloudlet 646 received
+352.48571428571404: Broker: Cloudlet 323 received
+352.7714285714283: Broker: Cloudlet 325 received
+353.0511428571429: Broker: Cloudlet 1430 received
+353.9142857142855: Broker: Cloudlet 507 received
+353.9171428571429: Broker: Cloudlet 788 received
+354.48571428571404: Broker: Cloudlet 510 received
+354.6491428571429: Broker: Cloudlet 1446 received
+354.75914285714293: Broker: Cloudlet 794 received
+355.0571428571426: Broker: Cloudlet 514 received
+356.24714285714293: Broker: Cloudlet 1474 received
+357.5171428571429: Broker: Cloudlet 648 received
+357.8028571428572: Broker: Cloudlet 649 received
+357.9128571428572: Broker: Cloudlet 1498 received
+358.48571428571404: Broker: Cloudlet 328 received
+359.0571428571426: Broker: Cloudlet 334 received
+359.3428571428569: Broker: Cloudlet 515 received
+359.3428571428569: Broker: Cloudlet 341 received
+359.62857142857115: Broker: Cloudlet 521 received
+362.7588571428572: Broker: Cloudlet 800 received
+363.5160000000001: Broker: Cloudlet 652 received
+365.0571428571426: Broker: Cloudlet 344 received
+365.3428571428569: Broker: Cloudlet 524 received
+365.62857142857115: Broker: Cloudlet 553 received
+365.62857142857115: Broker: Cloudlet 350 received
+365.9142857142854: Broker: Cloudlet 557 received
+366.1999999999997: Broker: Cloudlet 354 received
+369.2302857142858: Broker: Cloudlet 660 received
+369.5160000000001: Broker: Cloudlet 661 received
+370.1999999999997: Broker: Cloudlet 559 received
+370.485714285714: Broker: Cloudlet 561 received
+370.485714285714: Broker: Cloudlet 359 received
+370.7580000000001: Broker: Cloudlet 812 received
+371.05714285714254: Broker: Cloudlet 566 received
+373.9100000000001: Broker: Cloudlet 1500 received
+374.7100000000001: Broker: Cloudlet 1521 received
+375.2300000000001: Broker: Cloudlet 664 received
+375.80142857142863: Broker: Cloudlet 666 received
+376.1999999999997: Broker: Cloudlet 360 received
+376.3094285714286: Broker: Cloudlet 1546 received
+376.485714285714: Broker: Cloudlet 361 received
+376.7574285714286: Broker: Cloudlet 819 received
+376.77142857142826: Broker: Cloudlet 568 received
+377.05714285714254: Broker: Cloudlet 569 received
+377.10942857142857: Broker: Cloudlet 1557 received
+377.2194285714286: Broker: Cloudlet 837 received
+377.6285714285711: Broker: Cloudlet 578 received
+378.0194285714286: Broker: Cloudlet 854 received
+378.41942857142857: Broker: Cloudlet 861 received
+378.7074285714286: Broker: Cloudlet 1558 received
+379.2194285714286: Broker: Cloudlet 866 received
+381.51514285714285: Broker: Cloudlet 668 received
+381.91428571428537: Broker: Cloudlet 583 received
+382.19999999999965: Broker: Cloudlet 585 received
+382.19999999999965: Broker: Cloudlet 364 received
+382.4857142857139: Broker: Cloudlet 369 received
+382.7714285714282: Broker: Cloudlet 373 received
+383.34285714285676: Broker: Cloudlet 374 received
+383.9142857142853: Broker: Cloudlet 378 received
+386.48571428571387: Broker: Cloudlet 591 received
+386.77142857142815: Broker: Cloudlet 597 received
+387.21914285714286: Broker: Cloudlet 868 received
+387.32914285714287: Broker: Cloudlet 672 received
+387.6191428571429: Broker: Cloudlet 869 received
+388.1999999999996: Broker: Cloudlet 379 received
+391.0571428571424: Broker: Cloudlet 599 received
+391.6148571428572: Broker: Cloudlet 675 received
+391.9005714285715: Broker: Cloudlet 677 received
+392.18628571428576: Broker: Cloudlet 689 received
+392.48571428571387: Broker: Cloudlet 383 received
+392.7577142857143: Broker: Cloudlet 702 received
+394.7057142857143: Broker: Cloudlet 1568 received
+395.61771428571427: Broker: Cloudlet 876 received
+396.77142857142815: Broker: Cloudlet 600 received
+397.0571428571424: Broker: Cloudlet 601 received
+397.628571428571: Broker: Cloudlet 606 received
+398.19999999999953: Broker: Cloudlet 384 received
+398.472: Broker: Cloudlet 712 received
+398.4857142857138: Broker: Cloudlet 385 received
+399.05714285714237: Broker: Cloudlet 386 received
+401.616: Broker: Cloudlet 883 received
+401.9142857142852: Broker: Cloudlet 611 received
+402.48571428571375: Broker: Cloudlet 614 received
+403.0571428571423: Broker: Cloudlet 618 received
+404.186: Broker: Cloudlet 716 received
+404.75742857142853: Broker: Cloudlet 722 received
+404.77142857142803: Broker: Cloudlet 392 received
+406.7054285714285: Broker: Cloudlet 1599 received
+407.5054285714285: Broker: Cloudlet 1621 received
+408.77142857142803: Broker: Cloudlet 620 received
+409.04257142857136: Broker: Cloudlet 723 received
+409.0571428571423: Broker: Cloudlet 399 received
+409.1525714285714: Broker: Cloudlet 1658 received
+409.32828571428564: Broker: Cloudlet 725 received
+409.3428571428566: Broker: Cloudlet 401 received
+409.61428571428564: Broker: Cloudlet 884 received
+409.62857142857087: Broker: Cloudlet 405 received
+409.89857142857136: Broker: Cloudlet 730 received
+413.0571428571423: Broker: Cloudlet 623 received
+415.3428571428566: Broker: Cloudlet 408 received
+415.61257142857136: Broker: Cloudlet 895 received
+415.61257142857136: Broker: Cloudlet 732 received
+416.1839999999999: Broker: Cloudlet 734 received
+418.77142857142803: Broker: Cloudlet 624 received
+419.62857142857087: Broker: Cloudlet 411 received
+420.4697142857142: Broker: Cloudlet 739 received
+421.6117142857142: Broker: Cloudlet 903 received
+422.4117142857142: Broker: Cloudlet 906 received
+423.2117142857142: Broker: Cloudlet 930 received
+424.4857142857137: Broker: Cloudlet 628 received
+424.771428571428: Broker: Cloudlet 629 received
+425.1517142857142: Broker: Cloudlet 1660 received
+425.34285714285653: Broker: Cloudlet 412 received
+425.6285714285708: Broker: Cloudlet 413 received
+426.1831428571428: Broker: Cloudlet 748 received
+426.19999999999936: Broker: Cloudlet 414 received
+426.4688571428571: Broker: Cloudlet 749 received
+429.0571428571422: Broker: Cloudlet 631 received
+429.2108571428571: Broker: Cloudlet 935 received
+431.91428571428503: Broker: Cloudlet 416 received
+432.1822857142857: Broker: Cloudlet 756 received
+432.1999999999993: Broker: Cloudlet 417 received
+432.46799999999996: Broker: Cloudlet 757 received
+433.0394285714285: Broker: Cloudlet 762 received
+433.3251428571428: Broker: Cloudlet 765 received
+434.77142857142786: Broker: Cloudlet 632 received
+435.2091428571428: Broker: Cloudlet 939 received
+435.3428571428564: Broker: Cloudlet 634 received
+435.914285714285: Broker: Cloudlet 638 received
+437.1491428571428: Broker: Cloudlet 1667 received
+437.914285714285: Broker: Cloudlet 420 received
+437.9491428571428: Broker: Cloudlet 1713 received
+438.74914285714283: Broker: Cloudlet 1765 received
+439.03914285714285: Broker: Cloudlet 768 received
+440.19999999999925: Broker: Cloudlet 639 received
+440.34714285714284: Broker: Cloudlet 1782 received
+440.7714285714278: Broker: Cloudlet 650 received
+441.34285714285636: Broker: Cloudlet 654 received
+441.94714285714286: Broker: Cloudlet 1814 received
+442.1999999999992: Broker: Cloudlet 423 received
+442.48571428571347: Broker: Cloudlet 425 received
+443.20914285714287: Broker: Cloudlet 940 received
+443.3248571428571: Broker: Cloudlet 771 received
+443.54485714285715: Broker: Cloudlet 1826 received
+443.89628571428574: Broker: Cloudlet 774 received
+445.62857142857064: Broker: Cloudlet 663 received
+446.7714285714278: Broker: Cloudlet 427 received
+448.182: Broker: Cloudlet 775 received
+449.208: Broker: Cloudlet 943 received
+449.914285714285: Broker: Cloudlet 667 received
+450.00800000000004: Broker: Cloudlet 950 received
+450.19999999999925: Broker: Cloudlet 673 received
+452.46657142857146: Broker: Cloudlet 783 received
+452.4857142857135: Broker: Cloudlet 428 received
+452.75228571428573: Broker: Cloudlet 785 received
+452.7714285714278: Broker: Cloudlet 429 received
+453.3237142857143: Broker: Cloudlet 786 received
+453.34285714285636: Broker: Cloudlet 430 received
+453.62857142857064: Broker: Cloudlet 433 received
+454.1999999999992: Broker: Cloudlet 434 received
+455.9142857142849: Broker: Cloudlet 684 received
+456.1999999999992: Broker: Cloudlet 685 received
+457.60942857142857: Broker: Cloudlet 791 received
+458.0074285714286: Broker: Cloudlet 952 received
+458.8074285714286: Broker: Cloudlet 962 received
+459.5434285714286: Broker: Cloudlet 1828 received
+459.9142857142849: Broker: Cloudlet 436 received
+460.3434285714286: Broker: Cloudlet 1841 received
+460.48571428571347: Broker: Cloudlet 691 received
+460.77142857142775: Broker: Cloudlet 697 received
+461.8948571428572: Broker: Cloudlet 795 received
+462.0048571428572: Broker: Cloudlet 1870 received
+464.1999999999992: Broker: Cloudlet 439 received
+464.8068571428572: Broker: Cloudlet 967 received
+465.057142857142: Broker: Cloudlet 699 received
+465.2068571428572: Broker: Cloudlet 973 received
+466.0068571428572: Broker: Cloudlet 978 received
+466.8068571428572: Broker: Cloudlet 998 received
+467.6082857142858: Broker: Cloudlet 796 received
+469.91428571428486: Broker: Cloudlet 440 received
+470.19999999999914: Broker: Cloudlet 441 received
+470.7714285714277: Broker: Cloudlet 700 received
+470.7714285714277: Broker: Cloudlet 442 received
+471.89400000000006: Broker: Cloudlet 799 received
+472.80600000000004: Broker: Cloudlet 1003 received
+474.00200000000007: Broker: Cloudlet 1887 received
+476.17914285714295: Broker: Cloudlet 807 received
+476.4648571428572: Broker: Cloudlet 813 received
+476.4857142857134: Broker: Cloudlet 704 received
+476.4857142857134: Broker: Cloudlet 444 received
+477.05714285714197: Broker: Cloudlet 706 received
+477.34285714285625: Broker: Cloudlet 709 received
+480.7505714285715: Broker: Cloudlet 815 received
+480.7714285714277: Broker: Cloudlet 447 received
+480.8605714285715: Broker: Cloudlet 1004 received
+481.2605714285715: Broker: Cloudlet 1017 received
+481.6285714285705: Broker: Cloudlet 719 received
+481.9142857142848: Broker: Cloudlet 729 received
+485.05714285714197: Broker: Cloudlet 451 received
+486.0005714285715: Broker: Cloudlet 1923 received
+486.19999999999914: Broker: Cloudlet 731 received
+486.4648571428572: Broker: Cloudlet 816 received
+486.4857142857134: Broker: Cloudlet 733 received
+487.0362857142858: Broker: Cloudlet 818 received
+487.26028571428577: Broker: Cloudlet 1027 received
+487.3702857142858: Broker: Cloudlet 821 received
+489.34285714285625: Broker: Cloudlet 455 received
+489.9142857142848: Broker: Cloudlet 458 received
+491.65600000000006: Broker: Cloudlet 823 received
+491.94171428571434: Broker: Cloudlet 825 received
+492.1999999999991: Broker: Cloudlet 736 received
+493.2597142857143: Broker: Cloudlet 1031 received
+494.1999999999991: Broker: Cloudlet 459 received
+494.48571428571336: Broker: Cloudlet 461 received
+495.0571428571419: Broker: Cloudlet 462 received
+497.6554285714286: Broker: Cloudlet 832 received
+497.91428571428474: Broker: Cloudlet 740 received
+497.9994285714286: Broker: Cloudlet 1931 received
+498.199999999999: Broker: Cloudlet 741 received
+498.22657142857145: Broker: Cloudlet 834 received
+498.7714285714276: Broker: Cloudlet 742 received
+498.79857142857145: Broker: Cloudlet 1933 received
+499.05714285714186: Broker: Cloudlet 745 received
+499.34285714285613: Broker: Cloudlet 463 received
+501.25857142857143: Broker: Cloudlet 1044 received
+503.34285714285613: Broker: Cloudlet 747 received
+503.9142857142847: Broker: Cloudlet 758 received
+503.94: Broker: Cloudlet 836 received
+504.2257142857143: Broker: Cloudlet 845 received
+505.05714285714186: Broker: Cloudlet 464 received
+505.6285714285704: Broker: Cloudlet 470 received
+507.25771428571426: Broker: Cloudlet 1075 received
+509.6285714285704: Broker: Cloudlet 760 received
+509.9142857142847: Broker: Cloudlet 761 received
+509.9391428571428: Broker: Cloudlet 848 received
+510.48571428571324: Broker: Cloudlet 766 received
+511.3428571428561: Broker: Cloudlet 472 received
+513.2571428571429: Broker: Cloudlet 1083 received
+513.6571428571428: Broker: Cloudlet 1085 received
+514.2242857142857: Broker: Cloudlet 851 received
+514.7962857142857: Broker: Cloudlet 1940 received
+515.5962857142856: Broker: Cloudlet 1965 received
+515.6285714285704: Broker: Cloudlet 475 received
+515.9142857142847: Broker: Cloudlet 481 received
+516.199999999999: Broker: Cloudlet 776 received
+516.7714285714276: Broker: Cloudlet 778 received
+519.6562857142856: Broker: Cloudlet 1095 received
+519.9377142857142: Broker: Cloudlet 856 received
+520.199999999999: Broker: Cloudlet 487 received
+520.2234285714285: Broker: Cloudlet 857 received
+522.4857142857134: Broker: Cloudlet 780 received
+522.7714285714277: Broker: Cloudlet 781 received
+524.5091428571428: Broker: Cloudlet 867 received
+525.0805714285714: Broker: Cloudlet 870 received
+525.9142857142848: Broker: Cloudlet 488 received
+526.4857142857134: Broker: Cloudlet 498 received
+527.0571428571419: Broker: Cloudlet 787 received
+527.3428571428562: Broker: Cloudlet 789 received
+527.6545714285713: Broker: Cloudlet 1100 received
+527.9142857142848: Broker: Cloudlet 798 received
+528.0545714285713: Broker: Cloudlet 1125 received
+528.8545714285713: Broker: Cloudlet 1138 received
+529.6545714285712: Broker: Cloudlet 1146 received
+530.7714285714277: Broker: Cloudlet 499 received
+530.7945714285712: Broker: Cloudlet 872 received
+531.0802857142855: Broker: Cloudlet 873 received
+531.3428571428562: Broker: Cloudlet 502 received
+531.3659999999999: Broker: Cloudlet 881 received
+532.1999999999991: Broker: Cloudlet 803 received
+532.7714285714277: Broker: Cloudlet 810 received
+533.3428571428562: Broker: Cloudlet 814 received
+535.6517142857142: Broker: Cloudlet 891 received
+535.9374285714285: Broker: Cloudlet 893 received
+536.5088571428571: Broker: Cloudlet 894 received
+537.0571428571419: Broker: Cloudlet 504 received
+537.3428571428562: Broker: Cloudlet 509 received
+537.6528571428571: Broker: Cloudlet 1152 received
+538.452857142857: Broker: Cloudlet 1154 received
+539.0571428571419: Broker: Cloudlet 820 received
+539.6285714285705: Broker: Cloudlet 826 received
+539.9142857142848: Broker: Cloudlet 829 received
+541.6285714285705: Broker: Cloudlet 511 received
+541.9142857142848: Broker: Cloudlet 513 received
+542.222857142857: Broker: Cloudlet 896 received
+542.7942857142856: Broker: Cloudlet 898 received
+544.1999999999991: Broker: Cloudlet 839 received
+544.4522857142856: Broker: Cloudlet 1159 received
+547.6285714285706: Broker: Cloudlet 516 received
+547.9142857142849: Broker: Cloudlet 517 received
+548.4857142857135: Broker: Cloudlet 518 received
+548.5079999999999: Broker: Cloudlet 912 received
+549.0794285714285: Broker: Cloudlet 918 received
+549.9142857142849: Broker: Cloudlet 840 received
+550.1999999999992: Broker: Cloudlet 841 received
+550.4514285714284: Broker: Cloudlet 1163 received
+550.7714285714278: Broker: Cloudlet 846 received
+552.7714285714278: Broker: Cloudlet 519 received
+554.792857142857: Broker: Cloudlet 920 received
+555.0571428571421: Broker: Cloudlet 847 received
+555.3428571428565: Broker: Cloudlet 849 received
+555.6285714285708: Broker: Cloudlet 853 received
+556.1999999999994: Broker: Cloudlet 862 received
+556.4857142857137: Broker: Cloudlet 877 received
+557.0571428571423: Broker: Cloudlet 878 received
+557.3428571428566: Broker: Cloudlet 885 received
+557.9142857142851: Broker: Cloudlet 886 received
+558.450857142857: Broker: Cloudlet 1168 received
+558.4857142857137: Broker: Cloudlet 520 received
+559.0779999999999: Broker: Cloudlet 923 received
+559.2499999999999: Broker: Cloudlet 1170 received
+559.362857142857: Broker: Cloudlet 937 received
+562.771428571428: Broker: Cloudlet 523 received
+563.0571428571424: Broker: Cloudlet 525 received
+563.6285714285709: Broker: Cloudlet 888 received
+563.6285714285709: Broker: Cloudlet 526 received
+563.6485714285714: Broker: Cloudlet 959 received
+563.9342857142857: Broker: Cloudlet 961 received
+564.1999999999995: Broker: Cloudlet 890 received
+564.1999999999995: Broker: Cloudlet 530 received
+564.4857142857138: Broker: Cloudlet 897 received
+564.4857142857138: Broker: Cloudlet 533 received
+564.5057142857142: Broker: Cloudlet 966 received
+565.0571428571424: Broker: Cloudlet 534 received
+565.0771428571428: Broker: Cloudlet 970 received
+565.2491428571428: Broker: Cloudlet 1171 received
+565.6477142857143: Broker: Cloudlet 974 received
+565.9334285714286: Broker: Cloudlet 981 received
+569.3428571428567: Broker: Cloudlet 535 received
+570.1999999999996: Broker: Cloudlet 904 received
+570.219142857143: Broker: Cloudlet 983 received
+570.4857142857139: Broker: Cloudlet 909 received
+570.5048571428573: Broker: Cloudlet 989 received
+571.0571428571425: Broker: Cloudlet 914 received
+573.2488571428573: Broker: Cloudlet 1180 received
+573.628571428571: Broker: Cloudlet 539 received
+573.9142857142854: Broker: Cloudlet 541 received
+574.4857142857139: Broker: Cloudlet 542 received
+576.2188571428574: Broker: Cloudlet 992 received
+576.5045714285717: Broker: Cloudlet 1001 received
+576.7714285714283: Broker: Cloudlet 916 received
+577.0760000000002: Broker: Cloudlet 1010 received
+577.3428571428568: Broker: Cloudlet 922 received
+577.6474285714288: Broker: Cloudlet 1014 received
+578.2188571428574: Broker: Cloudlet 1018 received
+579.2488571428573: Broker: Cloudlet 1203 received
+580.0488571428573: Broker: Cloudlet 1214 received
+580.1999999999997: Broker: Cloudlet 544 received
+580.7714285714283: Broker: Cloudlet 546 received
+583.0571428571426: Broker: Cloudlet 924 received
+583.933142857143: Broker: Cloudlet 1020 received
+584.5045714285716: Broker: Cloudlet 1022 received
+586.485714285714: Broker: Cloudlet 548 received
+586.7714285714284: Broker: Cloudlet 549 received
+587.3428571428569: Broker: Cloudlet 550 received
+588.0485714285716: Broker: Cloudlet 1224 received
+588.4485714285715: Broker: Cloudlet 1229 received
+588.7714285714284: Broker: Cloudlet 928 received
+588.7900000000001: Broker: Cloudlet 1023 received
+588.9000000000001: Broker: Cloudlet 1233 received
+589.0571428571427: Broker: Cloudlet 933 received
+591.6285714285713: Broker: Cloudlet 551 received
+593.0757142857144: Broker: Cloudlet 1035 received
+593.3428571428569: Broker: Cloudlet 947 received
+593.647142857143: Broker: Cloudlet 1038 received
+593.9328571428573: Broker: Cloudlet 1041 received
+594.5042857142859: Broker: Cloudlet 1046 received
+596.8982857142859: Broker: Cloudlet 1236 received
+597.2982857142858: Broker: Cloudlet 1237 received
+597.3428571428569: Broker: Cloudlet 552 received
+597.9142857142855: Broker: Cloudlet 554 received
+598.0982857142858: Broker: Cloudlet 1238 received
+598.7897142857144: Broker: Cloudlet 1047 received
+599.0571428571426: Broker: Cloudlet 948 received
+599.3611428571429: Broker: Cloudlet 1050 received
+602.1999999999997: Broker: Cloudlet 555 received
+603.3428571428568: Broker: Cloudlet 951 received
+604.0971428571429: Broker: Cloudlet 1243 received
+605.0742857142858: Broker: Cloudlet 1052 received
+605.3600000000001: Broker: Cloudlet 1053 received
+607.9142857142854: Broker: Cloudlet 556 received
+609.0571428571425: Broker: Cloudlet 956 received
+609.6457142857145: Broker: Cloudlet 1059 received
+612.0957142857145: Broker: Cloudlet 1248 received
+612.8957142857145: Broker: Cloudlet 1262 received
+613.3428571428568: Broker: Cloudlet 963 received
+613.6285714285711: Broker: Cloudlet 560 received
+615.3600000000001: Broker: Cloudlet 1064 received
+615.9314285714287: Broker: Cloudlet 1066 received
+617.9142857142855: Broker: Cloudlet 563 received
+619.0571428571426: Broker: Cloudlet 964 received
+619.3428571428569: Broker: Cloudlet 965 received
+619.6285714285713: Broker: Cloudlet 969 received
+620.8954285714287: Broker: Cloudlet 1264 received
+621.6454285714287: Broker: Cloudlet 1084 received
+621.7554285714288: Broker: Cloudlet 1286 received
+623.6285714285713: Broker: Cloudlet 564 received
+623.9142857142856: Broker: Cloudlet 971 received
+623.9142857142856: Broker: Cloudlet 565 received
+624.4857142857142: Broker: Cloudlet 570 received
+625.9311428571431: Broker: Cloudlet 1087 received
+626.2168571428574: Broker: Cloudlet 1089 received
+626.788285714286: Broker: Cloudlet 1090 received
+627.3597142857145: Broker: Cloudlet 1094 received
+627.6454285714289: Broker: Cloudlet 1101 received
+627.7554285714289: Broker: Cloudlet 1287 received
+628.2168571428574: Broker: Cloudlet 1102 received
+628.5548571428574: Broker: Cloudlet 1294 received
+628.7714285714285: Broker: Cloudlet 571 received
+629.6285714285714: Broker: Cloudlet 972 received
+632.5020000000002: Broker: Cloudlet 1107 received
+632.7877142857145: Broker: Cloudlet 1109 received
+633.9142857142857: Broker: Cloudlet 975 received
+634.4857142857143: Broker: Cloudlet 572 received
+634.5537142857145: Broker: Cloudlet 1295 received
+637.072285714286: Broker: Cloudlet 1119 received
+637.6437142857145: Broker: Cloudlet 1122 received
+638.1999999999999: Broker: Cloudlet 979 received
+638.7714285714285: Broker: Cloudlet 575 received
+639.0571428571428: Broker: Cloudlet 577 received
+642.5537142857145: Broker: Cloudlet 1316 received
+643.3580000000002: Broker: Cloudlet 1128 received
+643.6437142857145: Broker: Cloudlet 1129 received
+643.9142857142857: Broker: Cloudlet 984 received
+644.7714285714286: Broker: Cloudlet 580 received
+647.9294285714288: Broker: Cloudlet 1131 received
+648.2: Broker: Cloudlet 987 received
+648.5008571428574: Broker: Cloudlet 1134 received
+648.7714285714286: Broker: Cloudlet 990 received
+649.0571428571429: Broker: Cloudlet 993 received
+649.0571428571429: Broker: Cloudlet 587 received
+649.3428571428573: Broker: Cloudlet 997 received
+650.5528571428574: Broker: Cloudlet 1328 received
+654.214285714286: Broker: Cloudlet 1136 received
+654.5000000000003: Broker: Cloudlet 1137 received
+654.7714285714287: Broker: Cloudlet 588 received
+654.7857142857147: Broker: Cloudlet 1141 received
+655.057142857143: Broker: Cloudlet 1000 received
+655.057142857143: Broker: Cloudlet 589 received
+655.3428571428574: Broker: Cloudlet 1005 received
+658.5517142857146: Broker: Cloudlet 1348 received
+659.0702857142861: Broker: Cloudlet 1143 received
+659.3560000000004: Broker: Cloudlet 1145 received
+659.6285714285717: Broker: Cloudlet 1007 received
+660.7714285714288: Broker: Cloudlet 592 received
+661.3428571428574: Broker: Cloudlet 598 received
+663.6417142857148: Broker: Cloudlet 1147 received
+665.3428571428574: Broker: Cloudlet 1008 received
+665.6285714285717: Broker: Cloudlet 1009 received
+665.6285714285717: Broker: Cloudlet 603 received
+666.5517142857148: Broker: Cloudlet 1352 received
+666.9517142857147: Broker: Cloudlet 1357 received
+667.3517142857147: Broker: Cloudlet 1365 received
+668.1517142857147: Broker: Cloudlet 1366 received
+669.3560000000003: Broker: Cloudlet 1148 received
+669.914285714286: Broker: Cloudlet 1015 received
+669.9274285714289: Broker: Cloudlet 1162 received
+670.2131428571432: Broker: Cloudlet 1165 received
+670.4988571428576: Broker: Cloudlet 1169 received
+671.0702857142861: Broker: Cloudlet 1178 received
+671.3428571428575: Broker: Cloudlet 604 received
+671.6285714285718: Broker: Cloudlet 605 received
+674.2000000000004: Broker: Cloudlet 1019 received
+674.7714285714289: Broker: Cloudlet 1026 received
+675.3428571428575: Broker: Cloudlet 1030 received
+675.3560000000004: Broker: Cloudlet 1179 received
+675.927428571429: Broker: Cloudlet 1182 received
+676.151428571429: Broker: Cloudlet 1380 received
+676.951428571429: Broker: Cloudlet 1386 received
+677.3428571428575: Broker: Cloudlet 608 received
+677.6285714285718: Broker: Cloudlet 609 received
+677.751428571429: Broker: Cloudlet 1398 received
+677.9142857142862: Broker: Cloudlet 613 received
+678.5514285714289: Broker: Cloudlet 1406 received
+678.9514285714289: Broker: Cloudlet 1413 received
+681.0571428571433: Broker: Cloudlet 1032 received
+681.6285714285718: Broker: Cloudlet 1034 received
+681.641428571429: Broker: Cloudlet 1184 received
+683.6285714285718: Broker: Cloudlet 616 received
+683.9142857142862: Broker: Cloudlet 621 received
+684.2000000000005: Broker: Cloudlet 625 received
+685.9271428571433: Broker: Cloudlet 1191 received
+686.9511428571433: Broker: Cloudlet 1416 received
+687.3428571428576: Broker: Cloudlet 1036 received
+687.628571428572: Broker: Cloudlet 1037 received
+687.9142857142863: Broker: Cloudlet 1045 received
+688.4857142857148: Broker: Cloudlet 627 received
+688.7714285714292: Broker: Cloudlet 633 received
+691.6411428571433: Broker: Cloudlet 1192 received
+691.9268571428577: Broker: Cloudlet 1193 received
+693.0571428571435: Broker: Cloudlet 635 received
+693.3428571428578: Broker: Cloudlet 637 received
+693.6285714285722: Broker: Cloudlet 1048 received
+693.9142857142865: Broker: Cloudlet 1061 received
+694.4857142857151: Broker: Cloudlet 1070 received
+694.9508571428577: Broker: Cloudlet 1432 received
+696.2122857142863: Broker: Cloudlet 1195 received
+699.0571428571436: Broker: Cloudlet 640 received
+700.2000000000007: Broker: Cloudlet 1072 received
+700.4857142857151: Broker: Cloudlet 1073 received
+700.4980000000006: Broker: Cloudlet 1199 received
+700.9500000000006: Broker: Cloudlet 1443 received
+701.0571428571436: Broker: Cloudlet 1074 received
+701.3500000000006: Broker: Cloudlet 1453 received
+704.7714285714293: Broker: Cloudlet 644 received
+705.0571428571436: Broker: Cloudlet 645 received
+706.2114285714291: Broker: Cloudlet 1200 received
+706.7714285714293: Broker: Cloudlet 1076 received
+706.7828571428577: Broker: Cloudlet 1206 received
+707.0571428571436: Broker: Cloudlet 1077 received
+707.3488571428577: Broker: Cloudlet 1455 received
+707.6285714285722: Broker: Cloudlet 1078 received
+708.2000000000007: Broker: Cloudlet 1086 received
+709.3428571428578: Broker: Cloudlet 647 received
+711.0674285714291: Broker: Cloudlet 1207 received
+713.6285714285722: Broker: Cloudlet 651 received
+713.9142857142865: Broker: Cloudlet 1092 received
+713.9142857142865: Broker: Cloudlet 653 received
+715.3474285714291: Broker: Cloudlet 1460 received
+715.747428571429: Broker: Cloudlet 1461 received
+716.7817142857148: Broker: Cloudlet 1208 received
+717.0674285714291: Broker: Cloudlet 1221 received
+717.3531428571434: Broker: Cloudlet 1225 received
+718.2000000000008: Broker: Cloudlet 655 received
+719.6285714285723: Broker: Cloudlet 1096 received
+719.9142857142866: Broker: Cloudlet 1097 received
+720.4857142857152: Broker: Cloudlet 1110 received
+721.0571428571437: Broker: Cloudlet 1114 received
+721.6388571428578: Broker: Cloudlet 1227 received
+721.7488571428578: Broker: Cloudlet 1471 received
+722.2102857142863: Broker: Cloudlet 1234 received
+722.4960000000007: Broker: Cloudlet 1241 received
+722.781714285715: Broker: Cloudlet 1249 received
+723.9142857142866: Broker: Cloudlet 656 received
+724.200000000001: Broker: Cloudlet 657 received
+725.3428571428581: Broker: Cloudlet 1115 received
+725.6285714285724: Broker: Cloudlet 1121 received
+727.0674285714293: Broker: Cloudlet 1251 received
+727.3531428571437: Broker: Cloudlet 1253 received
+728.4857142857153: Broker: Cloudlet 659 received
+728.7714285714296: Broker: Cloudlet 665 received
+729.057142857144: Broker: Cloudlet 669 received
+729.6285714285725: Broker: Cloudlet 670 received
+729.7471428571437: Broker: Cloudlet 1472 received
+729.9142857142868: Broker: Cloudlet 1123 received
+730.4857142857154: Broker: Cloudlet 1130 received
+733.0671428571437: Broker: Cloudlet 1256 received
+733.352857142858: Broker: Cloudlet 1257 received
+733.9142857142868: Broker: Cloudlet 671 received
+734.4857142857154: Broker: Cloudlet 674 received
+735.7468571428581: Broker: Cloudlet 1475 received
+736.2000000000011: Broker: Cloudlet 1140 received
+737.6382857142867: Broker: Cloudlet 1259 received
+740.2000000000011: Broker: Cloudlet 676 received
+740.7714285714296: Broker: Cloudlet 678 received
+741.9142857142867: Broker: Cloudlet 1144 received
+742.2000000000011: Broker: Cloudlet 1149 received
+742.4857142857154: Broker: Cloudlet 1153 received
+743.057142857144: Broker: Cloudlet 1158 received
+743.3525714285723: Broker: Cloudlet 1260 received
+743.6382857142867: Broker: Cloudlet 1265 received
+743.7482857142867: Broker: Cloudlet 1480 received
+746.4857142857154: Broker: Cloudlet 680 received
+746.7714285714297: Broker: Cloudlet 681 received
+747.3428571428583: Broker: Cloudlet 682 received
+747.924000000001: Broker: Cloudlet 1267 received
+748.2097142857153: Broker: Cloudlet 1277 received
+748.7714285714297: Broker: Cloudlet 1160 received
+751.6285714285726: Broker: Cloudlet 683 received
+751.7477142857153: Broker: Cloudlet 1520 received
+752.1477142857153: Broker: Cloudlet 1537 received
+752.5477142857153: Broker: Cloudlet 1545 received
+752.9477142857153: Broker: Cloudlet 1561 received
+753.0571428571441: Broker: Cloudlet 1167 received
+753.7477142857152: Broker: Cloudlet 1574 received
+753.9234285714296: Broker: Cloudlet 1280 received
+754.1474285714296: Broker: Cloudlet 1597 received
+754.2574285714296: Broker: Cloudlet 1285 received
+754.5474285714296: Broker: Cloudlet 1609 received
+757.3428571428584: Broker: Cloudlet 688 received
+757.914285714287: Broker: Cloudlet 690 received
+758.5431428571438: Broker: Cloudlet 1299 received
+758.7714285714299: Broker: Cloudlet 1172 received
+759.1145714285724: Broker: Cloudlet 1310 received
+759.3428571428584: Broker: Cloudlet 1174 received
+762.5465714285724: Broker: Cloudlet 1620 received
+763.3994285714296: Broker: Cloudlet 1311 received
+763.6285714285727: Broker: Cloudlet 1175 received
+763.6285714285727: Broker: Cloudlet 692 received
+763.6851428571439: Broker: Cloudlet 1317 received
+764.2000000000013: Broker: Cloudlet 694 received
+764.2565714285724: Broker: Cloudlet 1318 received
+768.4857142857156: Broker: Cloudlet 695 received
+768.5422857142868: Broker: Cloudlet 1319 received
+768.6522857142868: Broker: Cloudlet 1623 received
+769.0522857142868: Broker: Cloudlet 1625 received
+769.3428571428585: Broker: Cloudlet 1176 received
+772.828000000001: Broker: Cloudlet 1327 received
+773.3994285714296: Broker: Cloudlet 1330 received
+773.6285714285729: Broker: Cloudlet 1183 received
+774.2000000000014: Broker: Cloudlet 696 received
+774.4857142857157: Broker: Cloudlet 701 received
+775.0514285714296: Broker: Cloudlet 1635 received
+777.6842857142867: Broker: Cloudlet 1331 received
+777.9142857142872: Broker: Cloudlet 1187 received
+778.4857142857157: Broker: Cloudlet 1194 received
+778.7714285714301: Broker: Cloudlet 1201 received
+778.7714285714301: Broker: Cloudlet 707 received
+779.3428571428586: Broker: Cloudlet 1202 received
+781.0502857142867: Broker: Cloudlet 1643 received
+783.3974285714296: Broker: Cloudlet 1336 received
+783.6831428571439: Broker: Cloudlet 1337 received
+783.9688571428583: Broker: Cloudlet 1345 received
+784.2545714285726: Broker: Cloudlet 1349 received
+784.4857142857157: Broker: Cloudlet 708 received
+785.0571428571443: Broker: Cloudlet 1204 received
+785.0571428571443: Broker: Cloudlet 710 received
+785.3428571428586: Broker: Cloudlet 1205 received
+785.628571428573: Broker: Cloudlet 1213 received
+789.0485714285726: Broker: Cloudlet 1656 received
+789.3428571428586: Broker: Cloudlet 711 received
+789.628571428573: Broker: Cloudlet 713 received
+789.9142857142873: Broker: Cloudlet 1223 received
+789.9685714285725: Broker: Cloudlet 1356 received
+790.2000000000016: Broker: Cloudlet 714 received
+790.485714285716: Broker: Cloudlet 1242 received
+790.7714285714303: Broker: Cloudlet 718 received
+795.6828571428582: Broker: Cloudlet 1360 received
+796.2000000000018: Broker: Cloudlet 1244 received
+796.4857142857161: Broker: Cloudlet 1245 received
+796.4857142857161: Broker: Cloudlet 720 received
+796.7714285714304: Broker: Cloudlet 721 received
+797.0468571428582: Broker: Cloudlet 1672 received
+799.9682857142868: Broker: Cloudlet 1367 received
+800.7714285714304: Broker: Cloudlet 1247 received
+802.4857142857161: Broker: Cloudlet 724 received
+803.0462857142868: Broker: Cloudlet 1683 received
+803.0571428571446: Broker: Cloudlet 726 received
+803.8462857142868: Broker: Cloudlet 1690 received
+805.682000000001: Broker: Cloudlet 1368 received
+806.4857142857161: Broker: Cloudlet 1252 received
+807.0571428571446: Broker: Cloudlet 1270 received
+807.342857142859: Broker: Cloudlet 727 received
+809.846000000001: Broker: Cloudlet 1691 received
+809.9674285714297: Broker: Cloudlet 1375 received
+812.7714285714304: Broker: Cloudlet 1272 received
+813.0571428571448: Broker: Cloudlet 728 received
+813.3428571428591: Broker: Cloudlet 1274 received
+813.6285714285734: Broker: Cloudlet 738 received
+815.6817142857153: Broker: Cloudlet 1404 received
+815.8457142857153: Broker: Cloudlet 1703 received
+815.9671428571439: Broker: Cloudlet 1405 received
+816.5385714285725: Broker: Cloudlet 1410 received
+816.6485714285725: Broker: Cloudlet 1706 received
+817.6285714285734: Broker: Cloudlet 1279 received
+817.9142857142878: Broker: Cloudlet 743 received
+818.2000000000021: Broker: Cloudlet 1282 received
+818.4857142857164: Broker: Cloudlet 1289 received
+819.057142857145: Broker: Cloudlet 1290 received
+819.3428571428593: Broker: Cloudlet 1293 received
+822.2528571428583: Broker: Cloudlet 1412 received
+822.6468571428583: Broker: Cloudlet 1715 received
+823.4468571428582: Broker: Cloudlet 1718 received
+823.6285714285737: Broker: Cloudlet 744 received
+824.2000000000022: Broker: Cloudlet 746 received
+824.7714285714308: Broker: Cloudlet 750 received
+825.0571428571451: Broker: Cloudlet 1296 received
+825.6285714285737: Broker: Cloudlet 1298 received
+825.914285714288: Broker: Cloudlet 1301 received
+826.5382857142868: Broker: Cloudlet 1431 received
+829.0571428571451: Broker: Cloudlet 751 received
+829.3428571428594: Broker: Cloudlet 753 received
+830.2000000000023: Broker: Cloudlet 1303 received
+831.4462857142868: Broker: Cloudlet 1724 received
+832.2462857142867: Broker: Cloudlet 1730 received
+832.3562857142867: Broker: Cloudlet 1436 received
+832.6420000000011: Broker: Cloudlet 1445 received
+832.7520000000011: Broker: Cloudlet 1733 received
+833.552000000001: Broker: Cloudlet 1738 received
+833.6285714285738: Broker: Cloudlet 755 received
+834.4857142857167: Broker: Cloudlet 1307 received
+834.771428571431: Broker: Cloudlet 1321 received
+835.3428571428595: Broker: Cloudlet 1322 received
+836.9277142857153: Broker: Cloudlet 1447 received
+837.2134285714296: Broker: Cloudlet 1449 received
+837.7848571428582: Broker: Cloudlet 1450 received
+837.9142857142881: Broker: Cloudlet 759 received
+839.5508571428581: Broker: Cloudlet 1743 received
+839.6285714285738: Broker: Cloudlet 1323 received
+839.9142857142881: Broker: Cloudlet 1325 received
+840.4857142857167: Broker: Cloudlet 1334 received
+842.0694285714296: Broker: Cloudlet 1459 received
+842.2000000000023: Broker: Cloudlet 763 received
+842.6408571428582: Broker: Cloudlet 1466 received
+843.2122857142867: Broker: Cloudlet 1470 received
+843.4980000000011: Broker: Cloudlet 1477 received
+843.7837142857154: Broker: Cloudlet 1485 received
+844.7714285714309: Broker: Cloudlet 1335 received
+845.3428571428594: Broker: Cloudlet 1338 received
+845.5497142857154: Broker: Cloudlet 1751 received
+846.3497142857153: Broker: Cloudlet 1754 received
+846.4857142857165: Broker: Cloudlet 767 received
+846.7714285714309: Broker: Cloudlet 769 received
+847.1497142857153: Broker: Cloudlet 1770 received
+847.3428571428594: Broker: Cloudlet 770 received
+847.6285714285738: Broker: Cloudlet 773 received
+847.9142857142881: Broker: Cloudlet 777 received
+847.9497142857152: Broker: Cloudlet 1786 received
+848.4857142857167: Broker: Cloudlet 790 received
+848.7497142857152: Broker: Cloudlet 1802 received
+849.4968571428581: Broker: Cloudlet 1492 received
+849.7825714285724: Broker: Cloudlet 1501 received
+850.354000000001: Broker: Cloudlet 1502 received
+851.0571428571452: Broker: Cloudlet 1340 received
+851.6285714285738: Broker: Cloudlet 1342 received
+854.2000000000023: Broker: Cloudlet 792 received
+854.4857142857167: Broker: Cloudlet 793 received
+854.6397142857153: Broker: Cloudlet 1503 received
+854.771428571431: Broker: Cloudlet 797 received
+855.2111428571438: Broker: Cloudlet 1510 received
+855.3428571428595: Broker: Cloudlet 802 received
+855.9142857142881: Broker: Cloudlet 1343 received
+856.4857142857167: Broker: Cloudlet 1358 received
+856.7491428571439: Broker: Cloudlet 1804 received
+859.4962857142867: Broker: Cloudlet 1511 received
+860.0677142857153: Broker: Cloudlet 1514 received
+860.3534285714296: Broker: Cloudlet 1517 received
+860.771428571431: Broker: Cloudlet 1371 received
+861.0571428571453: Broker: Cloudlet 804 received
+861.6285714285739: Broker: Cloudlet 806 received
+864.639142857144: Broker: Cloudlet 1527 received
+864.749142857144: Broker: Cloudlet 1816 received
+866.4857142857168: Broker: Cloudlet 1372 received
+866.7714285714311: Broker: Cloudlet 1373 received
+867.0571428571454: Broker: Cloudlet 1377 received
+867.3428571428598: Broker: Cloudlet 1381 received
+867.3428571428598: Broker: Cloudlet 808 received
+867.6285714285741: Broker: Cloudlet 809 received
+867.9142857142884: Broker: Cloudlet 1382 received
+870.3534285714297: Broker: Cloudlet 1528 received
+870.9248571428583: Broker: Cloudlet 1534 received
+871.9142857142884: Broker: Cloudlet 811 received
+872.2000000000028: Broker: Cloudlet 817 received
+872.7488571428582: Broker: Cloudlet 1824 received
+872.7714285714313: Broker: Cloudlet 822 received
+873.1488571428582: Broker: Cloudlet 1833 received
+873.6285714285742: Broker: Cloudlet 1384 received
+873.9142857142886: Broker: Cloudlet 1389 received
+874.2000000000029: Broker: Cloudlet 1393 received
+874.7714285714314: Broker: Cloudlet 1402 received
+875.2102857142868: Broker: Cloudlet 1535 received
+878.4857142857171: Broker: Cloudlet 824 received
+879.0571428571457: Broker: Cloudlet 1403 received
+879.1482857142868: Broker: Cloudlet 1839 received
+880.924000000001: Broker: Cloudlet 1548 received
+882.7714285714313: Broker: Cloudlet 827 received
+883.3428571428599: Broker: Cloudlet 1407 received
+885.2097142857153: Broker: Cloudlet 1551 received
+887.1477142857153: Broker: Cloudlet 1856 received
+887.9477142857153: Broker: Cloudlet 1862 received
+888.3477142857153: Broker: Cloudlet 1869 received
+888.485714285717: Broker: Cloudlet 828 received
+889.0571428571455: Broker: Cloudlet 1408 received
+889.0571428571455: Broker: Cloudlet 830 received
+889.3428571428599: Broker: Cloudlet 833 received
+889.4948571428581: Broker: Cloudlet 1559 received
+890.0662857142867: Broker: Cloudlet 1566 received
+893.3428571428599: Broker: Cloudlet 1411 received
+893.6285714285742: Broker: Cloudlet 835 received
+893.9142857142886: Broker: Cloudlet 1414 received
+894.2000000000029: Broker: Cloudlet 838 received
+894.3462857142866: Broker: Cloudlet 1875 received
+894.4562857142867: Broker: Cloudlet 1571 received
+894.7714285714314: Broker: Cloudlet 842 received
+895.1462857142867: Broker: Cloudlet 1882 received
+895.9462857142867: Broker: Cloudlet 1894 received
+898.2000000000029: Broker: Cloudlet 1415 received
+898.7714285714314: Broker: Cloudlet 1418 received
+899.0571428571458: Broker: Cloudlet 843 received
+900.1705714285724: Broker: Cloudlet 1584 received
+903.9445714285724: Broker: Cloudlet 1900 received
+904.4857142857172: Broker: Cloudlet 1420 received
+904.7445714285724: Broker: Cloudlet 1906 received
+904.7714285714316: Broker: Cloudlet 844 received
+905.1445714285724: Broker: Cloudlet 1913 received
+905.3428571428601: Broker: Cloudlet 850 received
+905.8845714285724: Broker: Cloudlet 1588 received
+905.9945714285724: Broker: Cloudlet 1934 received
+910.200000000003: Broker: Cloudlet 1424 received
+911.0571428571459: Broker: Cloudlet 852 received
+911.5988571428582: Broker: Cloudlet 1592 received
+911.9928571428582: Broker: Cloudlet 1963 received
+915.3428571428602: Broker: Cloudlet 855 received
+915.9142857142888: Broker: Cloudlet 1428 received
+916.4857142857173: Broker: Cloudlet 1434 received
+917.3128571428582: Broker: Cloudlet 1596 received
+917.9928571428582: Broker: Cloudlet 1975 received
+919.6285714285744: Broker: Cloudlet 859 received
+922.200000000003: Broker: Cloudlet 1444 received
+923.0271428571439: Broker: Cloudlet 1604 received
+923.5985714285724: Broker: Cloudlet 1614 received
+925.3428571428601: Broker: Cloudlet 860 received
+925.9925714285724: Broker: Cloudlet 1992 received
+926.3925714285724: Broker: Cloudlet 1997 received
+926.4857142857172: Broker: Cloudlet 1451 received
+927.884000000001: Broker: Cloudlet 1615 received
+928.1697142857154: Broker: Cloudlet 1617 received
+929.6285714285743: Broker: Cloudlet 863 received
+932.2000000000029: Broker: Cloudlet 1452 received
+932.3917142857154: Broker: Cloudlet 1999 received
+932.5017142857154: Broker: Cloudlet 1619 received
+932.7714285714314: Broker: Cloudlet 1458 received
+933.0731428571439: Broker: Cloudlet 1630 received
+933.34285714286: Broker: Cloudlet 1462 received
+933.3588571428583: Broker: Cloudlet 1633 received
+933.6445714285726: Broker: Cloudlet 1637 received
+935.34285714286: Broker: Cloudlet 864 received
+935.6285714285743: Broker: Cloudlet 865 received
+937.9302857142869: Broker: Cloudlet 1639 received
+939.0571428571458: Broker: Cloudlet 1464 received
+939.9142857142887: Broker: Cloudlet 871 received
+940.4857142857172: Broker: Cloudlet 874 received
+943.6445714285726: Broker: Cloudlet 1644 received
+943.9302857142869: Broker: Cloudlet 1645 received
+944.5017142857155: Broker: Cloudlet 1650 received
+944.7714285714316: Broker: Cloudlet 1468 received
+944.7714285714316: Broker: Cloudlet 875 received
+945.0571428571459: Broker: Cloudlet 1473 received
+945.6285714285744: Broker: Cloudlet 1482 received
+949.0571428571459: Broker: Cloudlet 879 received
+950.2160000000011: Broker: Cloudlet 1652 received
+950.5017142857155: Broker: Cloudlet 1657 received
+950.7874285714298: Broker: Cloudlet 1661 received
+951.3428571428602: Broker: Cloudlet 1488 received
+951.6285714285746: Broker: Cloudlet 1489 received
+952.2000000000031: Broker: Cloudlet 1490 received
+954.7714285714317: Broker: Cloudlet 880 received
+955.3428571428602: Broker: Cloudlet 882 received
+956.4857142857173: Broker: Cloudlet 1491 received
+956.5017142857155: Broker: Cloudlet 1664 received
+956.7874285714298: Broker: Cloudlet 1665 received
+957.0731428571441: Broker: Cloudlet 1669 received
+957.3588571428585: Broker: Cloudlet 1677 received
+957.930285714287: Broker: Cloudlet 1678 received
+959.6285714285744: Broker: Cloudlet 887 received
+959.9142857142888: Broker: Cloudlet 889 received
+960.7714285714317: Broker: Cloudlet 1495 received
+963.6445714285727: Broker: Cloudlet 1680 received
+963.930285714287: Broker: Cloudlet 1681 received
+964.2000000000031: Broker: Cloudlet 899 received
+964.5017142857156: Broker: Cloudlet 1686 received
+966.4857142857174: Broker: Cloudlet 1496 received
+966.7714285714318: Broker: Cloudlet 1497 received
+968.7874285714299: Broker: Cloudlet 1687 received
+969.9142857142889: Broker: Cloudlet 900 received
+970.4857142857174: Broker: Cloudlet 902 received
+970.7714285714318: Broker: Cloudlet 905 received
+971.0571428571461: Broker: Cloudlet 1499 received
+974.5017142857156: Broker: Cloudlet 1692 received
+975.0571428571461: Broker: Cloudlet 907 received
+975.0731428571441: Broker: Cloudlet 1694 received
+975.6445714285727: Broker: Cloudlet 1698 received
+975.930285714287: Broker: Cloudlet 1701 received
+976.2160000000014: Broker: Cloudlet 1705 received
+976.7714285714318: Broker: Cloudlet 1508 received
+980.5017142857157: Broker: Cloudlet 1723 received
+980.7714285714318: Broker: Cloudlet 908 received
+981.0731428571443: Broker: Cloudlet 1726 received
+981.3428571428603: Broker: Cloudlet 910 received
+982.4857142857174: Broker: Cloudlet 1512 received
+982.7714285714318: Broker: Cloudlet 1513 received
+985.6285714285747: Broker: Cloudlet 911 received
+985.914285714289: Broker: Cloudlet 913 received
+986.7874285714299: Broker: Cloudlet 1728 received
+987.0731428571443: Broker: Cloudlet 1729 received
+988.4857142857176: Broker: Cloudlet 1516 received
+989.0571428571461: Broker: Cloudlet 1518 received
+989.6285714285747: Broker: Cloudlet 1522 received
+989.914285714289: Broker: Cloudlet 1525 received
+990.2000000000033: Broker: Cloudlet 915 received
+990.4857142857177: Broker: Cloudlet 1526 received
+990.4857142857177: Broker: Cloudlet 917 received
+990.771428571432: Broker: Cloudlet 1529 received
+991.3588571428586: Broker: Cloudlet 1735 received
+991.6445714285729: Broker: Cloudlet 1741 received
+994.771428571432: Broker: Cloudlet 919 received
+995.0571428571463: Broker: Cloudlet 1531 received
+995.0571428571463: Broker: Cloudlet 921 received
+995.3428571428607: Broker: Cloudlet 925 received
+995.9142857142892: Broker: Cloudlet 926 received
+997.3588571428586: Broker: Cloudlet 1748 received
+997.9302857142872: Broker: Cloudlet 1750 received
+1000.2000000000036: Broker: Cloudlet 927 received
+1000.4857142857179: Broker: Cloudlet 929 received
+1000.7714285714322: Broker: Cloudlet 1532 received
+1001.0571428571466: Broker: Cloudlet 1533 received
+1003.6445714285728: Broker: Cloudlet 1752 received
+1004.7714285714322: Broker: Cloudlet 931 received
+1005.3428571428608: Broker: Cloudlet 1539 received
+1005.6285714285751: Broker: Cloudlet 1549 received
+1006.2000000000037: Broker: Cloudlet 1550 received
+1007.9302857142872: Broker: Cloudlet 1755 received
+1010.485714285718: Broker: Cloudlet 932 received
+1011.0571428571466: Broker: Cloudlet 934 received
+1011.9142857142895: Broker: Cloudlet 1552 received
+1012.2000000000038: Broker: Cloudlet 1553 received
+1013.6445714285728: Broker: Cloudlet 1756 received
+1014.2160000000014: Broker: Cloudlet 1766 received
+1016.4857142857181: Broker: Cloudlet 1555 received
+1016.7714285714325: Broker: Cloudlet 936 received
+1017.342857142861: Broker: Cloudlet 938 received
+1017.6285714285754: Broker: Cloudlet 941 received
+1018.2000000000039: Broker: Cloudlet 942 received
+1018.5017142857157: Broker: Cloudlet 1767 received
+1022.2000000000039: Broker: Cloudlet 1560 received
+1022.78742857143: Broker: Cloudlet 1775 received
+1023.3588571428586: Broker: Cloudlet 1778 received
+1023.9142857142896: Broker: Cloudlet 944 received
+1024.200000000004: Broker: Cloudlet 945 received
+1024.7714285714326: Broker: Cloudlet 946 received
+1025.0571428571468: Broker: Cloudlet 949 received
+1025.342857142861: Broker: Cloudlet 953 received
+1025.9142857142897: Broker: Cloudlet 954 received
+1027.6445714285728: Broker: Cloudlet 1779 received
+1027.9142857142897: Broker: Cloudlet 1564 received
+1027.930285714287: Broker: Cloudlet 1785 received
+1028.200000000004: Broker: Cloudlet 1565 received
+1030.200000000004: Broker: Cloudlet 955 received
+1030.4857142857181: Broker: Cloudlet 957 received
+1031.0571428571468: Broker: Cloudlet 958 received
+1032.2160000000013: Broker: Cloudlet 1791 received
+1032.4857142857181: Broker: Cloudlet 1575 received
+1032.5017142857155: Broker: Cloudlet 1793 received
+1036.7714285714324: Broker: Cloudlet 960 received
+1036.7874285714297: Broker: Cloudlet 1795 received
+1037.073142857144: Broker: Cloudlet 1797 received
+1038.2000000000037: Broker: Cloudlet 1576 received
+1038.7714285714324: Broker: Cloudlet 1578 received
+1042.4857142857181: Broker: Cloudlet 968 received
+1042.7874285714297: Broker: Cloudlet 1800 received
+1043.073142857144: Broker: Cloudlet 1801 received
+1044.4857142857181: Broker: Cloudlet 1580 received
+1047.3588571428581: Broker: Cloudlet 1803 received
+1048.200000000004: Broker: Cloudlet 976 received
+1048.4857142857181: Broker: Cloudlet 977 received
+1048.7714285714324: Broker: Cloudlet 1583 received
+1049.342857142861: Broker: Cloudlet 1586 received
+1051.6445714285724: Broker: Cloudlet 1811 received
+1053.6285714285752: Broker: Cloudlet 1591 received
+1053.9142857142895: Broker: Cloudlet 1593 received
+1054.2000000000037: Broker: Cloudlet 980 received
+1054.485714285718: Broker: Cloudlet 1602 received
+1054.7714285714321: Broker: Cloudlet 982 received
+1055.0571428571463: Broker: Cloudlet 1606 received
+1055.0571428571463: Broker: Cloudlet 985 received
+1055.628571428575: Broker: Cloudlet 986 received
+1055.9302857142866: Broker: Cloudlet 1815 received
+1059.3428571428608: Broker: Cloudlet 1607 received
+1060.2160000000008: Broker: Cloudlet 1819 received
+1060.501714285715: Broker: Cloudlet 1821 received
+1061.3428571428608: Broker: Cloudlet 988 received
+1064.7874285714292: Broker: Cloudlet 1827 received
+1065.0571428571466: Broker: Cloudlet 1608 received
+1065.6285714285752: Broker: Cloudlet 1610 received
+1065.6285714285752: Broker: Cloudlet 991 received
+1066.200000000004: Broker: Cloudlet 994 received
+1070.4857142857181: Broker: Cloudlet 995 received
+1070.501714285715: Broker: Cloudlet 1832 received
+1071.0731428571437: Broker: Cloudlet 1842 received
+1071.342857142861: Broker: Cloudlet 1616 received
+1071.9142857142897: Broker: Cloudlet 1618 received
+1075.358857142858: Broker: Cloudlet 1855 received
+1076.200000000004: Broker: Cloudlet 1627 received
+1076.200000000004: Broker: Cloudlet 996 received
+1080.4857142857181: Broker: Cloudlet 1631 received
+1080.4857142857181: Broker: Cloudlet 999 received
+1081.0571428571468: Broker: Cloudlet 1006 received
+1081.0731428571437: Broker: Cloudlet 1860 received
+1085.342857142861: Broker: Cloudlet 1011 received
+1086.200000000004: Broker: Cloudlet 1632 received
+1086.7874285714295: Broker: Cloudlet 1864 received
+1087.0731428571437: Broker: Cloudlet 1873 received
+1087.6445714285724: Broker: Cloudlet 1890 received
+1091.0571428571468: Broker: Cloudlet 1012 received
+1091.342857142861: Broker: Cloudlet 1013 received
+1091.9142857142897: Broker: Cloudlet 1636 received
+1091.9302857142866: Broker: Cloudlet 1891 received
+1092.200000000004: Broker: Cloudlet 1641 received
+1092.5017142857153: Broker: Cloudlet 1898 received
+1092.7714285714326: Broker: Cloudlet 1642 received
+1093.073142857144: Broker: Cloudlet 1902 received
+1093.3428571428612: Broker: Cloudlet 1646 received
+1097.057142857147: Broker: Cloudlet 1016 received
+1097.3428571428612: Broker: Cloudlet 1021 received
+1097.3588571428581: Broker: Cloudlet 1903 received
+1097.6285714285755: Broker: Cloudlet 1025 received
+1099.0571428571468: Broker: Cloudlet 1648 received
+1099.342857142861: Broker: Cloudlet 1649 received
+1103.073142857144: Broker: Cloudlet 1916 received
+1103.342857142861: Broker: Cloudlet 1028 received
+1103.3588571428581: Broker: Cloudlet 1917 received
+1103.6285714285752: Broker: Cloudlet 1651 received
+1103.6285714285752: Broker: Cloudlet 1029 received
+1103.9142857142895: Broker: Cloudlet 1653 received
+1103.9142857142895: Broker: Cloudlet 1033 received
+1104.4857142857181: Broker: Cloudlet 1654 received
+1108.200000000004: Broker: Cloudlet 1039 received
+1108.7714285714326: Broker: Cloudlet 1655 received
+1109.073142857144: Broker: Cloudlet 1924 received
+1109.3428571428612: Broker: Cloudlet 1662 received
+1109.6445714285726: Broker: Cloudlet 1926 received
+1113.6285714285755: Broker: Cloudlet 1663 received
+1113.9142857142897: Broker: Cloudlet 1040 received
+1114.4857142857184: Broker: Cloudlet 1042 received
+1115.3588571428584: Broker: Cloudlet 1928 received
+1115.6445714285726: Broker: Cloudlet 1929 received
+1118.7714285714326: Broker: Cloudlet 1043 received
+1119.0571428571468: Broker: Cloudlet 1049 received
+1119.342857142861: Broker: Cloudlet 1668 received
+1119.9302857142868: Broker: Cloudlet 1939 received
+1120.216000000001: Broker: Cloudlet 1941 received
+1120.7874285714297: Broker: Cloudlet 1946 received
+1123.342857142861: Broker: Cloudlet 1055 received
+1123.6285714285752: Broker: Cloudlet 1679 received
+1124.200000000004: Broker: Cloudlet 1682 received
+1126.5017142857155: Broker: Cloudlet 1948 received
+1129.0571428571468: Broker: Cloudlet 1056 received
+1129.342857142861: Broker: Cloudlet 1057 received
+1129.9142857142897: Broker: Cloudlet 1684 received
+1129.9142857142897: Broker: Cloudlet 1058 received
+1132.2160000000013: Broker: Cloudlet 1952 received
+1135.6285714285755: Broker: Cloudlet 1688 received
+1135.6285714285755: Broker: Cloudlet 1060 received
+1136.2000000000041: Broker: Cloudlet 1062 received
+1136.4857142857184: Broker: Cloudlet 1065 received
+1137.930285714287: Broker: Cloudlet 1960 received
+1140.7714285714326: Broker: Cloudlet 1067 received
+1141.3428571428612: Broker: Cloudlet 1696 received
+1141.6285714285755: Broker: Cloudlet 1697 received
+1143.6445714285728: Broker: Cloudlet 1968 received
+1143.930285714287: Broker: Cloudlet 1977 received
+1146.4857142857184: Broker: Cloudlet 1068 received
+1146.7714285714326: Broker: Cloudlet 1069 received
+1147.3428571428612: Broker: Cloudlet 1704 received
+1149.6445714285728: Broker: Cloudlet 1980 received
+1149.930285714287: Broker: Cloudlet 1981 received
+1150.5017142857157: Broker: Cloudlet 1982 received
+1151.057142857147: Broker: Cloudlet 1071 received
+1153.057142857147: Broker: Cloudlet 1708 received
+1153.6285714285757: Broker: Cloudlet 1710 received
+1155.3428571428615: Broker: Cloudlet 1079 received
+1156.2160000000015: Broker: Cloudlet 1988 received
+1159.3428571428615: Broker: Cloudlet 1712 received
+1159.6285714285757: Broker: Cloudlet 1717 received
+1160.5017142857157: Broker: Cloudlet 1991 received
+1160.78742857143: Broker: Cloudlet 1993 received
+1161.057142857147: Broker: Cloudlet 1080 received
+1161.3428571428612: Broker: Cloudlet 1081 received
+1161.91428571429: Broker: Cloudlet 1082 received
+1165.0731428571441: Broker: Cloudlet 1995 received
+1165.3428571428612: Broker: Cloudlet 1720 received
+1165.91428571429: Broker: Cloudlet 1722 received
+1166.2000000000041: Broker: Cloudlet 1725 received
+1167.6285714285755: Broker: Cloudlet 1088 received
+1170.4857142857184: Broker: Cloudlet 1731 received
+1170.7714285714326: Broker: Cloudlet 1737 received
+1170.78742857143: Broker: Cloudlet 1996 received
+1171.3588571428586: Broker: Cloudlet 1998 received
+1171.9142857142897: Broker: Cloudlet 1091 received
+1172.200000000004: Broker: Cloudlet 1093 received
+1172.7714285714326: Broker: Cloudlet 1098 received
+1176.4857142857184: Broker: Cloudlet 1744 received
+1176.7714285714326: Broker: Cloudlet 1749 received
+1177.0571428571468: Broker: Cloudlet 1753 received
+1177.0571428571468: Broker: Cloudlet 1099 received
+1181.342857142861: Broker: Cloudlet 1103 received
+1182.7714285714324: Broker: Cloudlet 1764 received
+1183.0571428571466: Broker: Cloudlet 1769 received
+1187.0571428571466: Broker: Cloudlet 1104 received
+1187.3428571428608: Broker: Cloudlet 1771 received
+1187.3428571428608: Broker: Cloudlet 1105 received
+1187.9142857142895: Broker: Cloudlet 1774 received
+1187.9142857142895: Broker: Cloudlet 1106 received
+1193.6285714285752: Broker: Cloudlet 1780 received
+1193.6285714285752: Broker: Cloudlet 1108 received
+1197.9142857142895: Broker: Cloudlet 1783 received
+1197.9142857142895: Broker: Cloudlet 1111 received
+1203.6285714285752: Broker: Cloudlet 1784 received
+1203.6285714285752: Broker: Cloudlet 1112 received
+1203.9142857142895: Broker: Cloudlet 1113 received
+1209.3428571428608: Broker: Cloudlet 1788 received
+1209.628571428575: Broker: Cloudlet 1789 received
+1209.628571428575: Broker: Cloudlet 1116 received
+1209.9142857142892: Broker: Cloudlet 1117 received
+1210.2000000000035: Broker: Cloudlet 1794 received
+1210.4857142857177: Broker: Cloudlet 1118 received
+1215.914285714289: Broker: Cloudlet 1796 received
+1216.2000000000032: Broker: Cloudlet 1120 received
+1216.4857142857174: Broker: Cloudlet 1798 received
+1217.0571428571461: Broker: Cloudlet 1806 received
+1221.914285714289: Broker: Cloudlet 1124 received
+1222.4857142857177: Broker: Cloudlet 1126 received
+1222.771428571432: Broker: Cloudlet 1808 received
+1228.2000000000032: Broker: Cloudlet 1132 received
+1228.4857142857174: Broker: Cloudlet 1812 received
+1228.4857142857174: Broker: Cloudlet 1133 received
+1228.7714285714317: Broker: Cloudlet 1813 received
+1229.3428571428603: Broker: Cloudlet 1818 received
+1232.7714285714317: Broker: Cloudlet 1135 received
+1233.6285714285746: Broker: Cloudlet 1823 received
+1237.057142857146: Broker: Cloudlet 1139 received
+1237.6285714285746: Broker: Cloudlet 1142 received
+1237.9142857142888: Broker: Cloudlet 1835 received
+1238.200000000003: Broker: Cloudlet 1150 received
+1242.200000000003: Broker: Cloudlet 1847 received
+1242.4857142857172: Broker: Cloudlet 1155 received
+1242.7714285714314: Broker: Cloudlet 1157 received
+1243.0571428571457: Broker: Cloudlet 1161 received
+1243.6285714285743: Broker: Cloudlet 1166 received
+1243.9142857142886: Broker: Cloudlet 1173 received
+1244.2000000000028: Broker: Cloudlet 1177 received
+1244.485714285717: Broker: Cloudlet 1181 received
+1244.7714285714312: Broker: Cloudlet 1185 received
+1245.3428571428599: Broker: Cloudlet 1186 received
+1247.9142857142886: Broker: Cloudlet 1848 received
+1251.0571428571457: Broker: Cloudlet 1188 received
+1251.3428571428599: Broker: Cloudlet 1189 received
+1251.9142857142886: Broker: Cloudlet 1190 received
+1252.2000000000028: Broker: Cloudlet 1851 received
+1252.2000000000028: Broker: Cloudlet 1197 received
+1252.7714285714314: Broker: Cloudlet 1198 received
+1253.0571428571457: Broker: Cloudlet 1209 received
+1253.6285714285743: Broker: Cloudlet 1210 received
+1257.9142857142886: Broker: Cloudlet 1852 received
+1257.9142857142886: Broker: Cloudlet 1211 received
+1258.4857142857172: Broker: Cloudlet 1858 received
+1258.7714285714314: Broker: Cloudlet 1865 received
+1263.0571428571457: Broker: Cloudlet 1867 received
+1263.6285714285743: Broker: Cloudlet 1212 received
+1267.9142857142886: Broker: Cloudlet 1215 received
+1268.7714285714314: Broker: Cloudlet 1868 received
+1273.6285714285743: Broker: Cloudlet 1216 received
+1273.9142857142886: Broker: Cloudlet 1217 received
+1274.4857142857172: Broker: Cloudlet 1872 received
+1274.4857142857172: Broker: Cloudlet 1218 received
+1275.057142857146: Broker: Cloudlet 1874 received
+1278.7714285714317: Broker: Cloudlet 1219 received
+1280.7714285714317: Broker: Cloudlet 1876 received
+1281.057142857146: Broker: Cloudlet 1877 received
+1284.4857142857172: Broker: Cloudlet 1220 received
+1285.057142857146: Broker: Cloudlet 1222 received
+1285.34285714286: Broker: Cloudlet 1879 received
+1285.6285714285743: Broker: Cloudlet 1885 received
+1285.9142857142886: Broker: Cloudlet 1889 received
+1290.2000000000028: Broker: Cloudlet 1895 received
+1290.7714285714314: Broker: Cloudlet 1228 received
+1291.34285714286: Broker: Cloudlet 1230 received
+1294.4857142857172: Broker: Cloudlet 1911 received
+1295.6285714285743: Broker: Cloudlet 1231 received
+1300.200000000003: Broker: Cloudlet 1920 received
+1300.7714285714317: Broker: Cloudlet 1930 received
+1301.3428571428603: Broker: Cloudlet 1232 received
+1305.0571428571461: Broker: Cloudlet 1935 received
+1305.6285714285748: Broker: Cloudlet 1235 received
+1309.914285714289: Broker: Cloudlet 1239 received
+1310.771428571432: Broker: Cloudlet 1944 received
+1315.0571428571461: Broker: Cloudlet 1955 received
+1315.6285714285748: Broker: Cloudlet 1240 received
+1316.2000000000035: Broker: Cloudlet 1246 received
+1316.7714285714321: Broker: Cloudlet 1254 received
+1319.3428571428608: Broker: Cloudlet 1959 received
+1321.0571428571466: Broker: Cloudlet 1255 received
+1321.6285714285752: Broker: Cloudlet 1258 received
+1321.9142857142895: Broker: Cloudlet 1261 received
+1325.0571428571466: Broker: Cloudlet 1964 received
+1325.6285714285752: Broker: Cloudlet 1966 received
+1326.200000000004: Broker: Cloudlet 1263 received
+1326.7714285714326: Broker: Cloudlet 1266 received
+1329.9142857142897: Broker: Cloudlet 1967 received
+1330.4857142857184: Broker: Cloudlet 1978 received
+1330.7714285714326: Broker: Cloudlet 1989 received
+1331.3428571428612: Broker: Cloudlet 1994 received
+1332.4857142857184: Broker: Cloudlet 1268 received
+1332.7714285714326: Broker: Cloudlet 1269 received
+1337.0571428571468: Broker: Cloudlet 1271 received
+1337.342857142861: Broker: Cloudlet 1273 received
+1341.6285714285752: Broker: Cloudlet 1275 received
+1347.342857142861: Broker: Cloudlet 1276 received
+1347.9142857142897: Broker: Cloudlet 1278 received
+1348.200000000004: Broker: Cloudlet 1281 received
+1352.4857142857181: Broker: Cloudlet 1283 received
+1358.200000000004: Broker: Cloudlet 1284 received
+1363.9142857142897: Broker: Cloudlet 1288 received
+1368.200000000004: Broker: Cloudlet 1291 received
+1373.9142857142897: Broker: Cloudlet 1292 received
+1374.200000000004: Broker: Cloudlet 1297 received
+1379.9142857142897: Broker: Cloudlet 1300 received
+1380.4857142857184: Broker: Cloudlet 1302 received
+1386.2000000000041: Broker: Cloudlet 1304 received
+1386.4857142857184: Broker: Cloudlet 1305 received
+1387.057142857147: Broker: Cloudlet 1306 received
+1392.7714285714328: Broker: Cloudlet 1308 received
+1393.057142857147: Broker: Cloudlet 1309 received
+1398.7714285714328: Broker: Cloudlet 1312 received
+1399.057142857147: Broker: Cloudlet 1313 received
+1399.6285714285757: Broker: Cloudlet 1314 received
+1403.91428571429: Broker: Cloudlet 1315 received
+1409.6285714285757: Broker: Cloudlet 1320 received
+1415.3428571428615: Broker: Cloudlet 1324 received
+1415.9142857142901: Broker: Cloudlet 1326 received
+1416.2000000000044: Broker: Cloudlet 1329 received
+1421.9142857142901: Broker: Cloudlet 1332 received
+1422.2000000000044: Broker: Cloudlet 1333 received
+1426.4857142857186: Broker: Cloudlet 1339 received
+1426.7714285714328: Broker: Cloudlet 1341 received
+1432.4857142857186: Broker: Cloudlet 1344 received
+1433.0571428571473: Broker: Cloudlet 1346 received
+1437.3428571428615: Broker: Cloudlet 1347 received
+1437.9142857142901: Broker: Cloudlet 1350 received
+1442.2000000000044: Broker: Cloudlet 1351 received
+1442.4857142857186: Broker: Cloudlet 1353 received
+1443.0571428571473: Broker: Cloudlet 1354 received
+1447.3428571428615: Broker: Cloudlet 1355 received
+1451.6285714285757: Broker: Cloudlet 1359 received
+1451.91428571429: Broker: Cloudlet 1361 received
+1456.2000000000041: Broker: Cloudlet 1363 received
+1456.4857142857184: Broker: Cloudlet 1369 received
+1457.057142857147: Broker: Cloudlet 1370 received
+1457.6285714285757: Broker: Cloudlet 1374 received
+1463.3428571428615: Broker: Cloudlet 1376 received
+1463.9142857142901: Broker: Cloudlet 1378 received
+1468.2000000000044: Broker: Cloudlet 1379 received
+1472.4857142857186: Broker: Cloudlet 1383 received
+1476.7714285714328: Broker: Cloudlet 1387 received
+1482.4857142857186: Broker: Cloudlet 1388 received
+1483.0571428571473: Broker: Cloudlet 1390 received
+1487.3428571428615: Broker: Cloudlet 1391 received
+1493.0571428571473: Broker: Cloudlet 1392 received
+1497.3428571428615: Broker: Cloudlet 1395 received
+1503.0571428571473: Broker: Cloudlet 1396 received
+1503.3428571428615: Broker: Cloudlet 1397 received
+1507.6285714285757: Broker: Cloudlet 1399 received
+1513.3428571428615: Broker: Cloudlet 1400 received
+1513.6285714285757: Broker: Cloudlet 1401 received
+1513.91428571429: Broker: Cloudlet 1409 received
+1514.2000000000041: Broker: Cloudlet 1417 received
+1518.4857142857184: Broker: Cloudlet 1419 received
+1518.7714285714326: Broker: Cloudlet 1421 received
+1519.3428571428612: Broker: Cloudlet 1422 received
+1523.6285714285755: Broker: Cloudlet 1423 received
+1523.9142857142897: Broker: Cloudlet 1425 received
+1524.4857142857184: Broker: Cloudlet 1426 received
+1528.7714285714326: Broker: Cloudlet 1427 received
+1529.0571428571468: Broker: Cloudlet 1429 received
+1529.342857142861: Broker: Cloudlet 1433 received
+1533.6285714285752: Broker: Cloudlet 1435 received
+1533.9142857142895: Broker: Cloudlet 1437 received
+1534.4857142857181: Broker: Cloudlet 1438 received
+1538.7714285714324: Broker: Cloudlet 1439 received
+1544.4857142857181: Broker: Cloudlet 1440 received
+1544.7714285714324: Broker: Cloudlet 1441 received
+1545.342857142861: Broker: Cloudlet 1442 received
+1551.0571428571468: Broker: Cloudlet 1448 received
+1551.6285714285755: Broker: Cloudlet 1454 received
+1557.3428571428612: Broker: Cloudlet 1456 received
+1557.6285714285755: Broker: Cloudlet 1457 received
+1561.9142857142897: Broker: Cloudlet 1463 received
+1562.200000000004: Broker: Cloudlet 1465 received
+1566.4857142857181: Broker: Cloudlet 1467 received
+1566.7714285714324: Broker: Cloudlet 1469 received
+1572.4857142857181: Broker: Cloudlet 1476 received
+1573.0571428571468: Broker: Cloudlet 1478 received
+1577.342857142861: Broker: Cloudlet 1479 received
+1577.6285714285752: Broker: Cloudlet 1481 received
+1581.9142857142895: Broker: Cloudlet 1483 received
+1587.6285714285752: Broker: Cloudlet 1484 received
+1588.200000000004: Broker: Cloudlet 1486 received
+1592.4857142857181: Broker: Cloudlet 1487 received
+1592.7714285714324: Broker: Cloudlet 1493 received
+1593.342857142861: Broker: Cloudlet 1494 received
+1599.0571428571468: Broker: Cloudlet 1504 received
+1599.342857142861: Broker: Cloudlet 1505 received
+1599.9142857142897: Broker: Cloudlet 1506 received
+1604.200000000004: Broker: Cloudlet 1507 received
+1604.4857142857181: Broker: Cloudlet 1509 received
+1608.7714285714324: Broker: Cloudlet 1515 received
+1613.0571428571466: Broker: Cloudlet 1519 received
+1617.3428571428608: Broker: Cloudlet 1523 received
+1623.0571428571466: Broker: Cloudlet 1524 received
+1623.6285714285752: Broker: Cloudlet 1530 received
+1629.342857142861: Broker: Cloudlet 1536 received
+1629.9142857142897: Broker: Cloudlet 1538 received
+1635.6285714285755: Broker: Cloudlet 1540 received
+1635.9142857142897: Broker: Cloudlet 1541 received
+1636.4857142857184: Broker: Cloudlet 1542 received
+1640.7714285714326: Broker: Cloudlet 1543 received
+1646.4857142857184: Broker: Cloudlet 1544 received
+1650.7714285714326: Broker: Cloudlet 1547 received
+1651.3428571428612: Broker: Cloudlet 1554 received
+1657.057142857147: Broker: Cloudlet 1556 received
+1657.6285714285757: Broker: Cloudlet 1562 received
+1661.91428571429: Broker: Cloudlet 1563 received
+1666.2000000000041: Broker: Cloudlet 1567 received
+1666.4857142857184: Broker: Cloudlet 1569 received
+1667.057142857147: Broker: Cloudlet 1570 received
+1672.7714285714328: Broker: Cloudlet 1572 received
+1673.057142857147: Broker: Cloudlet 1573 received
+1673.3428571428612: Broker: Cloudlet 1577 received
+1677.6285714285755: Broker: Cloudlet 1579 received
+1677.9142857142897: Broker: Cloudlet 1581 received
+1678.4857142857184: Broker: Cloudlet 1582 received
+1678.7714285714326: Broker: Cloudlet 1585 received
+1683.0571428571468: Broker: Cloudlet 1587 received
+1683.342857142861: Broker: Cloudlet 1589 received
+1683.9142857142897: Broker: Cloudlet 1590 received
+1684.4857142857184: Broker: Cloudlet 1594 received
+1688.7714285714326: Broker: Cloudlet 1595 received
+1689.3428571428612: Broker: Cloudlet 1598 received
+1695.057142857147: Broker: Cloudlet 1600 received
+1695.3428571428612: Broker: Cloudlet 1601 received
+1699.6285714285755: Broker: Cloudlet 1603 received
+1699.9142857142897: Broker: Cloudlet 1605 received
+1704.200000000004: Broker: Cloudlet 1611 received
+1709.9142857142897: Broker: Cloudlet 1612 received
+1710.200000000004: Broker: Cloudlet 1613 received
+1710.7714285714326: Broker: Cloudlet 1622 received
+1716.4857142857184: Broker: Cloudlet 1624 received
+1717.057142857147: Broker: Cloudlet 1626 received
+1722.7714285714328: Broker: Cloudlet 1628 received
+1723.057142857147: Broker: Cloudlet 1629 received
+1723.6285714285757: Broker: Cloudlet 1634 received
+1724.2000000000044: Broker: Cloudlet 1638 received
+1729.9142857142901: Broker: Cloudlet 1640 received
+1734.2000000000044: Broker: Cloudlet 1647 received
+1738.4857142857186: Broker: Cloudlet 1659 received
+1739.0571428571473: Broker: Cloudlet 1666 received
+1739.628571428576: Broker: Cloudlet 1670 received
+1743.9142857142901: Broker: Cloudlet 1671 received
+1744.2000000000044: Broker: Cloudlet 1673 received
+1744.771428571433: Broker: Cloudlet 1674 received
+1749.0571428571473: Broker: Cloudlet 1675 received
+1754.771428571433: Broker: Cloudlet 1676 received
+1755.0571428571473: Broker: Cloudlet 1685 received
+1755.3428571428615: Broker: Cloudlet 1689 received
+1755.6285714285757: Broker: Cloudlet 1693 received
+1759.91428571429: Broker: Cloudlet 1695 received
+1764.2000000000041: Broker: Cloudlet 1699 received
+1769.91428571429: Broker: Cloudlet 1700 received
+1770.4857142857186: Broker: Cloudlet 1702 received
+1774.7714285714328: Broker: Cloudlet 1707 received
+1775.057142857147: Broker: Cloudlet 1709 received
+1779.3428571428612: Broker: Cloudlet 1711 received
+1779.91428571429: Broker: Cloudlet 1714 received
+1785.6285714285757: Broker: Cloudlet 1716 received
+1789.91428571429: Broker: Cloudlet 1719 received
+1790.2000000000041: Broker: Cloudlet 1721 received
+1794.4857142857184: Broker: Cloudlet 1727 received
+1800.2000000000041: Broker: Cloudlet 1732 received
+1800.7714285714328: Broker: Cloudlet 1734 received
+1806.4857142857186: Broker: Cloudlet 1736 received
+1810.7714285714328: Broker: Cloudlet 1739 received
+1816.4857142857186: Broker: Cloudlet 1740 received
+1817.0571428571473: Broker: Cloudlet 1742 received
+1817.3428571428615: Broker: Cloudlet 1745 received
+1817.9142857142901: Broker: Cloudlet 1746 received
+1822.2000000000044: Broker: Cloudlet 1747 received
+1822.4857142857186: Broker: Cloudlet 1757 received
+1823.0571428571473: Broker: Cloudlet 1758 received
+1827.3428571428615: Broker: Cloudlet 1759 received
+1833.0571428571473: Broker: Cloudlet 1760 received
+1833.3428571428615: Broker: Cloudlet 1761 received
+1833.9142857142901: Broker: Cloudlet 1762 received
+1838.2000000000044: Broker: Cloudlet 1763 received
+1843.9142857142901: Broker: Cloudlet 1768 received
+1849.628571428576: Broker: Cloudlet 1772 received
+1849.9142857142901: Broker: Cloudlet 1773 received
+1855.628571428576: Broker: Cloudlet 1776 received
+1855.9142857142901: Broker: Cloudlet 1777 received
+1856.2000000000044: Broker: Cloudlet 1781 received
+1860.4857142857186: Broker: Cloudlet 1787 received
+1861.0571428571473: Broker: Cloudlet 1790 received
+1866.771428571433: Broker: Cloudlet 1792 received
+1871.0571428571473: Broker: Cloudlet 1799 received
+1871.3428571428615: Broker: Cloudlet 1805 received
+1875.6285714285757: Broker: Cloudlet 1807 received
+1875.91428571429: Broker: Cloudlet 1809 received
+1876.4857142857186: Broker: Cloudlet 1810 received
+1876.7714285714328: Broker: Cloudlet 1817 received
+1882.4857142857186: Broker: Cloudlet 1820 received
+1883.0571428571473: Broker: Cloudlet 1822 received
+1883.3428571428615: Broker: Cloudlet 1825 received
+1883.6285714285757: Broker: Cloudlet 1829 received
+1884.2000000000044: Broker: Cloudlet 1830 received
+1888.4857142857186: Broker: Cloudlet 1831 received
+1889.0571428571473: Broker: Cloudlet 1834 received
+1894.771428571433: Broker: Cloudlet 1836 received
+1895.0571428571473: Broker: Cloudlet 1837 received
+1895.628571428576: Broker: Cloudlet 1838 received
+1901.3428571428617: Broker: Cloudlet 1840 received
+1905.628571428576: Broker: Cloudlet 1843 received
+1911.3428571428617: Broker: Cloudlet 1844 received
+1911.628571428576: Broker: Cloudlet 1845 received
+1912.2000000000046: Broker: Cloudlet 1846 received
+1912.4857142857188: Broker: Cloudlet 1849 received
+1913.0571428571475: Broker: Cloudlet 1850 received
+1913.3428571428617: Broker: Cloudlet 1853 received
+1913.9142857142904: Broker: Cloudlet 1854 received
+1914.2000000000046: Broker: Cloudlet 1857 received
+1918.4857142857188: Broker: Cloudlet 1859 received
+1918.771428571433: Broker: Cloudlet 1861 received
+1923.0571428571473: Broker: Cloudlet 1863 received
+1923.628571428576: Broker: Cloudlet 1866 received
+1927.9142857142901: Broker: Cloudlet 1871 received
+1928.4857142857188: Broker: Cloudlet 1878 received
+1934.2000000000046: Broker: Cloudlet 1880 received
+1934.4857142857188: Broker: Cloudlet 1881 received
+1938.771428571433: Broker: Cloudlet 1883 received
+1944.4857142857188: Broker: Cloudlet 1884 received
+1945.0571428571475: Broker: Cloudlet 1886 received
+1950.7714285714333: Broker: Cloudlet 1888 received
+1956.485714285719: Broker: Cloudlet 1892 received
+1956.7714285714333: Broker: Cloudlet 1893 received
+1962.485714285719: Broker: Cloudlet 1896 received
+1962.7714285714333: Broker: Cloudlet 1897 received
+1967.0571428571475: Broker: Cloudlet 1899 received
+1967.3428571428617: Broker: Cloudlet 1901 received
+1973.0571428571475: Broker: Cloudlet 1904 received
+1973.3428571428617: Broker: Cloudlet 1905 received
+1977.628571428576: Broker: Cloudlet 1907 received
+1983.3428571428617: Broker: Cloudlet 1908 received
+1983.628571428576: Broker: Cloudlet 1909 received
+1984.2000000000046: Broker: Cloudlet 1910 received
+1989.9142857142904: Broker: Cloudlet 1912 received
+1990.485714285719: Broker: Cloudlet 1914 received
+1994.7714285714333: Broker: Cloudlet 1915 received
+1995.342857142862: Broker: Cloudlet 1918 received
+1999.6285714285762: Broker: Cloudlet 1919 received
+1999.9142857142904: Broker: Cloudlet 1921 received
+2000.485714285719: Broker: Cloudlet 1922 received
+2000.7714285714333: Broker: Cloudlet 1925 received
+2005.0571428571475: Broker: Cloudlet 1927 received
+2010.7714285714333: Broker: Cloudlet 1932 received
+2016.485714285719: Broker: Cloudlet 1936 received
+2016.7714285714333: Broker: Cloudlet 1937 received
+2017.342857142862: Broker: Cloudlet 1938 received
+2017.9142857142906: Broker: Cloudlet 1942 received
+2022.2000000000048: Broker: Cloudlet 1943 received
+2022.485714285719: Broker: Cloudlet 1945 received
+2026.7714285714333: Broker: Cloudlet 1947 received
+2027.0571428571475: Broker: Cloudlet 1949 received
+2027.6285714285762: Broker: Cloudlet 1950 received
+2031.9142857142904: Broker: Cloudlet 1951 received
+2032.2000000000046: Broker: Cloudlet 1953 received
+2032.7714285714333: Broker: Cloudlet 1954 received
+2038.485714285719: Broker: Cloudlet 1956 received
+2038.7714285714333: Broker: Cloudlet 1957 received
+2039.342857142862: Broker: Cloudlet 1958 r
